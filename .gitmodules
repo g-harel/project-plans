@@ -1,0 +1,9 @@
+[submodule "existing-tv-stand"]
+	path = existing-tv-stand
+	url = git@github.com:g-harel/existing-tv-stand.git
+[submodule "euro-box-shelves"]
+	path = euro-box-shelves
+	url = git@github.com:g-harel/euro-box-shelves.git
+[submodule "console-table-drawer-box"]
+	path = console-table-drawer-box
+	url = git@github.com:g-harel/console-table-drawer-box.git
