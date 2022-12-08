@@ -7,3 +7,6 @@
 [submodule "console-table-drawer-box"]
 	path = console-table-drawer-box
 	url = git@github.com:g-harel/console-table-drawer-box.git
+[submodule "retro-dog-house"]
+	path = retro-dog-house
+	url = git@github.com:g-harel/retro-dog-house.git
