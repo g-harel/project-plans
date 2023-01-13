@@ -4,9 +4,16 @@
 
 # Projects
 
+## Topper Block |
+
+Lidded box to store Wyrmwood table leaves when not being used.
+
+|||
+:-------------------------:|:-------------------------:
+<img src="https://github.com/g-harel/topper-block/blob/main/images/collage.jpg?raw=true" width="300">
+
 ## Topper Block
 
-[![collage](./topper-block/images/collage.jpg)](./topper-block/)
 
 ## LICENSE
 
