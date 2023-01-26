@@ -4,16 +4,10 @@
 
 # Projects
 
-## Topper Block |
-
-Lidded box to store Wyrmwood table leaves when not being used.
-
-|||
-:-------------------------:|:-------------------------:
-<img src="https://github.com/g-harel/topper-block/blob/main/images/collage.jpg?raw=true" width="300">
-
-## Topper Block
-
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <a href="https://github.com/g-harel/existing-tv-stand"><img width="1604" src="https://github.com/g-harel/existing-tv-stand/blob/main/collage.jpg?raw=true"> | <a href="https://github.com/g-harel/console-table-drawer-box"><img width="1604" src="https://github.com/g-harel/console-table-drawer-box/blob/main/images/drawer1.png?raw=true"> | <a href="https://github.com/g-harel/euro-box-shelves"><img width="1604" src="https://github.com/g-harel/euro-box-shelves/blob/main/images/shelves1.png?raw=true"> |
+| <a href="https://github.com/g-harel/topper-block"><img width="1604" src="https://github.com/g-harel/topper-block/blob/main/images/leafs1.png?raw=true"> | | |
 
 ## LICENSE
 

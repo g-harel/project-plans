@@ -13,3 +13,6 @@
 [submodule "topper-block"]
 	path = topper-block
 	url = git@github.com:g-harel/topper-block.git
+[submodule "micro-workbench"]
+	path = micro-workbench
+	url = git@github.com:g-harel/micro-workbench.git
