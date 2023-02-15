@@ -16,3 +16,6 @@
 [submodule "micro-workbench"]
 	path = micro-workbench
 	url = git@github.com:g-harel/micro-workbench.git
+[submodule "tic-tac-toilet-paper-holder"]
+	path = tic-tac-toilet-paper-holder
+	url = git@github.com:g-harel/tic-tac-toilet-paper-holder.git
