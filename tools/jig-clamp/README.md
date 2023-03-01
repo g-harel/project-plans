@@ -6,8 +6,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/90670A029">
-                <img src="https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/906/90670A029p1-b01-digitall@100p_636713273741810000.png?ver=ImageNotFound"
-                    srcset=" https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/906/90670A029p1-b01-digitall@100p_636713273741810000.png?ver=ImageNotFound 1x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/906/90670A029p1-b01-digitall@200p_636713273741810000.png?ver=ImageNotFound 2x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/906/90670A029p1-b01-digitall@300p_636713273741810000.png?ver=ImageNotFound 3x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/906/90670A029p1-b01-digitall@400p_636713273741810000.png?ver=ImageNotFound 4x  ">
+                <img src="./images/nut.png">
             </a>
         </td>
         <td>
@@ -29,8 +28,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/92220A185">
-                <img src="https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/922/92220A185p1-b01-digitall@100p_637015934726224004.png?ver=ImageNotFound"
-                    srcset=" https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/922/92220A185p1-b01-digitall@100p_637015934726224004.png?ver=ImageNotFound 1x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/922/92220A185p1-b01-digitall@200p_637015934726224004.png?ver=ImageNotFound 2x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/922/92220A185p1-b01-digitall@300p_637015934726224004.png?ver=ImageNotFound 3x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/922/92220A185p1-b01-digitall@400p_637015934726224004.png?ver=ImageNotFound 4x">
+                <img src="./images/bolt.png">
             </a>
         </td>
         <td>
@@ -52,8 +50,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/2313N48">
-                <img src="https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/231/2313n51c1-h02d-digital-master1552006898-p9@100p_636598984647670000.png?ver=ImageNotFound"
-                    srcset=" https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/231/2313n51c1-h02d-digital-master1552006898-p9@100p_636598984647670000.png?ver=ImageNotFound 1x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/231/2313n51c1-h02d-digital-master1552006898-p9@200p_636598984647670000.png?ver=ImageNotFound 2x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/231/2313n51c1-h02d-digital-master1552006898-p9@300p_636598984647670000.png?ver=ImageNotFound 3x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/231/2313n51c1-h02d-digital-master1552006898-p9@400p_636598984647670000.png?ver=ImageNotFound 4x">
+                <img src="./images/bracket.png">
             </a>
         </td>
         <td>
@@ -75,8 +72,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/90747A170">
-                <img src="https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165a414-b01@100p_636966404132685992.png?ver=ImageNotFound"
-                    srcset=" https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165a414-b01@100p_636966404132685992.png?ver=ImageNotFound 1x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165a414-b01@200p_636966404132685992.png?ver=ImageNotFound 2x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165a414-b01@300p_636966404132685992.png?ver=ImageNotFound 3x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165a414-b01@400p_636966404132685992.png?ver=ImageNotFound 4x">
+                <img src="./images/clamp.png">
             </a>
         </td>
         <td>
@@ -98,8 +94,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/90165A602">
-                <img src="https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165A602p1-b01-digitall@100p_636966132328432086.png?ver=ImageNotFound"
-                    srcset=" https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165A602p1-b01-digitall@100p_636966132328432086.png?ver=ImageNotFound 1x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165A602p1-b01-digitall@200p_636966132328432086.png?ver=ImageNotFound 2x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165A602p1-b01-digitall@300p_636966132328432086.png?ver=ImageNotFound 3x, https://www.mcmaster.com/mvZ/Contents/gfx/ImageCache/901/90165A602p1-b01-digitall@400p_636966132328432086.png?ver=ImageNotFound 4x">
+                <img src="./images/tip.png">
             </a>
         </td>
         <td>
