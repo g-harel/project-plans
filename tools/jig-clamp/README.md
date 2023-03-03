@@ -2,11 +2,13 @@
 
 > Clamping solution for JessEm doweling jig.
 
+## Parts
+
 <table>
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/90670A029">
-                <img src="./images/nut.png">
+                <img width="100" src="./images/nut.png">
             </a>
         </td>
         <td>
@@ -20,7 +22,7 @@
             Pack of 100
         </td>
         <td>
-            $9.81<br>
+            9.81<br>
             Pack
         </td>
         <td>$9.81</td>
@@ -28,7 +30,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/92220A185">
-                <img src="./images/bolt.png">
+                <img width="100" src="./images/bolt.png">
             </a>
         </td>
         <td>
@@ -50,7 +52,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/2313N48">
-                <img src="./images/bracket.png">
+                <img width="100" src="./images/bracket.png">
             </a>
         </td>
         <td>
@@ -72,7 +74,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/90747A170">
-                <img src="./images/clamp.png">
+                <img width="100" src="./images/clamp.png">
             </a>
         </td>
         <td>
@@ -94,7 +96,7 @@
     <tr>
         <td>
             <a href="https://www.mcmaster.com/catalog/90165A602">
-                <img src="./images/tip.png">
+                <img width="100" src="./images/tip.png">
             </a>
         </td>
         <td>
@@ -108,6 +110,26 @@
         </td>
         <td>
             5.00<br>
+            Each
+        </td>
+        <td>10.00</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://amzn.com/dp/B00RN7CT2U">
+                <img width="100" src="./images/putty.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="https://amzn.com/dp/B00RN7CT2U">
+                JB Weld Epoxy Putty
+            </a>
+        <td>
+            1<br>
+            2 oz Stick
+        </td>
+        <td>
+            6.54<br>
             Each
         </td>
         <td>10.00</td>
