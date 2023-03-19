@@ -12,6 +12,8 @@
 4. rip trim then cut to 60mm strips    | 3x [A3]          ==  6x [A4]  + 3x [A5]
 4. cross cut 608mm +5                  | 4x [B] + 5x [B2] ==  9x [B3]  + 9x [#]
 5. _flip & trim_** to 608mm            | 9x [B3]          ==  9x [B4]  + 9x [#]
-6. rip trim non-reference to 608mm     | 9x [A3]          ==  9x [A5]* + 9x [#]
+6. rip trim non-reference to 608mm     | 9x [A3]          ==  9x [A7]* + 9x [#]
+7. rip trim then cut to 218mm          | 3x [A5]          ==  6x [A6]* + 3x [#]
+8. rip trim then cut to 218mm          | 9x [A2]          ==  9x [A8]  + 9x [#] 
 
 ** _flip & trim_: flip the panel over when cutting the opposite edge to maintain the same reference edge.
