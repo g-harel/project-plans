@@ -29,11 +29,19 @@
 [ ] laminate 3x tops
 [ ] parf two sides
 [ ] parf 2x laminated tops
+[ ] chamfer parf holes
 [ ] soften underside/inside of dogholes in 2x tops 2x sides
 [ ] assemble 3x base frames
 [ ] cut 2x alignment metre sticks
-[ ] assemble tops
-[ ] assemble bottoms
+[ ] router slot in base 6x sides + 3x bottoms + 3x base frames
+[ ] assemble bases with glue and nails
+[ ] pre-drill then screw base pieces
+[ ] round over base pieces
+[ ] attach wheels
+[ ] assemble tops with glue and nails (minus tabletop)
+[ ] attach tabletops centered & using screws
+[ ] flush trim tabletops
+[ ] round over tops
 
 
 ** _flip & trim_: flip the panel over when cutting the opposite edge to maintain the same reference edge.
