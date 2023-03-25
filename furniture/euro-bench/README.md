@@ -24,13 +24,13 @@
 [x] _cut everything else (TODO)_
 [ ] cut out holes in 9x fronts 4x sides
 [ ] router holes in all fronts and sides
-[ ] test applying laminate on scrap
+[x] test applying laminate on scrap
 [ ] test using parf parts on laminated scrap
 [ ] laminate 3x tops
-[ ] parf two sides
+[7] parf 2x sides
 [ ] parf 2x laminated tops
-[ ] chamfer parf holes
-[ ] soften underside/inside of dogholes in 2x tops 2x sides
+[1] chamfer parf holes
+[1] soften underside/inside of dogholes in 2x tops 2x sides
 [ ] assemble 3x base frames
 [ ] cut 2x alignment metre sticks
 [ ] router slot in base 6x sides + 3x bottoms + 3x base frames
