@@ -22,16 +22,16 @@
 [x] cross trim then cut two 517mm       | 2x [C]           ==  3x [C1]  + 3x [#]
 [x] rip cut 416mm                       | 3x [C1]          ==  3x [C2]* + 3x [#]
 [x] _cut everything else (TODO)_
-[ ] cut out holes in 9x fronts 4x sides
+[3] cut out holes in 9x fronts 4x sides
 [ ] router holes in all fronts and sides
 [x] test applying laminate on scrap
-[ ] test using parf parts on laminated scrap
+[x] test using parf parts on laminated scrap
 [ ] laminate 3x tops
-[7] parf 2x sides
+[x] parf 2x sides
 [ ] parf 2x laminated tops
 [1] chamfer parf holes
 [1] soften underside/inside of dogholes in 2x tops 2x sides
-[ ] assemble 3x base frames
+[2] assemble 3x base frames
 [ ] cut 2x alignment metre sticks
 [ ] router slot in base 6x sides + 3x bottoms + 3x base frames
 [ ] assemble bases with glue and nails
