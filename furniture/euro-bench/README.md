@@ -26,6 +26,7 @@
 [ ] router holes in all fronts and sides
 [x] test applying laminate on scrap
 [x] test using parf parts on laminated scrap
+[x] cut 3x laminates for tops
 [ ] laminate 3x tops
 [x] parf 2x sides
 [ ] parf 2x laminated tops
