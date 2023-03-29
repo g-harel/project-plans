@@ -27,14 +27,15 @@
 [x] test applying laminate on scrap
 [x] test using parf parts on laminated scrap
 [x] cut 3x laminates for tops
-[ ] laminate 3x tops
+[3] laminate 3x tops
 [x] parf 2x sides
 [ ] parf 2x laminated tops
-[1] chamfer parf holes
-[1] soften underside/inside of dogholes in 2x tops 2x sides
-[2] assemble 3x base frames
-[ ] cut 2x alignment metre sticks
+[3] chamfer parf holes
+[ ] add joinery to base frames
+[ ] assemble 3x base frames
+[ ] cut 2x alignment middle divider reference sticks
 [ ] router slot in base 6x sides + 3x bottoms + 3x base frames
+[ ] add joinery to base parts
 [ ] assemble bases with glue and nails
 [ ] pre-drill then screw base pieces
 [ ] round over base pieces
