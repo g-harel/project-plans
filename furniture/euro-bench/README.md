@@ -27,7 +27,7 @@
 [x] test applying laminate on scrap
 [x] test using parf parts on laminated scrap
 [x] cut 3x laminates for tops
-[8] laminate 3x tops
+[x] laminate 3x tops
 [x] parf 2x sides
 [ ] parf 2x laminated tops
 [3] chamfer parf holes
