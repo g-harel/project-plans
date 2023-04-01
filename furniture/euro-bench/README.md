@@ -22,8 +22,6 @@
 [x] cross trim then cut two 517mm       | 2x [C]           ==  3x [C1]  + 3x [#]
 [x] rip cut 416mm                       | 3x [C1]          ==  3x [C2]* + 3x [#]
 [x] _cut everything else (TODO)_
-[3] cut out holes in 9x fronts 4x sides
-[ ] router holes in all fronts and sides
 [x] test applying laminate on scrap
 [x] test using parf parts on laminated scrap
 [x] cut 3x laminates for tops
@@ -31,10 +29,14 @@
 [x] parf 2x sides
 [ ] parf 2x laminated tops
 [3] chamfer parf holes
-[ ] add joinery to base frames
-[ ] assemble 3x base frames
+[3] cut out holes in 9x fronts 4x sides
+[ ] router holes in all fronts and sides
+[x] add joinery to base frames
+[7] assemble 3x base frames
 [ ] cut 2x alignment middle divider story sticks
-[ ] router slot in base 6x sides + 3x bottoms + 3x base frames
+[ ] router 6x6mm slot in 6x base sides
+[ ] router 6x6mm slot in 3x base bottoms
+[ ] router 6x6mm slot in 3x base frames
 [ ] add joinery to base parts
 [ ] assemble bases with glue and nails
 [ ] pre-drill then screw base pieces
