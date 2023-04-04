@@ -32,7 +32,8 @@ laminate
 tops
     [x] parf 2x sides
     [x] cut out holes in 9x fronts 4x sides
-    [ ] router holes in all fronts and sides
+    [5] router hole corners in all fronts and sides
+    [ ] round hole edges in all fronts and sides
     [ ] cut 2x alignment middle divider story sticks
     [ ] assemble tops with glue and nails (minus tabletop)
     [ ] attach tabletops centered & using screws
