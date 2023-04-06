@@ -28,13 +28,12 @@ laminate
     [x] test using parf parts on laminated scrap
     [x] cut 3x laminates for tops
     [x] laminate 3x tops
-    [ ] parf 2x laminated tops
+    [4] parf 2x laminated tops
 tops
     [x] parf 2x sides
     [x] cut out holes in 9x fronts 4x sides
-    [5] router hole corners in all fronts and sides
-    [ ] round hole edges in all fronts and sides
-    [ ] cut 2x alignment middle divider story sticks
+    [x] router hole corners in all fronts and sides
+    [x] round hole edges in all fronts and sides
     [ ] assemble tops with glue and nails (minus tabletop)
     [ ] attach tabletops centered & using screws
     [ ] flush trim tabletops
