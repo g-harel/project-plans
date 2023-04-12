@@ -35,8 +35,8 @@ tops
     [x] router hole corners in all fronts and sides
     [x] round hole edges in all fronts and sides
     [x] add joinery to fronts
-    [7] add joinery to sides
-    [4] add joinery to tops
+    [x] add joinery to sides
+    [x] add joinery to tops
     [ ] assemble tops with glue and nails (minus tabletop)
     [ ] attach tabletops centered & using screws
     [ ] flush trim tabletops
