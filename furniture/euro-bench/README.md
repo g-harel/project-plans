@@ -28,8 +28,8 @@ laminate
     [x] test using parf parts on laminated scrap
     [x] cut 3x laminates for tops
     [x] laminate 3x tops
-    [8] parf 2x laminated tops
-    [ ] chamfer laminated tops on both sides
+    [x] parf 2x laminated tops
+    [x] chamfer laminated tops on both sides
 tops
     [x] parf 2x sides
     [x] cut out holes in 9x fronts 4x sides
@@ -38,8 +38,8 @@ tops
     [x] add joinery to fronts
     [x] add joinery to sides
     [x] add joinery to tops
-    [3] assemble tops with glue and nails (tabletop first)
-    [ ] lightly sand sides of tops
+    [5] assemble tops with glue and nails (tabletop first)
+    [1] lightly sand sides of tops
     [ ] test vertical roundover
     [ ] round over tops
 bases
