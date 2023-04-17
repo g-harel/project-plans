@@ -38,10 +38,10 @@ tops
     [x] add joinery to fronts
     [x] add joinery to sides
     [x] add joinery to tops
-    [5] assemble tops with glue and nails (tabletop first)
-    [1] lightly sand sides of tops
-    [ ] test vertical roundover
-    [ ] round over tops
+    [8] assemble tops with glue and nails (tabletop first)
+    [3] lightly sand sides of tops
+    [x] test vertical roundover
+    [3] round over tops
 bases
     [x] add joinery to base frames
     [7] assemble 3x base frames
