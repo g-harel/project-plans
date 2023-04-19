@@ -10,7 +10,11 @@
 
 ## Why
 
-## Usage
+Dice are bulky and can't disappear in a pocket, apps are boring. Coins are cool, and meant to be carried around. Admittedly the dungeon doohickey is not as convenient to use as other options and is the wrong choice for intense rolling sessions. But in a pinch it can be of great use to gamble or pick the next stop on your euro trip.
+
+_Note that the material used to create the coin wil also affect its usability. I made the mistake of having it be a 6mm thick disk of metal and both the sound and heft made it unusable in most circumstances and on most (delicate) surfaces_
+
+## How
 
 The dice has two identical, but 180deg rotated faces, with one exception. On one side of the dice the very center is blank, and on the other there is a little "+" symbol. The side with the symbol is the _lucky side_.
 
