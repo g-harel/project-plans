@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./images/front.jpg" width="300"/>
-  <img src="./images/back.jpg" width="300"/>
+  <img src="./images/front.jpg" width="40%"/>
+  <img src="./images/back.jpg" width="40%"/>
 </p>
 <h1 align="center">
   Dungeon Doohickey
