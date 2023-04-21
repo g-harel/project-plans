@@ -38,21 +38,21 @@ tops
     [x] add joinery to fronts
     [x] add joinery to sides
     [x] add joinery to tops
-    [x] assemble tops with glue and nails (tabletop first)
+    [x] assemble tops (tabletop first)
     [x] lightly sand sides of tops
     [x] test vertical roundover
     [x] round over tops
 bases
     [x] add joinery to base frames
-    [7] assemble 3x base frames
+    [x] assemble 3x base frames
     [ ] router 6x6mm slot in 6x base sides
     [ ] router 6x6mm slot in 3x base bottoms
     [ ] router 6x6mm slot in 3x base frames
-    [ ] add joinery to base parts
-    [ ] assemble bases with glue and nails
-    [ ] pre-drill then screw base pieces
+    [ ] make hole in racking insert
+    [7] add joinery to base parts
+    [1] assemble bases
     [ ] round over base pieces
-    [ ] attach wheels
+    [ ] attach casters
 
 
 ** _flip & trim_: flip the panel over when cutting the opposite edge to maintain the same reference edge.
