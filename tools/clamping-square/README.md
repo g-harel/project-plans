@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="./images/wireframe.png" width="1012"/>
+  <img src="./images/wireframe.png" width="80%"/>
 </p>
 <h1 align="center">
   Clamping Square
+  <br>
+  <sup><sub><sup>90° clamping aides for Bessey TK-6 clamps.<sup></sub>
 </h1>
 
 This clamping square was created as a lower cost alternative to the
