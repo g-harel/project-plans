@@ -49,8 +49,8 @@ bases
     [ ] router 6x6mm slot in 3x base bottoms
     [ ] router 6x6mm slot in 3x base frames
     [ ] make hole in racking insert
-    [7] add joinery to base parts
-    [1] assemble bases
+    [9] add joinery to base parts
+    [3] assemble bases
     [ ] round over base pieces
     [ ] attach casters
 
