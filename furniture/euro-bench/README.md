@@ -45,14 +45,14 @@ tops
 bases
     [x] add joinery to base frames
     [x] assemble 3x base frames
-    [ ] router 6x6mm slot in 6x base sides
-    [ ] router 6x6mm slot in 3x base bottoms
-    [ ] router 6x6mm slot in 3x base frames
-    [ ] make hole in racking insert
+    [x] router 6x6mm slot in 6x base sides
+    [x] router 6x6mm slot in 3x base bottoms
+    [x] router 6x6mm slot in 3x base frames
+    [x] make hole in racking insert
     [9] add joinery to base parts
-    [3] assemble bases
+    [5] assemble bases
+    [3] attach casters
     [ ] round over base pieces
-    [ ] attach casters
 
 
 ** _flip & trim_: flip the panel over when cutting the opposite edge to maintain the same reference edge.
