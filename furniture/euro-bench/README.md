@@ -41,7 +41,7 @@ tops
     [x] assemble tops (tabletop first)
     [x] lightly sand sides of tops
     [x] test vertical roundover
-    [x] round over tops
+    [x] round over & sand tops
 bases
     [x] add joinery to base frames
     [x] assemble 3x base frames
@@ -50,9 +50,9 @@ bases
     [x] router 6x6mm slot in 3x base frames
     [x] make hole in racking insert
     [x] add joinery to base parts
-    [7] assemble bases
-    [6] attach casters
-    [ ] round over base pieces
+    [x] assemble bases
+    [x] attach casters
+    [ ] round over & sand base pieces
 
 
 ** _flip & trim_: flip the panel over when cutting the opposite edge to maintain the same reference edge.
