@@ -53,6 +53,7 @@ bases
     [x] assemble bases
     [x] attach casters
     [ ] round over & sand base pieces
-
+[x] trim bases to tops
+[x] attach tops and bases
 
 ** _flip & trim_: flip the panel over when cutting the opposite edge to maintain the same reference edge.
