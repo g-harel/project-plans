@@ -8,7 +8,10 @@
   <sup><sub><sup>7-in-1 D&D dice coin.<sup></sub>
 </h1>
 
+
 ## Why
+
+<img align="right" src="./images/coin.jpg" width="20%"/>
 
 Dice are bulky and can't disappear in a pocket, apps are boring. Coins are cool, and meant to be carried around. Admittedly the dungeon doohickey is not as convenient to use as other options and is the wrong choice for intense rolling sessions. But in a pinch it can be of great use to gamble or pick the next stop on your euro trip.
 
@@ -20,7 +23,21 @@ The dice has two identical, but 180deg rotated faces, with one exception. On one
 
 Flipping a coin (d2) is the most straightforward, use the lucky side symbol to map to a yes/no or heads/tails.
 
-Start any higher _roll_ by spinning the coin on a flat surface like a top. Then, when it feels right, stop it with a confident stomp from your favorite finger. The first entirely visible number from the appropriate _ring_ is what you've rolled. When you're rolling a d8, d12 or d20 add the lucky bonus (+4, +6, +10 respectively). If you land on the lucky side for other dice denominations, give yourself a pat on the back and don't add any bonus.
+Start any higher _roll_ by spinning the coin on a flat surface like a top. Then, when it feels right, stop it with a confident stomp from your favorite finger. The first entirely visible number from the appropriate _ring_ is what you've rolled. When you're rolling a d8, d12 or d20 add the _lucky bonus_ (+4, +6, +10 respectively). If you land on the lucky side for other dice denominations, give yourself a pat on the back and don't add any bonus.
+
+<img align="left" src="./images/labels.png" width="25%">
+
+
+| Color  | Use |
+| ------ | -- |
+| CYAN   | The _lucky side_ symbol, either empty as illustrated or with a plus sign inside. |
+| PINK   | Highest roll for each ring (4, 6, 10) |
+| YELLOW | Lowest roll for each ring (1) |
+| RED    | Outer ring used for d10 and d20 |
+| GREEN  | Middle ring used for d6 and d12 |
+| BLUE   | Outer ring used for d4 and d8 |
+
+<!-- <p>
 
 | Size | Steps |
 |------|-------|
@@ -30,6 +47,4 @@ Start any higher _roll_ by spinning the coin on a flat surface like a top. Then,
 | d8   |       |
 | d10  |       |
 | d12  |       |
-| d20  |       |
-
-![](./images/coin.jpg)
+| d20  |       | -->
