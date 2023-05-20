@@ -8,7 +8,6 @@
   <sup><sub><sup>7-in-1 D&D dice coin.<sup></sub>
 </h1>
 
-
 ## Why
 
 <img align="right" src="./images/coin.jpg" width="20%"/>
@@ -27,15 +26,14 @@ Start any higher _roll_ by spinning the coin on a flat surface like a top. Then,
 
 <img align="left" src="./images/labels.png" width="25%">
 
-
-| Color  | Use |
-| ------ | -- |
+| Color  | Use                                                                              |
+| ------ | -------------------------------------------------------------------------------- |
 | CYAN   | The _lucky side_ symbol, either empty as illustrated or with a plus sign inside. |
-| PINK   | Highest roll for each ring (4, 6, 10) |
-| YELLOW | Lowest roll for each ring (1) |
-| RED    | Outer ring used for d10 and d20 |
-| GREEN  | Middle ring used for d6 and d12 |
-| BLUE   | Outer ring used for d4 and d8 |
+| PINK   | Highest roll for each ring (4, 6, 10)                                            |
+| YELLOW | Lowest roll for each ring (1)                                                    |
+| RED    | Outer ring used for d10 and d20                                                  |
+| GREEN  | Middle ring used for d6 and d12                                                  |
+| BLUE   | Outer ring used for d4 and d8                                                    |
 
 <!-- <p>
 

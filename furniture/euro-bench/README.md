@@ -2,7 +2,8 @@
 
 ## order of operations cutting
 
-- named parts using `[_]` 
+```
+- named parts using `[_]`
 - finished piece using `[_]*`
 - cutoff that is never used again `[#]`
 
@@ -19,7 +20,7 @@ cutlist
     [x] _flip & trim_** to 608mm            | 9x [B3]          ==  9x [B4]  + 9x [#]
     [x] rip trim non-reference to 608mm     | 9x [A3]          ==  9x [A7]* + 9x [#]
     [x] rip trim then cut to 218mm          | 3x [A5]          ==  6x [A6]* + 3x [#]
-    [x] rip trim then cut to 218mm          | 9x [A2]          ==  9x [A8]  + 9x [#] 
+    [x] rip trim then cut to 218mm          | 9x [A2]          ==  9x [A8]  + 9x [#]
     [x] cross trim then cut two 517mm       | 2x [C]           ==  3x [C1]  + 3x [#]
     [x] rip cut 416mm                       | 3x [C1]          ==  3x [C2]* + 3x [#]
     [x] _cut everything else (TODO)_
@@ -57,3 +58,4 @@ bases
 [x] attach tops and bases
 
 ** _flip & trim_: flip the panel over when cutting the opposite edge to maintain the same reference edge.
+```
