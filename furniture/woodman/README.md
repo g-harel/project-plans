@@ -15,7 +15,7 @@ torso
     [x] rip edge of boards
     [x] domino boards
     [x] glue boards
-    [7] rough seam
+    [7] rough sand
     [ ] trace template
     [ ] jigsaw template
     [ ] pattern bit template
@@ -33,4 +33,16 @@ feet
     [ ] dominos
     [ ] round over edges
 limbs
+    [ ] rip edge of board
+    [ ] cross cut perpendicular
+    [ ] router radius on end
+    [ ] cross cut to max batch length
+    [ ] repeat till enough for all pieces
+    [ ] rip pieces to same thickness
+    [ ] trim pieces to final lengths
+    [ ] mark centers
+    [ ] drill out centers for bolts
+    [ ] drill out centers for inserts
+    [ ] glue segments together
+    [ ] sand down seams
 ```
