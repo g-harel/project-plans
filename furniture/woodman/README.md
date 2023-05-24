@@ -15,16 +15,17 @@ torso
     [x] rip edge of boards
     [x] domino boards
     [x] glue boards
-    [7] rough sand
+    [x] rough sand
+    [x] square sides
     [ ] trace template
     [ ] jigsaw template
     [ ] pattern bit template
     [ ] flush trim
-    [ ] square sides
     [ ] round over edges
     [ ] install inserts
 feet
-    [ ] select boards
+    [x] select boards
+    [x] cut oversized
     [ ] rough sand
     [ ] trace template
     [ ] jigsaw template
@@ -33,8 +34,10 @@ feet
     [ ] dominos
     [ ] round over edges
 limbs
+    [x] select boards
+    [6] mark oversized pieces in batches
+    [ ] cross cut batches
     [ ] rip edge of board
-    [ ] cross cut perpendicular
     [ ] router radius on end
     [ ] cross cut to max batch length
     [ ] repeat till enough for all pieces
