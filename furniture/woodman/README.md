@@ -5,10 +5,9 @@
 ```
 templates
     [x] select stock
-    [ ] add foot domino alignment holes
-    [ ] export to SVG
-    [ ] cnc most depth
-    [ ] trim router pieces out
+    [x] export to SVG
+    [5] cnc most depth
+    [5] trim router pieces out
 torso
     [x] select boards
     [x] cut boards 2x 970mm
@@ -26,11 +25,11 @@ torso
 feet
     [x] select boards
     [x] cut oversized
+    [x] trace template
+    [x] jigsaw template
+    [x] pattern bit template
+    [x] flush trim
     [ ] rough sand
-    [ ] trace template
-    [ ] jigsaw template
-    [ ] pattern bit template
-    [ ] flush trim
     [ ] dominos
     [ ] round over edges
 limbs
