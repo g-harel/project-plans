@@ -35,12 +35,12 @@ feet
 limbs
     [x] select boards
     [6] mark oversized pieces in batches
-    [ ] cross cut batches
-    [ ] rip edge of board
-    [ ] router radius on end
-    [ ] cross cut to max batch length
-    [ ] repeat till enough for all pieces
-    [ ] rip pieces to same thickness
+    [x] cross cut batches
+    [x] rip edge of board
+    [x] router radius on end
+    [x] cross cut to max batch length
+    [x] repeat till enough for all pieces
+    [x] rip pieces to same thickness
     [ ] trim pieces to final lengths
     [ ] mark centers
     [ ] drill out centers for bolts
