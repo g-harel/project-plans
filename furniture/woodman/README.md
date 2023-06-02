@@ -3,11 +3,16 @@
 ## task list
 
 ```
-templates
+feet templates
     [x] select stock
     [x] export to SVG
-    [5] cnc most depth
-    [5] trim router pieces out
+    [x] cnc most depth
+    [x] trim router pieces out
+torso template
+    [x] slice for 3d print
+    [5] print
+    [ ] trim router from MDF
+    [ ] sand MDF template to smooth shape
 torso
     [x] select boards
     [x] cut boards 2x 970mm
@@ -16,6 +21,7 @@ torso
     [x] glue boards
     [x] rough sand
     [x] square sides
+    [5] cut joinery for legs
     [ ] trace template
     [ ] jigsaw template
     [ ] pattern bit template
@@ -41,7 +47,7 @@ limbs
     [x] cross cut to max batch length
     [x] repeat till enough for all pieces
     [x] rip pieces to same thickness
-    [ ] trim pieces to final lengths
+    [x] trim pieces to final lengths
     [ ] mark centers
     [ ] drill out centers for bolts
     [ ] drill out centers for inserts
