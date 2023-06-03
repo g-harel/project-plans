@@ -10,9 +10,9 @@ feet templates
     [x] trim router pieces out
 torso template
     [x] slice for 3d print
-    [5] print
-    [ ] trim router from MDF
-    [ ] sand MDF template to smooth shape
+    [x] print
+    [x] trim router from MDF
+    [x] sand MDF template to smooth shape
 torso
     [x] select boards
     [x] cut boards 2x 970mm
@@ -21,7 +21,7 @@ torso
     [x] glue boards
     [x] rough sand
     [x] square sides
-    [5] cut joinery for legs
+    [x] cut joinery for legs
     [ ] trace template
     [ ] jigsaw template
     [ ] pattern bit template
@@ -48,6 +48,8 @@ limbs
     [x] repeat till enough for all pieces
     [x] rip pieces to same thickness
     [x] trim pieces to final lengths
+    [ ] round other end of arm segments
+    [7] add joinery to segments
     [ ] mark centers
     [ ] drill out centers for bolts
     [ ] drill out centers for inserts
