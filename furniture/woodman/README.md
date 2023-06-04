@@ -22,11 +22,11 @@ torso
     [x] rough sand
     [x] square sides
     [x] cut joinery for legs
-    [ ] trace template
-    [ ] jigsaw template
-    [ ] pattern bit template
-    [ ] flush trim
-    [ ] round over edges
+    [x] trace template
+    [x] jigsaw template
+    [x] pattern bit template
+    [x] flush trim
+    [5] round over edges
     [ ] install inserts
 feet
     [x] select boards
@@ -50,9 +50,10 @@ limbs
     [x] trim pieces to final lengths
     [ ] round other end of arm segments
     [7] add joinery to segments
+    [5] glue segments together
+    [2] sand down seams
+    [ ] smooth roundover
     [ ] mark centers
     [ ] drill out centers for bolts
     [ ] drill out centers for inserts
-    [ ] glue segments together
-    [ ] sand down seams
 ```
