@@ -27,9 +27,9 @@ torso
     [x] pattern bit template
     [x] flush trim
     [x] round over bottom and top
-    [ ] round over sides
+    [x] round over sides
     [5] sand roundovers
-    [ ] install inserts
+    [x] install inserts
 feet
     [x] select boards
     [x] cut oversized
@@ -41,7 +41,7 @@ feet
     [x] round over top edge
     [5] sand roundovers
     [ ] dominos
-    [ ] break edges
+    [x] break edges
     [ ] finish sand
     [ ] glue shins
 limbs
@@ -57,9 +57,9 @@ limbs
     [x] round other end of arm segments
     [x] add joinery to segments
     [x] glue segments together
-    [7] sand down seams
-    [7] smooth roundover
-    [ ] mark centers
-    [ ] drill out centers for bolts
-    [ ] drill out centers for inserts
+    [x] sand down seams
+    [9] smooth roundover
+    [x] mark centers
+    [x] drill out centers for bolts
+    [x] drill out centers for inserts
 ```
