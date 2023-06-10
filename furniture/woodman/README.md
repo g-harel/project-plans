@@ -28,7 +28,7 @@ torso
     [x] flush trim
     [x] round over bottom and top
     [x] round over sides
-    [5] sand roundovers
+    [x] sand roundovers
     [x] install inserts
 feet
     [x] select boards
@@ -40,13 +40,13 @@ feet
     [x] rough sand
     [x] round over top edge
     [5] sand roundovers
-    [ ] dominos
+    [x] dominos
     [x] break edges
-    [ ] finish sand
-    [ ] glue shins
+    [x] finish sand
+    [x] glue shins
 limbs
     [x] select boards
-    [6] mark oversized pieces in batches
+    [x] mark oversized pieces in batches
     [x] cross cut batches
     [x] rip edge of board
     [x] router radius on end
@@ -58,8 +58,9 @@ limbs
     [x] add joinery to segments
     [x] glue segments together
     [x] sand down seams
-    [9] smooth roundover
+    [x] smooth roundover
     [x] mark centers
     [x] drill out centers for bolts
     [x] drill out centers for inserts
+[ ] apply finish
 ```
