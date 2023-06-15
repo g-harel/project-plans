@@ -62,5 +62,9 @@ limbs
     [x] mark centers
     [x] drill out centers for bolts
     [x] drill out centers for inserts
-[ ] apply finish
+[x] apply rubio first coat
+[x] rough up and apply rubio second coat
+[x] drill out magnet holes with tape
+[x] add mark
+[x] assemble
 ```
