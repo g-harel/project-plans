@@ -1,9 +1,10 @@
 [x] cut 50mm wide strips
-[ ] cut MDF panel
-[ ] square off ends
-[ ] cut to length
-[ ] cut angle ends
+[x] cut MDF panel
+[x] square off ends
+[x] cut to length
+[x] cut angle ends
 [ ] assemble two sides
+[ ] trim extra material
 [ ] assemble base frame
 [ ] attach stretchers between sides
 [ ] attach top to base
