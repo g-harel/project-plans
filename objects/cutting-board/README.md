@@ -1,3 +1,4 @@
+```
 [x] straight rip boards
 [x] add mini dominos
 [x] glue panel
@@ -6,3 +7,4 @@
 [ ] flip and re-glue pieces
 [ ] flatten boards
 [ ] round corners
+```

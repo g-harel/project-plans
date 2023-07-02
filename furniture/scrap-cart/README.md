@@ -1,3 +1,4 @@
+```
 [x] cut 50mm wide strips
 [x] cut MDF panel
 [x] square off ends
@@ -9,3 +10,4 @@
 [x] attach stretchers between sides
 [x] attach top to base
 [x] attach wheels to cart
+```

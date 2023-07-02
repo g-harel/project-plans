@@ -11,13 +11,13 @@ This clamping square was created as a lower cost alternative to the
 [Woodpeckers clamping squares + CSP clamps](https://www.woodpeck.com/clamping-squares-plus.html)
 and their multiple clones. The design comes with some tradeoffs:
 
--   Can only be used/clamped on the inside of a joint and therefore cannot be used
-    to line up butt joints.
--   Both the square and the clamps are bulkier and harder to manipulate.
--   Lower precision. Initially it is entirely dependent on the squareness of cut,
-    but wood is more likely to change over time than aluminum.
--   Squeeze-out may bond to the surface of the square if some countermeasures are
-    not added (like packing tape).
+- Can only be used/clamped on the inside of a joint and therefore cannot be used
+  to line up butt joints.
+- Both the square and the clamps are bulkier and harder to manipulate.
+- Lower precision. Initially it is entirely dependent on the squareness of cut,
+  but wood is more likely to change over time than aluminum.
+- Squeeze-out may bond to the surface of the square if some countermeasures are
+  not added (like packing tape).
 
 ## Plans
 
@@ -25,14 +25,14 @@ _Makes two squares._
 
 ### Materials
 
--   Scrap material about 3/4" thick and enough for a >192mm square.
--   2x Bessey TK-6 clamps.
+- Scrap material about 3/4" thick and enough for a >192mm square.
+- 2x Bessey TK-6 clamps.
 
 ### Tools
 
--   Saw
--   Drill
--   Sandpaper
+- Saw
+- Drill
+- Sandpaper
 
 ### Steps
 
