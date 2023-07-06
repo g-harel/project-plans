@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.6.10  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:shaper="http://www.shapertools.com/namespaces/shaper" shaper:fusionaddin="version:1.6.10" width="20.8cm"
+    height="20.8cm" version="1.1" x="0cm" y="0cm" viewBox="0 0 20.8 20.8" enable-background="new 0 0 20.8 20.8"
+    xml:space="preserve">
+    <path
+        d="M10.4,-7.6 L10.4,7.6 A2.8,2.8 0 0,1 7.6,10.4 L-7.6,10.4 A2.8,2.8 90 0,1 -10.4,7.6 L-10.4,-7.6 A2.8,2.8 180 0,1 -7.6,-10.4 L7.6,-10.4 A2.8,2.8 270 0,1 10.4,-7.6z"
+        transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(0,0,0)" shaper:cutDepth="0.018" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path
+        d="M1.4,5.65 A0.320675,0.320675 90 0,0 1.4,5.00865 L1.4,4.49135 A0.320675,0.320675 90 0,0 1.4,3.85 L-2,3.85 A0.320675,0.320675 270 0,0 -2,4.49135 L-2,5.00865 A0.320675,0.320675 270 0,0 -2,5.65 L1.4,5.65z"
+        transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(160,160,160)" fill-rule="nonzero" shaper:cutDepth="0.0108"
+        stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M1.4,-3.85 A0.320675,0.320675 90 0,0 1.4,-4.49135 L1.4,-5.00865 A0.320675,0.320675 90 0,0 1.4,-5.65 L-2,-5.65 A0.320675,0.320675 270 0,0 -2,-5.00865 L-2,-4.49135 A0.320675,0.320675 270 0,0 -2,-3.85 L1.4,-3.85z"
+        transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(160,160,160)" fill-rule="nonzero" shaper:cutDepth="0.0108"
+        stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M-1,-1.9 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-1,1.9 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M6.6,-3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M6.6,0 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-8.6,0 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-1,-7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M6.6,3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M6.6,7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M6.6,-7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M2.8,-3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-1,7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M2.8,3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M2.8,0 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-8.6,7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-4.8,7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M2.8,7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-8.6,3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-4.8,3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-8.6,-7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-4.8,0 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-4.8,-3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M2.8,-7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-8.6,-3.8 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+    <path d="M-4.8,-7.6 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0z" transform="matrix(1,0,0,-1,10.4,10.4)" fill="rgb(255,255,255)"
+        stroke="rgb(0,0,0)" stroke-width="0.0010cm" stroke-linecap="round" stroke-linejoin="round"
+        shaper:cutDepth="0.018" />
+</svg>

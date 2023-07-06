@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.6.10  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:shaper="http://www.shapertools.com/namespaces/shaper" shaper:fusionaddin="version:1.6.10" width="4.8cm"
+    height="4.9561966cm" version="1.1" x="0cm" y="0cm" viewBox="0 0 4.8 4.9561966"
+    enable-background="new 0 0 4.8 4.9561966" xml:space="preserve">
+    <path
+        d="M1.6864757,0.8241021 A0.320675,0.320675 260 0,0 1.797845,1.4557086 L1.8740158,1.8876945 -1.4743306,2.4780983 -1.5505014,2.0461124 A0.320675,0.320675 80 0,0 -1.6618706,1.4145059 L-2.4,1.5446581 -2.4,-2.4780983 2.4,-2.4780983 2.4,0.6982886 1.6864757,0.8241021z"
+        transform="matrix(1,0,0,-1,2.4,2.4780983)" fill="rgb(0,0,0)" shaper:cutDepth="0.018" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path
+        d="M1.359325,-0.6780983 A0.320675,0.320675 90 0,0 1.359325,-1.3194483 L1.359325,-2.4780983 -1.359325,-2.4780983 -1.359325,-1.3194483 A0.320675,0.320675 270 0,0 -1.359325,-0.6780983 L1.359325,-0.6780983z"
+        transform="matrix(1,0,0,-1,2.4,2.4780983)" fill="rgb(159,159,159)" fill-rule="nonzero" shaper:cutDepth="0.0108"
+        stroke-linecap="round" stroke-linejoin="round" />
+</svg>
