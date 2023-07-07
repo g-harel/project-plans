@@ -5,7 +5,9 @@ const wireframes: string[] = await glob("**/wireframe.png");
 const readme = `
 # Project Plans
 
-${wireframes.map((img) => `<img src="${img}" width="30%"/>`).join("\n")}
+<p align="center">
+${wireframes.map((img) => `  <img src="${img}" width="30%"/>`).join("\n")}
+</p>
 
 ## LICENSE
 
