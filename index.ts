@@ -18,7 +18,7 @@ ${
   wireframes.map((img) =>
     "  " + `  
   <a href="./${getRootFromWireframe(img)}">
-    <img src="${img}" width="50%"/>
+    <img src="${img}" width="45%"/>
   </a>`.trim()
   ).join("\n")
 }

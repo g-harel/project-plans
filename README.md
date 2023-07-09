@@ -1,29 +1,29 @@
 # Project Plans
 
 <p align="center">
-  <a href="./objects/suizan-hook">
-    <img src="objects/suizan-hook/wireframe.png" width="50%"/>
+  <a href="./plans/suizan-hook">
+    <img src="plans/suizan-hook/wireframe.png" width="45%"/>
   </a>
-  <a href="./furniture/euro-bench">
-    <img src="furniture/euro-bench/wireframe.png" width="50%"/>
+  <a href="./plans/euro-bench">
+    <img src="plans/euro-bench/wireframe.png" width="45%"/>
   </a>
-  <a href="./furniture/scrap-cart">
-    <img src="furniture/scrap-cart/wireframe.png" width="50%"/>
+  <a href="./plans/scrap-cart">
+    <img src="plans/scrap-cart/wireframe.png" width="45%"/>
   </a>
-  <a href="./objects/knew-hook">
-    <img src="objects/knew-hook/images/wireframe.png" width="50%"/>
+  <a href="./plans/knew-hook">
+    <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./objects/board-hook">
-    <img src="objects/board-hook/images/wireframe.png" width="50%"/>
+  <a href="./plans/cross-lap-jig">
+    <img src="plans/cross-lap-jig/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./objects/dog-home">
-    <img src="objects/dog-home/images/wireframe.png" width="50%"/>
+  <a href="./plans/board-hook">
+    <img src="plans/board-hook/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./tools/cross-lap-jig">
-    <img src="tools/cross-lap-jig/images/wireframe.png" width="50%"/>
+  <a href="./plans/clamping-square">
+    <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./tools/clamping-square">
-    <img src="tools/clamping-square/images/wireframe.png" width="50%"/>
+  <a href="./plans/dog-home">
+    <img src="plans/dog-home/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
