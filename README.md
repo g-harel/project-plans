@@ -27,6 +27,32 @@
   </a>
 </p>
 
+## Development
+
+### Layout
+
+plans
+└ <name>
+  └ README.md
+  └ model.f3d
+  └ model.stl
+  └ plans.pdf
+  └ images
+    └ wireframe.png
+	└ ...
+
+### Format
+
+```bash
+$ deno fmt
+```
+
+### Build
+
+```bash
+$ deno run --unstable --allow-env --allow-read --allow-write index.ts
+```
+
 ## LICENSE
 
 [MIT](./LICENSE)
