@@ -1,6 +1,12 @@
 import { glob } from "npm:glob@10.3.1";
 import { dirname } from "https://deno.land/std/path/mod.ts";
-import sharp from "npm:sharp@0.32.2";
+import {
+  ImageMagick,
+  IMagickImage,
+  initializeImageMagick,
+} from "https://deno.land/x/imagemagick_deno@0.0.24/mod.ts";
+
+await initializeImageMagick();
 
 const wireframes: string[] = await glob("**/wireframe.png");
 
@@ -12,8 +18,10 @@ const getRootFromWireframe = (path: string) => {
 };
 
 const getWidth = async (img: string): Promise<number> => {
-  const metadata = await sharp(img).metadata();
-  console.log(metadata);
+  const data: Uint8Array = await Deno.readFile(img);
+  ImageMagick.read(data, (img: IMagickImage) => {
+    console.log(img.baseWidth);
+  });
   return 0;
 }
 
