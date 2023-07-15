@@ -1,5 +1,5 @@
 import { glob } from "npm:glob@10.3.1";
-import { dirname } from "https://deno.land/std/path/mod.ts";
+import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
 // import {
 //   ImageMagick,
 //   IMagickImage,
@@ -8,28 +8,32 @@ import { dirname } from "https://deno.land/std/path/mod.ts";
 
 // await initializeImageMagick();
 
-const wireframes: string[] = await glob("**/wireframe.png");
+const plansRoot = "./plans";
 
-interface Project {
+interface Plan {
   name: string;
+  path: string;
   pitch: string;
   description: string[];
-  wireframe: string;
+  wireframePath: string;
 }
 
-const getProjects = async (): Promise<Project[]> => {
-  const projects: Project[] = [];
-  for await (const f of Deno.readDir("plans")) {
-    if (f.isDirectory) {
-      projects.push({
-        name: f.name,
-        pitch: "",
-        description: [],
-        wireframe: await glob(`**/${f.name}/**/wireframe.png`).then((r: string[]) => r ? r[0] : ""),
-      });
-    }
+const getPlans = async (): Promise<Plan[]> => {
+  const plans: Plan[] = [];
+  for await (const f of Deno.readDir(plansRoot)) {
+    if (!f.isDirectory) continue;
+    const path = "./" + join(plansRoot, f.name);
+    const wireframePaths = await glob(`**/${f.name}/**/wireframe.png`);
+    const wireframePath = wireframePaths.length ? wireframePaths[0] : "";
+    plans.push({
+      name: f.name,
+      path,
+      pitch: "",
+      description: [],
+      wireframePath,
+    });
   }
-  return projects.sort((a, b) => a.name < b.name ? -1 : 1);
+  return plans.sort((a, b) => a.name < b.name ? -1 : 1);
 };
 
 const getWidth = async (img: string): Promise<number> => {
@@ -40,18 +44,18 @@ const getWidth = async (img: string): Promise<number> => {
   return 0;
 };
 
-const projects = await getProjects();
-console.log(projects);
+const plans = await getPlans();
+console.log(plans);
 
 const readme = `
 # Project Plans
 
 <p align="center">
 ${
-  projects.filter((p) => !!p.wireframe).map((p) =>
+  plans.filter((p) => !!p.wireframePath).map((p) =>
     "  " + `  
-  <a href="./plans/${p.name}">
-    <img src="${p.wireframe}" width="45%"/>
+  <a href="${p.path}">
+    <img src="${p.wireframePath}" width="45%"/>
   </a>`.trim()
   ).join("\n")
 }
