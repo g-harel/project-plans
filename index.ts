@@ -1,5 +1,7 @@
 import { glob } from "npm:glob@10.3.1";
+import * as m from "npm:mustache@4.2.0";
 import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
+console.log(m);
 // import {
 //   ImageMagick,
 //   IMagickImage,
@@ -47,8 +49,8 @@ const getWidth = async (img: string): Promise<number> => {
 const plans = await getPlans();
 console.log(plans);
 
-const readme = `
-# Project Plans
+const readme = m.default.render(`
+# Project Plans {{test}}
 
 <p align="center">
 ${
@@ -90,6 +92,6 @@ $ deno run --unstable --allow-env --allow-read --allow-write index.ts
 ## LICENSE
 
 [MIT](./LICENSE)
-`.trim() + "\n";
+`, {test: "asd"});
 
-await Deno.writeTextFile("./README.md", readme);
+await Deno.writeTextFile("./README.md", readme.trim() + "\n");
