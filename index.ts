@@ -49,18 +49,19 @@ const getWidth = async (img: string): Promise<number> => {
 const plans = await getPlans();
 console.log(plans);
 
+const templateData = {
+  wireframes: plans.filter((p) => !!p.wireframePath),
+}
+
 const readme = m.default.render(`
-# Project Plans {{test}}
+# Project Plans
 
 <p align="center">
-${
-  plans.filter((p) => !!p.wireframePath).map((p) =>
-    "  " + `  
-  <a href="${p.path}">
-    <img src="${p.wireframePath}" width="45%"/>
-  </a>`.trim()
-  ).join("\n")
-}
+{{#wireframes}}
+  <a href="{{{path}}}">
+    <img src="{{{wireframePath}}}" width="45%"/>
+  </a>
+{{/wireframes}}
 </p>
 
 ## Development
@@ -92,6 +93,6 @@ $ deno run --unstable --allow-env --allow-read --allow-write index.ts
 ## LICENSE
 
 [MIT](./LICENSE)
-`, {test: "asd"});
+`, templateData);
 
 await Deno.writeTextFile("./README.md", readme.trim() + "\n");
