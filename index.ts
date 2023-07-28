@@ -1,6 +1,7 @@
 import { glob } from "npm:glob@10.3.1";
 import * as m from "npm:mustache@4.2.0";
 import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
+
 console.log(m);
 // import {
 //   ImageMagick,
@@ -48,6 +49,7 @@ const getWidth = async (img: string): Promise<number> => {
 
 const plans = await getPlans();
 console.log(plans);
+
 
 const templateData = {
   wireframes: plans.filter((p) => !!p.wireframePath),

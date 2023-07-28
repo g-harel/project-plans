@@ -19,8 +19,14 @@
   <a href="./plans/knew-hook">
     <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/origami-coffee-table">
+    <img src="plans/origami-coffee-table/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/scrap-cart">
     <img src="plans/scrap-cart/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/snuffle-frame">
+    <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/suizan-hook">
     <img src="plans/suizan-hook/wireframe.png" width="45%"/>
