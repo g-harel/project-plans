@@ -2,23 +2,19 @@ import { glob } from "npm:glob@10.3.1";
 import * as m from "npm:mustache@4.2.0";
 import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
 
-console.log(m);
-// import {
-//   ImageMagick,
-//   IMagickImage,
-//   initializeImageMagick,
-// } from "https://deno.land/x/imagemagick_deno@0.0.24/mod.ts";
-
-// await initializeImageMagick();
-
 const plansRoot = "./plans";
 
 interface Plan {
-  name: string;
   path: string;
-  pitch: string;
-  description: string[];
-  wireframePath: string;
+  wireframePath: string
+  info: PlanInfo;
+}
+
+interface PlanInfo {
+  name: string;
+  pitch?: string;
+  description?: string[];
+  links?: string[],
 }
 
 const getPlans = async (): Promise<Plan[]> => {
@@ -28,28 +24,28 @@ const getPlans = async (): Promise<Plan[]> => {
     const path = "./" + join(plansRoot, f.name);
     const wireframePaths = await glob(`**/${f.name}/**/wireframe.png`);
     const wireframePath = wireframePaths.length ? wireframePaths[0] : "";
+
+    let info: PlanInfo = {name: f.name};
+    try {
+      const infoFile = await Deno.readTextFile(join(path, "info.json"));
+      info = Object.assign(info, JSON.parse(infoFile));
+    } catch (e) {
+      if (!(e instanceof Deno.errors.NotFound)) {
+        console.error(e);
+      }
+    }
+
     plans.push({
-      name: f.name,
       path,
-      pitch: "",
-      description: [],
       wireframePath,
+      info,
     });
   }
-  return plans.sort((a, b) => a.name < b.name ? -1 : 1);
-};
-
-const getWidth = async (img: string): Promise<number> => {
-  // const data: Uint8Array = await Deno.readFile(img);
-  // ImageMagick.read(data, (img: IMagickImage) => {
-  //   console.log(img.baseWidth);
-  // });
-  return 0;
+  return plans.sort((a, b) => a.info.name < b.info.name ? -1 : 1);
 };
 
 const plans = await getPlans();
 console.log(plans);
-
 
 const templateData = {
   wireframes: plans.filter((p) => !!p.wireframePath),
