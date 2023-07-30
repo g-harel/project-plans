@@ -6,15 +6,16 @@ const plansRoot = "./plans";
 
 interface Plan {
   path: string;
-  wireframePath: string
+  wireframePath: string;
   info: PlanInfo;
 }
 
 interface PlanInfo {
   name: string;
+  genDocs?: boolean;
   pitch?: string;
   description?: string[];
-  links?: string[],
+  links?: string[];
 }
 
 const getPlans = async (): Promise<Plan[]> => {
@@ -25,7 +26,7 @@ const getPlans = async (): Promise<Plan[]> => {
     const wireframePaths = await glob(`**/${f.name}/**/wireframe.png`);
     const wireframePath = wireframePaths.length ? wireframePaths[0] : "";
 
-    let info: PlanInfo = {name: f.name};
+    let info: PlanInfo = { name: f.name };
     try {
       const infoFile = await Deno.readTextFile(join(path, "info.json"));
       info = Object.assign(info, JSON.parse(infoFile));
@@ -44,14 +45,13 @@ const getPlans = async (): Promise<Plan[]> => {
   return plans.sort((a, b) => a.info.name < b.info.name ? -1 : 1);
 };
 
-const plans = await getPlans();
-console.log(plans);
+const writeRepoReadme = async (plans: Plan[]) => {
+  const templateData = {
+    wireframes: plans.filter((p) => !!p.wireframePath),
+  };
 
-const templateData = {
-  wireframes: plans.filter((p) => !!p.wireframePath),
-}
-
-const readme = m.default.render(`
+  const readme = m.default.render(
+    `
 # Project Plans
 
 <p align="center">
@@ -91,6 +91,30 @@ $ deno run --unstable --allow-env --allow-read --allow-write index.ts
 ## LICENSE
 
 [MIT](./LICENSE)
-`, templateData);
+`,
+    templateData,
+  );
 
-await Deno.writeTextFile("./README.md", readme.trim() + "\n");
+  await Deno.writeTextFile("./README.md", readme.trim() + "\n");
+};
+
+const writeDocs = async (plan: Plan) => {
+  if (!plan.info.genDocs) return;
+
+  const readme = m.default.render(
+    `
+# {{info.name}}
+
+> {{info.pitch}}
+`,
+    plan,
+  );
+
+  await Deno.writeTextFile(join(plan.path, "README.md"), readme.trim() + "\n");
+};
+
+const plans = await getPlans();
+console.log(plans);
+
+await writeRepoReadme(plans);
+await Promise.all(plans.map(writeDocs));

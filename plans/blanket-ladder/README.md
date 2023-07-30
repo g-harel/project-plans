@@ -1,3 +1,3 @@
 # Blanket Ladder
 
-> Small piece of furniture to hold blankets and towels.
+> Freestanding blanket ladder with six rungs.
