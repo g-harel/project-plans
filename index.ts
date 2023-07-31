@@ -47,11 +47,14 @@ const getPlans = async (): Promise<Plan[]> => {
 
 const writeRepoReadme = async (plans: Plan[]) => {
   const templateData = {
+    date: new Date().toISOString().slice(0, 10),
     wireframes: plans.filter((p) => !!p.wireframePath),
   };
 
   const readme = m.default.render(
     `
+<!-- generated {{date}} -->
+
 # Project Plans
 
 <p align="center">
@@ -103,11 +106,15 @@ const writeDocs = async (plan: Plan) => {
 
   const readme = m.default.render(
     `
+<!-- generated {{date}} -->
+
 # {{info.name}}
 
 > {{info.pitch}}
 `,
-    plan,
+    Object.assign(plan, {
+      date: new Date().toISOString().slice(0, 10),
+    }),
   );
 
   await Deno.writeTextFile(join(plan.path, "README.md"), readme.trim() + "\n");
