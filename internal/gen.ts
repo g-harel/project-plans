@@ -52,49 +52,7 @@ const writeRepoReadme = async (plans: Plan[]) => {
   };
 
   const readme = m.default.render(
-    `
-<!-- generated {{date}} -->
-
-# Project Plans
-
-<p align="center">
-{{#wireframes}}
-  <a href="{{{path}}}">
-    <img src="{{{wireframePath}}}" width="45%"/>
-  </a>
-{{/wireframes}}
-</p>
-
-## Development
-
-### Layout
-
-plans
-└ <name>
-  └ README.md
-  └ model.f3d
-  └ model.stl
-  └ plans.pdf
-  └ images
-    └ wireframe.png
-	└ ...
-
-### Format
-
-\`\`\`bash
-$ deno fmt
-\`\`\`
-
-### Build
-
-\`\`\`bash
-$ deno run --unstable --allow-env --allow-read --allow-write index.ts
-\`\`\`
-
-## LICENSE
-
-[MIT](./LICENSE)
-`,
+    await Deno.readTextFileSync("./internal/templates/readme.mustache"),
     templateData,
   );
 
@@ -105,13 +63,7 @@ const writeDocs = async (plan: Plan) => {
   if (!plan.info.genDocs) return;
 
   const readme = m.default.render(
-    `
-<!-- generated {{date}} -->
-
-# {{info.name}}
-
-> {{info.pitch}}
-`,
+    await Deno.readTextFileSync("./internal/templates/docs.mustache"),
     Object.assign(plan, {
       date: new Date().toISOString().slice(0, 10),
     }),
