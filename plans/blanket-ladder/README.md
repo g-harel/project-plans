@@ -1,5 +1,7 @@
-<!-- generated 2023-08-01 -->
+<!-- generated 2023-08-02 -->
 
-# Blanket Ladder
-
-> Freestanding blanket ladder with six rungs.
+<h1 align="center">
+  Blanket Ladder
+  <br>
+  <sup><sub><sup>Freestanding blanket ladder with six rungs.<sup></sub>
+</h1>
