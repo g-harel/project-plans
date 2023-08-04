@@ -1,4 +1,4 @@
-<!-- generated 2023-08-03 -->
+<!-- generated 2023-08-04 -->
 
 # Project Plans
 
@@ -9,11 +9,11 @@
   <a href="./plans/cross-lap-jig">
     <img src="plans/cross-lap-jig/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/clamping-square">
-    <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/dog-home">
     <img src="plans/dog-home/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/clamping-square">
+    <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/euro-bench">
     <img src="plans/euro-bench/wireframe.png" width="45%"/>
