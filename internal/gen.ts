@@ -16,6 +16,7 @@ interface PlanInfo {
   pitch?: string;
   description?: string[];
   links?: string[];
+  inspirationLinks?: string[];
 }
 
 const getPlans = async (): Promise<Plan[]> => {

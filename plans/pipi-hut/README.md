@@ -1,6 +1,12 @@
-# Retro Dog House
+<!-- generated 2023-08-05 -->
 
-> Modification to an exiting TV stand that had begun to sag.
+<h1 align="center">
+  Pipi Hut
+  <br>
+  <sup><sub><sup>Retro-inspired dog house.<sup></sub>
+</h1>
 
-_Inspired by
-https://www.etsy.com/listing/779911753/modern-dog-house-butterfly-house_
+
+## Inspiration
+
+- https://www.etsy.com/listing/779911753/modern-dog-house-butterfly-house_
