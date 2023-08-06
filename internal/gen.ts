@@ -70,6 +70,7 @@ const writeDocs = async (plan: Plan) => {
     }),
   );
 
+  // TODO: Only write if changed.
   await Deno.writeTextFile(join(plan.path, "README.md"), readme.trim() + "\n");
 };
 
