@@ -47,31 +47,30 @@ const getPlans = async (): Promise<Plan[]> => {
 };
 
 const writeRepoReadme = async (plans: Plan[]) => {
-  const templateData = {
-    date: new Date().toISOString().slice(0, 10),
+  await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
     wireframes: plans.filter((p) => !!p.wireframePath),
-  };
-
-  const readme = m.default.render(
-    await Deno.readTextFileSync("./internal/templates/readme.mustache"),
-    templateData,
-  );
-
-  await Deno.writeTextFile("./README.md", readme.trim() + "\n");
+  });
 };
 
 const writeDocs = async (plan: Plan) => {
   if (!plan.info.genDocs) return;
+  await writeTemplate(
+    "./internal/templates/docs.mustache",
+    join(plan.path, "README.md"),
+    plan,
+  );
+};
 
-  const readme = m.default.render(
-    await Deno.readTextFileSync("./internal/templates/docs.mustache"),
-    Object.assign(plan, {
-      date: new Date().toISOString().slice(0, 10),
-    }),
+const writeTemplate = async (template: string, out: string, args: any) => {
+  const contents = m.default.render(
+    await Deno.readTextFileSync(template),
+    args,
   );
 
   // TODO: Only write if changed.
-  await Deno.writeTextFile(join(plan.path, "README.md"), readme.trim() + "\n");
+  const dateLine = `<!-- ${new Date().toISOString().slice(0, 10)} -->`;
+  const formatted = dateLine + "\n\n" + contents.trim() + "\n";
+  await Deno.writeTextFile(out, formatted);
 };
 
 const plans = await getPlans();
