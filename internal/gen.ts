@@ -67,7 +67,14 @@ const writeTemplate = async (template: string, out: string, args: any) => {
     args,
   );
 
-  // TODO: Only write if changed.
+  // Don't write if contents haven't changed.
+  try {
+    const existingContents = await Deno.readTextFile(out);
+    if (existingContents.trim().endsWith(contents.trim())) return;
+  } catch (e) {
+    // Write if something went wrong or file doesn't exist yet.
+  }
+
   const dateLine = `<!-- ${new Date().toISOString().slice(0, 10)} -->`;
   const formatted = dateLine + "\n\n" + contents.trim() + "\n";
   await Deno.writeTextFile(out, formatted);
