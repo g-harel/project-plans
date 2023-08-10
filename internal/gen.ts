@@ -67,8 +67,8 @@ const writeTemplate = async (template: string, out: string, args: any) => {
     args,
   );
 
-  // Don't write if contents haven't changed.
   try {
+    // Don't write if contents haven't changed.
     const existingContents = await Deno.readTextFile(out);
     if (existingContents.trim().endsWith(contents.trim())) return;
   } catch (e) {
@@ -81,7 +81,5 @@ const writeTemplate = async (template: string, out: string, args: any) => {
 };
 
 const plans = await getPlans();
-console.log(plans);
-
 await writeRepoReadme(plans);
 await Promise.all(plans.map(writeDocs));
