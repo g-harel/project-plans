@@ -1,8 +1,10 @@
-{{#wireframePath}}
+{{#wireframePaths.0}}
 <p align="center">
-  <img src="../../{{{wireframePath}}}" width="40%"/>
+{{#wireframePaths}}
+  <img src="../../{{{.}}}" width="{{wireframeWidths}}%"/>
+{{/wireframePaths}}
 </p>
-{{/wireframePath}}
+{{/wireframePaths.0}}
 <h1 align="center">
   {{info.name}}
   <br>

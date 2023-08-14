@@ -6,7 +6,7 @@ const plansRoot = "./plans";
 
 interface Plan {
   path: string;
-  wireframePath: string;
+  wireframePaths: string[];
   info: PlanInfo;
 }
 
@@ -24,8 +24,7 @@ const getPlans = async (): Promise<Plan[]> => {
   for await (const f of Deno.readDir(plansRoot)) {
     if (!f.isDirectory) continue;
     const path = "./" + join(plansRoot, f.name);
-    const wireframePaths = await glob(`**/${f.name}/**/wireframe.png`);
-    const wireframePath = wireframePaths.length ? wireframePaths[0] : "";
+    const wireframePaths = await glob(`**/${f.name}/**/wireframe*.png`);
 
     let info: PlanInfo = { name: f.name };
     try {
@@ -39,7 +38,7 @@ const getPlans = async (): Promise<Plan[]> => {
 
     plans.push({
       path,
-      wireframePath,
+      wireframePaths: wireframePaths.sort(),
       info,
     });
   }
@@ -48,7 +47,7 @@ const getPlans = async (): Promise<Plan[]> => {
 
 const writeRepoReadme = async (plans: Plan[]) => {
   await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
-    wireframes: plans.filter((p) => !!p.wireframePath),
+    wireframes: plans.filter((p) => !!p.wireframePaths.length),
   });
 };
 
@@ -57,7 +56,7 @@ const writeDocs = async (plan: Plan) => {
   await writeTemplate(
     "./internal/templates/docs.mustache",
     join(plan.path, "README.md"),
-    plan,
+    {...plan, wireframeWidths: Math.min(40, 80 / plan.wireframePaths.length)},
   );
 };
 

@@ -1,4 +1,4 @@
-<!-- 2023-08-07 -->
+<!-- 2023-08-14 -->
 
 # Project Plans
 
@@ -11,6 +11,9 @@
   </a>
   <a href="./plans/dog-home">
     <img src="plans/dog-home/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/plane-mount">
+    <img src="plans/plane-mount/wireframe1.png" width="45%"/>
   </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
