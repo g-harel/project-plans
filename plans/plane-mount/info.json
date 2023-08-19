@@ -4,5 +4,6 @@
   "description": [],
   "links": [],
   "inspirationLinks": ["https://woodgears.ca/tool_holders/handplane.html"],
-  "genDocs": true
+  "genDocs": true,
+  "category": "prints"
 }

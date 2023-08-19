@@ -17,6 +17,7 @@ interface PlanInfo {
   description?: string[];
   links?: string[];
   inspirationLinks?: string[];
+  category?: string;
 }
 
 const getPlans = async (): Promise<Plan[]> => {
@@ -46,8 +47,13 @@ const getPlans = async (): Promise<Plan[]> => {
 };
 
 const writeRepoReadme = async (plans: Plan[]) => {
+  const foundKeys = plans.reduce<Record<any, boolean>>((acc, p) => {
+    if (p.info.category) acc[p.info.category] = true;
+    return acc;
+   }, {});
   await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
     wireframes: plans.filter((p) => !!p.wireframePaths.length),
+    categories: [undefined, ...Object.keys(foundKeys)],
   });
 };
 
