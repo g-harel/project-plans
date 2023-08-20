@@ -42,15 +42,8 @@
 
 ### Layout
 
-plans
-└ <name>
-  └ README.md
-  └ model.f3d
-  └ model.stl
-  └ plans.pdf
-  └ images
-    └ wireframe.png
-	└ ...
+plans └ <name> └ README.md └ model.f3d └ model.stl └ plans.pdf └ images └
+wireframe.png └ ...
 
 ### Format
 

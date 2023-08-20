@@ -47,13 +47,18 @@ const getPlans = async (): Promise<Plan[]> => {
 };
 
 const writeRepoReadme = async (plans: Plan[]) => {
-  const foundKeys = plans.reduce<Record<any, boolean>>((acc, p) => {
-    if (p.info.category) acc[p.info.category] = true;
-    return acc;
-   }, {});
+  const wireframesByCategory = plans.reduce<Record<string, Plan[]>>(
+    (acc, p) => {
+      if (p.wireframePaths.length === 0) return acc;
+      const category = p.info.category || "";
+      if (!acc[category]) acc[category] = [];
+      acc[category].push(p);
+      return acc;
+    },
+    {},
+  );
   await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
-    wireframes: plans.filter((p) => !!p.wireframePaths.length),
-    categories: [undefined, ...Object.keys(foundKeys)],
+    wireframesByCategory,
   });
 };
 
@@ -62,7 +67,7 @@ const writeDocs = async (plan: Plan) => {
   await writeTemplate(
     "./internal/templates/docs.mustache",
     join(plan.path, "README.md"),
-    {...plan, wireframeWidths: Math.min(40, 80 / plan.wireframePaths.length)},
+    { ...plan, wireframeWidths: Math.min(40, 80 / plan.wireframePaths.length) },
   );
 };
 
