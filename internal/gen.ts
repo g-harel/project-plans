@@ -27,6 +27,10 @@ const getPlans = async (): Promise<Plan[]> => {
     const path = "./" + join(plansRoot, f.name);
     const wireframePaths = await glob(`**/${f.name}/**/wireframe*.png`);
 
+    if (wireframePaths.length === 0) {
+      console.log(`missing wireframes: ${f.name}`)
+    }
+
     let info: PlanInfo = { name: f.name };
     try {
       const infoFile = await Deno.readTextFile(join(path, "info.json"));
