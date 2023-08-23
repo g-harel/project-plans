@@ -1,9 +1,7 @@
 {
   "name": "Fore Plane Wall Mount",
   "pitch": "Quick and secure wall mounting for Lie-Nielsen No.6 Fore plane.",
-  "description": [],
-  "links": [],
   "inspirationLinks": ["https://woodgears.ca/tool_holders/handplane.html"],
-  "genDocs": true,
-  "category": "prints"
+  "category": "prints",
+  "genDocs": true
 }
