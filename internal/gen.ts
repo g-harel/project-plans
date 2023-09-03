@@ -6,8 +6,9 @@ const plansRoot = "./plans";
 
 interface Plan {
   path: string;
-  wireframePaths: string[];
   info: PlanInfo;
+  wireframePaths: string[];
+  patternPaths: string[];
 }
 
 interface PlanInfo {
@@ -26,6 +27,7 @@ const getPlans = async (): Promise<Plan[]> => {
     if (!f.isDirectory) continue;
     const path = "./" + join(plansRoot, f.name);
     const wireframePaths = await glob(`**/${f.name}/**/wireframe*.png`);
+    const patternPaths = await glob(`**/${f.name}/**/*.svg`);
 
     if (wireframePaths.length === 0) {
       console.log(`missing wireframes: ${f.name}`)
@@ -44,6 +46,7 @@ const getPlans = async (): Promise<Plan[]> => {
     plans.push({
       path,
       wireframePaths: wireframePaths.sort(),
+      patternPaths: patternPaths.sort(),
       info,
     });
   }
