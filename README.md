@@ -49,6 +49,7 @@
 
 ### Layout
 
+```
 plans
 └ <name>
   └ README.md
@@ -58,6 +59,7 @@ plans
   └ images
     └ wireframe.png
 	└ ...
+```
 
 ### Format
 

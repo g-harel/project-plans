@@ -30,7 +30,7 @@ const getPlans = async (): Promise<Plan[]> => {
     const patternPaths = await glob(`**/${f.name}/**/*.svg`);
 
     if (wireframePaths.length === 0) {
-      console.log(`missing wireframes: ${f.name}`)
+      console.log(`missing wireframes: ${f.name}`);
     }
 
     let info: PlanInfo = { name: f.name };

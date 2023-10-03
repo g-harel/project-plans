@@ -10,7 +10,6 @@
   <sup><sub><sup>Quick and secure wall mounting for Lie-Nielsen No.6 Fore plane.<sup></sub>
 </h1>
 
-
 ## Inspiration
 
 - https://woodgears.ca/tool_holders/handplane.html
