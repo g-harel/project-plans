@@ -1,4 +1,4 @@
-<!-- 2023-08-31 -->
+<!-- 2023-10-04 -->
 
 # Project Plans
 
@@ -14,6 +14,9 @@
   </a>
   <a href="./plans/dog-home">
     <img src="plans/dog-home/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/hub-sign">
+    <img src="plans/hub-sign/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
@@ -39,6 +42,7 @@
 </p>
 
 ### prints
+
 <p align="center">
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/wireframe1.png" width="45%"/>
@@ -49,17 +53,8 @@
 
 ### Layout
 
-```
-plans
-└ <name>
-  └ README.md
-  └ model.f3d
-  └ model.stl
-  └ plans.pdf
-  └ images
-    └ wireframe.png
-	└ ...
-```
+plans └ <name> └ README.md └ model.f3d └ model.stl └ plans.pdf └ images └
+wireframe.png └ ...
 
 ### Format
 
