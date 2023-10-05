@@ -1,4 +1,4 @@
-<!-- 2023-10-04 -->
+<!-- 2023-10-05 -->
 
 <h1 align="center">
   PB Swiss Screwdriver Hook
@@ -6,5 +6,4 @@
   <sup><sub><sup>Screw-mounted vertical storage for slotted screwdriver<sup></sub>
 </h1>
 
-Made for
-`PB Swiss Heavy-Duty SwissGrip Screwdrivers, Slotted (PB 8102.DN 5-150)`
+Made for `PB Swiss Heavy-Duty SwissGrip Screwdrivers, Slotted (PB 8102.DN 5-150)`

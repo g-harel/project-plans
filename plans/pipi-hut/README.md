@@ -1,10 +1,11 @@
-<!-- 2023-10-04 -->
+<!-- 2023-10-05 -->
 
 <h1 align="center">
   Pipi Hut
   <br>
   <sup><sub><sup>Retro-inspired dog house.<sup></sub>
 </h1>
+
 
 ## Inspiration
 

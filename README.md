@@ -1,4 +1,4 @@
-<!-- 2023-10-04 -->
+<!-- 2023-10-05 -->
 
 # Project Plans
 
@@ -42,7 +42,6 @@
 </p>
 
 ### prints
-
 <p align="center">
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/wireframe1.png" width="45%"/>
@@ -53,8 +52,23 @@
 
 ### Layout
 
-plans └ <name> └ README.md └ model.f3d └ model.stl └ plans.pdf └ images └
-wireframe.png └ ...
+```
+- README.md*             | Generated sitemap.
+- internal               | Code to manage this repository.
+  └ gen.ts               | Entrypoint for generating docs.
+  └ ...                  |
+- plans                  | Folder containing all projects.
+  └ example.info.json    | Example info file with all possible fields.
+  └ <name>               |
+    └ info.json          | Structured data about the project
+    └ README.md*         | Generated project-level documentation.
+    └ model.f3d          | Exported Fusion360 project.
+    └ model.stl          | Exported 3d model.
+    └ plans.pdf          | Written project instructions.
+    └ images             |
+      └ wireframe.png    | Square hero image summarizing the form.
+    └ ...                |
+```
 
 ### Format
 
