@@ -65,7 +65,7 @@ const writeRepoReadme = async (plans: Plan[]) => {
     {},
   );
   await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
-    wireframesByCategory: Object.entries(wireframesByCategory),
+    wireframesByCategory: Object.entries(wireframesByCategory).sort(),
   });
 };
 

@@ -1,20 +1,7 @@
-<!-- 2023-10-06 -->
+<!-- 2023-10-07 -->
 
 # Project Plans
 
-
-### prints
-<p align="center">
-  <a href="./plans/block-plane-mount">
-    <img src="plans/block-plane-mount/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/board-hook">
-    <img src="plans/board-hook/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/plane-mount">
-    <img src="plans/plane-mount/wireframe1.png" width="45%"/>
-  </a>
-</p>
 <p align="center">
   <a href="./plans/cross-lap-jig">
     <img src="plans/cross-lap-jig/images/wireframe.png" width="45%"/>
@@ -45,6 +32,19 @@
   </a>
   <a href="./plans/suizan-hook">
     <img src="plans/suizan-hook/wireframe.png" width="45%"/>
+  </a>
+</p>
+
+### prints
+<p align="center">
+  <a href="./plans/block-plane-mount">
+    <img src="plans/block-plane-mount/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/board-hook">
+    <img src="plans/board-hook/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/plane-mount">
+    <img src="plans/plane-mount/wireframe1.png" width="45%"/>
   </a>
 </p>
 
