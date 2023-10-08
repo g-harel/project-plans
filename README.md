@@ -7,16 +7,22 @@
     <img src="plans/cross-lap-jig/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/dog-home">
-    <img src="plans/dog-home/images/wireframe.png" width="45%"/>
+    <img src="plans/dog-home/images/wireframe1.png" width="45%"/>
   </a>
   <a href="./plans/hub-sign">
     <img src="plans/hub-sign/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/centrotec-mount">
+    <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/drill-guide">
+    <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/euro-bench">
-    <img src="plans/euro-bench/wireframe.png" width="45%"/>
+    <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/knew-hook">
     <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
@@ -25,13 +31,16 @@
     <img src="plans/origami-coffee-table/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrap-cart">
-    <img src="plans/scrap-cart/wireframe.png" width="45%"/>
+    <img src="plans/scrap-cart/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/suizan-hook">
     <img src="plans/suizan-hook/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/wax-mount">
+    <img src="plans/wax-mount/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -70,6 +79,8 @@
     └ plans.pdf          | Written project instructions.
     └ images             |
       └ wireframe.png    | Square hero image summarizing the form.
+    └ templates          |
+      └ partA.svg        | Vector-based CNC paths for parts.
     └ ...                |
 ```
 

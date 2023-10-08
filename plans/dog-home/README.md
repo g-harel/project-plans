@@ -1,7 +1,8 @@
-<!-- 2023-08-07 -->
+<!-- 2023-10-08 -->
 
 <p align="center">
-  <img src="../../plans/dog-home/images/wireframe.png" width="40%"/>
+  <img src="../../plans/dog-home/images/wireframe1.png" width="40%"/>
+  <img src="../../plans/dog-home/images/wireframe2.png" width="40%"/>
 </p>
 <h1 align="center">
   Dog Home
