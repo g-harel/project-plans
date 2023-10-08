@@ -1,8 +1,9 @@
-<!-- 2023-10-05 -->
+<!-- 2023-10-08 -->
 
 <p align="center">
-  <img src="../../plans/plane-mount/wireframe1.png" width="40%"/>
-  <img src="../../plans/plane-mount/wireframe2.png" width="40%"/>
+  <img src="../../plans/plane-mount/wireframe.png" width="26.666666666666668%"/>
+  <img src="../../plans/plane-mount/wireframe1.png" width="26.666666666666668%"/>
+  <img src="../../plans/plane-mount/wireframe2.png" width="26.666666666666668%"/>
 </p>
 <h1 align="center">
   Fore Plane Wall Mount

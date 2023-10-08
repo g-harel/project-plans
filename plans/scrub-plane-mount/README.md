@@ -1,5 +1,8 @@
-<!-- 2023-10-06 -->
+<!-- 2023-10-08 -->
 
+<p align="center">
+  <img src="../../plans/scrub-plane-mount/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Scrub Plane Mount
   <br>

@@ -1,4 +1,4 @@
-<!-- 2023-10-07 -->
+<!-- 2023-10-08 -->
 
 # Project Plans
 
@@ -44,7 +44,10 @@
     <img src="plans/board-hook/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/plane-mount">
-    <img src="plans/plane-mount/wireframe1.png" width="45%"/>
+    <img src="plans/plane-mount/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/scrub-plane-mount">
+    <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
   </a>
 </p>
 
