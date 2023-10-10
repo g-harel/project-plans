@@ -1,7 +1,7 @@
-<!-- 2023-10-05 -->
+<!-- 2023-10-10 -->
 
 <p align="center">
-  <img src="../../plans/hub-sign/wireframe.png" width="40%"/>
+  <img src="../../plans/hub-sign/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
   HUB Sign

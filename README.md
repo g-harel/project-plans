@@ -1,4 +1,4 @@
-<!-- 2023-10-08 -->
+<!-- 2023-10-10 -->
 
 # Project Plans
 
@@ -10,7 +10,7 @@
     <img src="plans/dog-home/images/wireframe1.png" width="45%"/>
   </a>
   <a href="./plans/hub-sign">
-    <img src="plans/hub-sign/wireframe.png" width="45%"/>
+    <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/centrotec-mount">
     <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>
