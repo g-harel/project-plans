@@ -1,4 +1,4 @@
-<!-- 2023-10-10 -->
+<!-- 2023-10-11 -->
 
 # Project Plans
 
@@ -12,14 +12,8 @@
   <a href="./plans/hub-sign">
     <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/centrotec-mount">
-    <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/drill-guide">
-    <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/euro-bench">
     <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
@@ -52,8 +46,14 @@
   <a href="./plans/board-hook">
     <img src="plans/board-hook/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/centrotec-mount">
+    <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/drill-guide">
+    <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
