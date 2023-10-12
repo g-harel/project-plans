@@ -1,0 +1,10 @@
+{
+  "name": "Wax Mount",
+  "genDocs": true,
+  "pitch": "Wall mounted holder for Lie-Nielsen plane wax.",
+  "description": [
+    "Designed to work even when the stick is smaller than the holder"
+  ],
+  "links": ["https://www.lie-nielsen.com/products/wax-stick"],
+  "category": "prints"
+}

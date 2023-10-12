@@ -1,4 +1,4 @@
-<!-- 2023-10-11 -->
+<!-- 2023-10-12 -->
 
 <p align="center">
   <img src="../../plans/drill-guide/images/wireframe.png" width="40%"/>
@@ -6,5 +6,5 @@
 <h1 align="center">
   Perpendicular Drill Guide
   <br>
-  <sup><sub><sup>Quick-to-print drill guide for _mostly_ perpendicular holes.<sup></sub>
+  <sup><sub><sup>Quick-to-print drill guide for &lt;i&gt;mostly&lt;&#x2F;i&gt; perpendicular holes.<sup></sub>
 </h1>

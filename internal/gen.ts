@@ -38,7 +38,9 @@ const getPlans = async (): Promise<Plan[]> => {
       const infoFile = await Deno.readTextFile(join(path, "info.json"));
       info = Object.assign(info, JSON.parse(infoFile));
     } catch (e) {
-      if (!(e instanceof Deno.errors.NotFound)) {
+      if ((e instanceof Deno.errors.NotFound)) {
+        console.log("missing info: " + f.name);
+      } else {
         console.error(e);
       }
     }

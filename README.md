@@ -1,4 +1,4 @@
-<!-- 2023-10-11 -->
+<!-- 2023-10-12 -->
 
 # Project Plans
 
@@ -33,9 +33,6 @@
   <a href="./plans/suizan-hook">
     <img src="plans/suizan-hook/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/wax-mount">
-    <img src="plans/wax-mount/images/wireframe.png" width="45%"/>
-  </a>
 </p>
 
 ### prints
@@ -57,6 +54,9 @@
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/wax-mount">
+    <img src="plans/wax-mount/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
