@@ -3,9 +3,6 @@
 # Project Plans
 
 <p align="center">
-  <a href="./plans/cross-lap-jig">
-    <img src="plans/cross-lap-jig/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/dog-home">
     <img src="plans/dog-home/images/wireframe1.png" width="45%"/>
   </a>

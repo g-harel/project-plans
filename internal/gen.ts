@@ -19,6 +19,7 @@ interface PlanInfo {
   links?: string[];
   inspirationLinks?: string[];
   category?: string;
+  hidden?: boolean;
 }
 
 const getPlans = async (): Promise<Plan[]> => {
@@ -59,6 +60,7 @@ const writeRepoReadme = async (plans: Plan[]) => {
   const wireframesByCategory = plans.reduce<Record<string, Plan[]>>(
     (acc, p) => {
       if (p.wireframePaths.length === 0) return acc;
+      if (p.info.hidden) return acc;
       const category = p.info.category || "";
       if (!acc[category]) acc[category] = [];
       acc[category].push(p);
