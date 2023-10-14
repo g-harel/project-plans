@@ -1,4 +1,4 @@
-<!-- 2023-10-12 -->
+<!-- 2023-10-14 -->
 
 # Project Plans
 
@@ -15,9 +15,6 @@
   <a href="./plans/euro-bench">
     <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/knew-hook">
-    <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/origami-coffee-table">
     <img src="plans/origami-coffee-table/wireframe.png" width="45%"/>
   </a>
@@ -26,9 +23,6 @@
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/suizan-hook">
-    <img src="plans/suizan-hook/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -46,11 +40,17 @@
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/knew-hook">
+    <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/drill-guide">
     <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/suizan-hook">
+    <img src="plans/suizan-hook/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/wax-mount">
     <img src="plans/wax-mount/images/wireframe.png" width="45%"/>
