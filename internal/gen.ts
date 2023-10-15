@@ -104,3 +104,59 @@ const writeTemplate = async (template: string, out: string, args: any) => {
 const plans = await getPlans();
 await writeRepoReadme(plans);
 await Promise.all(plans.map(writeDocs));
+
+const strings = [
+  "prints > mounts > wall",
+  "prints",
+  "experimental",
+  "workshop",
+  "workshop > jigs",
+  "furniture",
+  "",
+];
+
+interface Tree<T> {
+  items: T[];
+  categories: {
+    [category: string]: Tree<T>;
+  };
+}
+
+interface FlatTree<T> {
+  categories: {
+    level: number;
+    name: string;
+    items: T[];
+  }[]
+}
+
+const parse = (lines: PlanInfo[]): FlatTree<PlanInfo> => {
+  // Create tree from input plans.
+  const tree: Tree<PlanInfo> = {
+    items: [],
+    categories: {},
+  };
+  for (const line of lines) {
+    if (line.category === undefined) {
+      tree.items.push(line);
+      continue;
+    }
+    
+    let currentTreePointer = tree;
+    for (const level of line.category.split(" > ")) {
+      if (currentTreePointer.categories[level] === undefined) {
+        currentTreePointer.categories[level] = {items: [], categories: {}};
+      }
+      currentTreePointer = currentTreePointer.categories[level];
+    }
+    currentTreePointer.items.push(line);
+  }
+  console.log(JSON.stringify(tree, null, 2));
+
+  // Flatten tree + sort.
+  // TODO
+
+  return {categories: []};
+};
+
+parse(strings.map((s, i) => ({name: String(i), category: s})));
