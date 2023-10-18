@@ -128,9 +128,11 @@ interface FlatBranch<T> {
   items: T[];
 }
 
-const parse = (lines: PlanInfo[]): FlatBranch<PlanInfo>[] => {
+const parse = <T extends { category?: string }>(
+  lines: T[],
+): FlatBranch<T>[] => {
   // Create tree from input plans.
-  const tree: Tree<PlanInfo> = {
+  const tree: Tree<T> = {
     items: [],
     categories: {},
   };
@@ -149,23 +151,17 @@ const parse = (lines: PlanInfo[]): FlatBranch<PlanInfo>[] => {
     }
     currentTreePointer.items.push(line);
   }
-  console.log(JSON.stringify(tree, null, 2));
 
   // Flatten tree + sort.
-  const branches: FlatBranch<PlanInfo>[] = [];
-  const depthFirst = (tree: Tree<PlanInfo>, name: string, level: number) => {
-    branches.push({
-      level,
-      name,
-      items: tree.items,
-    });
-    Object.entries(tree.categories).sort((a, b) => a[0] < b[0] ? 1 : -1)
-      .forEach(([name, tree]) => depthFirst(tree, name, level++));
+  const branches: FlatBranch<T>[] = [];
+  const depthFirst = (tree: Tree<T>, name: string, level: number) => {
+    if (level) branches.push({ level, name, items: tree.items });
+    Object.entries(tree.categories).sort((a, b) => a[0] > b[0] ? 1 : -1)
+      .forEach(([name, tree]) => depthFirst(tree, name, level + 1));
   };
   depthFirst(tree, "", 0);
 
-  console.log(branches);
   return branches;
 };
 
-parse(strings.map((s, i) => ({ name: String(i), category: s })));
+parse(strings.map((s) => ({ category: s })));
