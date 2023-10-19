@@ -1,6 +1,7 @@
-<!-- 2023-10-14 -->
+<!-- 2023-10-19 -->
 
 # Project Plans
+
 
 <p align="center">
   <a href="./plans/dog-home">
@@ -25,8 +26,13 @@
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
   </a>
 </p>
-
-### prints
+## prints
+<p align="center">
+  <a href="./plans/drill-guide">
+    <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
+  </a>
+</p>
+### mounts
 <p align="center">
   <a href="./plans/block-plane-mount">
     <img src="plans/block-plane-mount/wireframe.png" width="45%"/>
@@ -42,9 +48,6 @@
   </a>
   <a href="./plans/knew-hook">
     <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/drill-guide">
-    <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>

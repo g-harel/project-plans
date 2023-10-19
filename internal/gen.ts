@@ -57,19 +57,15 @@ const getPlans = async (): Promise<Plan[]> => {
 };
 
 const writeRepoReadme = async (plans: Plan[]) => {
-  const wireframesByCategory = plans.reduce<Record<string, Plan[]>>(
-    (acc, p) => {
-      if (p.wireframePaths.length === 0) return acc;
-      if (p.info.hidden) return acc;
-      const category = p.info.category || "";
-      if (!acc[category]) acc[category] = [];
-      acc[category].push(p);
-      return acc;
-    },
-    {},
+  const r = parse(
+    plans.filter((p) => !!p.wireframePaths.length && !p.info.hidden),
+    (p) => p.info.category || "",
   );
   await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
-    wireframesByCategory: Object.entries(wireframesByCategory).sort(),
+    wireframeCategories: r.map((r) => {
+      if (r.name) r.name = "#".repeat(r.level + 1) + " " + r.name;
+      return r;
+    }),
   });
 };
 
@@ -101,20 +97,6 @@ const writeTemplate = async (template: string, out: string, args: any) => {
   await Deno.writeTextFile(out, formatted);
 };
 
-const plans = await getPlans();
-await writeRepoReadme(plans);
-await Promise.all(plans.map(writeDocs));
-
-const strings = [
-  "prints > mounts > wall",
-  "prints",
-  "experimental",
-  "workshop",
-  "workshop > jigs",
-  "furniture",
-  "",
-];
-
 interface Tree<T> {
   items: T[];
   categories: {
@@ -128,8 +110,9 @@ interface FlatBranch<T> {
   items: T[];
 }
 
-const parse = <T extends { category?: string }>(
+const parse = <T>(
   lines: T[],
+  categorizer: (line: T) => string,
 ): FlatBranch<T>[] => {
   // Create tree from input plans.
   const tree: Tree<T> = {
@@ -137,13 +120,9 @@ const parse = <T extends { category?: string }>(
     categories: {},
   };
   for (const line of lines) {
-    if (line.category === undefined) {
-      tree.items.push(line);
-      continue;
-    }
-
+    const category = categorizer(line);
     let currentTreePointer = tree;
-    for (const level of line.category.split(" > ")) {
+    for (const level of category.split(" > ")) {
       if (currentTreePointer.categories[level] === undefined) {
         currentTreePointer.categories[level] = { items: [], categories: {} };
       }
@@ -164,4 +143,6 @@ const parse = <T extends { category?: string }>(
   return branches;
 };
 
-parse(strings.map((s) => ({ category: s })));
+const plans = await getPlans();
+await writeRepoReadme(plans);
+await Promise.all(plans.map(writeDocs));
