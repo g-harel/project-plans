@@ -3,6 +3,8 @@
 # Project Plans
 
 
+
+
 <p align="center">
   <a href="./plans/dog-home">
     <img src="plans/dog-home/images/wireframe1.png" width="45%"/>
@@ -26,13 +28,17 @@
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
   </a>
 </p>
+
 ## prints
+
 <p align="center">
   <a href="./plans/drill-guide">
     <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
   </a>
 </p>
+
 ### mounts
+
 <p align="center">
   <a href="./plans/block-plane-mount">
     <img src="plans/block-plane-mount/wireframe.png" width="45%"/>
