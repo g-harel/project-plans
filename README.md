@@ -1,4 +1,4 @@
-<!-- 2023-10-19 -->
+<!-- 2023-10-20 -->
 
 # Project Plans
 
@@ -15,9 +15,6 @@
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/euro-bench">
-    <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/origami-coffee-table">
     <img src="plans/origami-coffee-table/wireframe.png" width="45%"/>
   </a>
@@ -26,6 +23,19 @@
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
+  </a>
+</p>
+
+## furniture
+
+<p align="center">
+</p>
+
+### workshop
+
+<p align="center">
+  <a href="./plans/euro-bench">
+    <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
