@@ -1,5 +1,8 @@
-<!-- 2023-10-23 -->
+<!-- 2023-10-26 -->
 
+<p align="center">
+  <img src="../../plans/clamp-rack/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Clamp Rack
   <br>
