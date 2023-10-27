@@ -1,4 +1,4 @@
-<!-- 2023-10-26 -->
+<!-- 2023-10-27 -->
 
 # Project Plans
 
@@ -32,6 +32,15 @@
 ## furniture
 
 <p align="center">
+  <a href="./plans/blanket-ladder">
+    <img src="plans/blanket-ladder/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/woodman">
+    <img src="plans/woodman/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/bookshelf">
+    <img src="plans/bookshelf/wireframe.png" width="45%"/>
+  </a>
 </p>
 
 ### workshop
