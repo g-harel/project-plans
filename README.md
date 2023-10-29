@@ -1,4 +1,4 @@
-<!-- 2023-10-27 -->
+<!-- 2023-10-29 -->
 
 # Project Plans
 
@@ -41,6 +41,9 @@
   <a href="./plans/bookshelf">
     <img src="plans/bookshelf/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/console-organizer">
+    <img src="plans/console-organizer/images/wireframe.png" width="45%"/>
+  </a>
 </p>
 
 ### workshop
@@ -76,6 +79,9 @@
   </a>
   <a href="./plans/knew-hook">
     <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/m18-mount">
+    <img src="plans/m18-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>

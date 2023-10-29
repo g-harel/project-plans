@@ -1,5 +1,8 @@
-<!-- 2023-10-28 -->
+<!-- 2023-10-29 -->
 
+<p align="center">
+  <img src="../../plans/m18-mount/images/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   M18 Battery Mount
   <br>
