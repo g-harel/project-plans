@@ -1,4 +1,4 @@
-<!-- 2023-10-29 -->
+<!-- 2023-10-31 -->
 
 # Project Plans
 
@@ -6,26 +6,30 @@
 
 
 <p align="center">
-  <a href="./plans/clamp-rack">
-    <img src="plans/clamp-rack/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/dog-home">
-    <img src="plans/dog-home/images/wireframe1.png" width="45%"/>
-  </a>
   <a href="./plans/hub-sign">
     <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/origami-coffee-table">
-    <img src="plans/origami-coffee-table/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/scrap-cart">
     <img src="plans/scrap-cart/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
+  </a>
+</p>
+
+## experiments
+
+<p align="center">
+</p>
+
+### furniture
+
+<p align="center">
+  <a href="./plans/origami-coffee-table">
+    <img src="plans/origami-coffee-table/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -49,6 +53,12 @@
 ### workshop
 
 <p align="center">
+  <a href="./plans/clamp-rack">
+    <img src="plans/clamp-rack/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/dog-home">
+    <img src="plans/dog-home/images/wireframe1.png" width="45%"/>
+  </a>
   <a href="./plans/euro-bench">
     <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
   </a>
