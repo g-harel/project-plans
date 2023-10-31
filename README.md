@@ -12,9 +12,6 @@
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/scrap-cart">
-    <img src="plans/scrap-cart/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
   </a>
@@ -61,6 +58,9 @@
   </a>
   <a href="./plans/euro-bench">
     <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/scrap-cart">
+    <img src="plans/scrap-cart/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
