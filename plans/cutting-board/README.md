@@ -1,10 +1,11 @@
-```
-[x] straight rip boards
-[x] add mini dominos
-[x] glue panel
-[ ] flatten/sand panel
-[ ] cross panels into strips
-[ ] flip and re-glue pieces
-[ ] flatten boards
-[ ] round corners
-```
+<!-- 2023-11-01 -->
+
+<p align="center">
+  <img src="../../plans/cutting-board/images/wireframe1.png" width="40%"/>
+  <img src="../../plans/cutting-board/images/wireframe2.png" width="40%"/>
+</p>
+<h1 align="center">
+  Cutting Board
+  <br>
+  <sup><sub><sup>Oversized end-grain maple cutting board &amp; storage stand.<sup></sub>
+</h1>
