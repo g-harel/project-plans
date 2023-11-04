@@ -1,4 +1,4 @@
-<!-- 2023-11-01 -->
+<!-- 2023-11-04 -->
 
 # Project Plans
 
@@ -69,6 +69,9 @@
 <p align="center">
   <a href="./plans/cutting-board">
     <img src="plans/cutting-board/images/wireframe1.png" width="45%"/>
+  </a>
+  <a href="./plans/mouse-house">
+    <img src="plans/mouse-house/wireframe.png" width="45%"/>
   </a>
 </p>
 
