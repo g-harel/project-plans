@@ -1,13 +1,11 @@
 [x] cnc clamp shelves & cut in half
 [x] cut rough parts to size
 [x] cnc corner treatments
-[ ] sand pieces
-[ ] mock assemble & label joints
-[ ] dominos
-[ ] refine fit/alignment with handplane
-[ ] mark chamfer edges with marker
-[ ] tape to table and chamfer clamp shelves with fence
-[ ] tape to table & route remaining chamfers
+[7] sand pieces
+[x] mock assemble & label joints
+[x] dominos
+[x] mark chamfer edges with marker
+[x] tape to table & route chamfers
 [ ] assemble
 [ ] confirm stud spacing
 [ ] drill and chamfer holes in stretchers
