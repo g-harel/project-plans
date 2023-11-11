@@ -6,13 +6,13 @@
 [x] dominos
 [x] mark chamfer edges with marker
 [x] tape to table & route chamfers
-[ ] assemble
-[ ] confirm stud spacing
-[ ] drill and chamfer holes in stretchers
-[ ] find good stud elevation
-[ ] drill hole in center stud
-[ ] screw mount to wall with one screw
-[ ] level shelves
-[ ] drill & screw second hole
-[ ] drill & screw remaining holes
-[ ] clamps
+[x] assemble
+[x] confirm stud spacing
+[x] drill and chamfer holes in stretchers
+[x] find good stud elevation
+[x] drill hole in center stud
+[x] screw mount to wall with one screw
+[x] level shelves
+[x] drill & screw second hole
+[x] drill & screw remaining holes
+[x] load up clamps
