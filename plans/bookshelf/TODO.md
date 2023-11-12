@@ -11,11 +11,12 @@
 [x] add more glue to kerfs while clamped
 [x] remove from jig & sand smooth
 [x] glue veneer on either side of arch
-[ ] soften inside face frame edges
-[ ] glue dominos in face frame
-[ ] glue face frame to carcass
+[x] soften inside face frame edges
+[x] glue dominos in face frame
+[x] glue face frame to carcass
 [ ] flush route face frame to outside
-[ ] refine face frame shelf alignment
+[ ] flush route face frame to shelves
+[ ] refine face frame shelf to side curve
 [ ] round over face frame face (NOT BOTTOM INSIDE SHELF)
 [ ] hand sand face frame
 [ ] apply coat of rubio to face frame
