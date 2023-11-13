@@ -14,9 +14,9 @@
 [x] soften inside face frame edges
 [x] glue dominos in face frame
 [x] glue face frame to carcass
-[ ] flush route face frame to outside
-[ ] flush route face frame to shelves
-[ ] refine face frame shelf to side curve
+[x] flush route face frame to outside
+[x] flush route face frame to shelves
+[x] refine face frame shelf to side curve
 [ ] round over face frame face (NOT BOTTOM INSIDE SHELF)
 [ ] hand sand face frame
 [ ] apply coat of rubio to face frame
