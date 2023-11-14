@@ -1,7 +1,7 @@
-<!-- 2023-10-26 -->
+<!-- 2023-11-13 -->
 
 <p align="center">
-  <img src="../../plans/clamp-rack/wireframe.png" width="40%"/>
+  <img src="../../plans/clamp-rack/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
   Clamp Rack
