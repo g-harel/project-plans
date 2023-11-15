@@ -1,4 +1,4 @@
-<!-- 2023-11-13 -->
+<!-- 2023-11-15 -->
 
 # Project Plans
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="./plans/blanket-ladder">
-    <img src="plans/blanket-ladder/wireframe.png" width="45%"/>
+    <img src="plans/blanket-ladder/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/woodman">
     <img src="plans/woodman/wireframe.png" width="45%"/>
@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="./plans/block-plane-mount">
-    <img src="plans/block-plane-mount/wireframe.png" width="45%"/>
+    <img src="plans/block-plane-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/board-hook">
     <img src="plans/board-hook/images/wireframe.png" width="45%"/>

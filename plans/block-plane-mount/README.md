@@ -1,7 +1,7 @@
-<!-- 2023-10-19 -->
+<!-- 2023-11-15 -->
 
 <p align="center">
-  <img src="../../plans/block-plane-mount/wireframe.png" width="40%"/>
+  <img src="../../plans/block-plane-mount/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
   Block Plane Mount

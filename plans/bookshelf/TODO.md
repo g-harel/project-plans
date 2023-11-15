@@ -23,6 +23,7 @@
 [ ] scuff face frame
 [ ] apply second coat of rubio to face frame
 [ ] drill adjustable feet holes
-[ ] cut back panels square and to size
+[x] cut back panel rectangles to size
+[ ] cut arched back panel
 [ ] apply wallpaper to back panels
 [ ] staple back panels to carcass
