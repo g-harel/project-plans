@@ -30,10 +30,6 @@ const getPlans = async (): Promise<Plan[]> => {
     const wireframePaths = await glob(`**/${f.name}/**/wireframe*.png`);
     const patternPaths = await glob(`**/${f.name}/**/*.svg`);
 
-    if (wireframePaths.length === 0) {
-      console.log(`missing wireframes: ${f.name}`);
-    }
-
     let info: PlanInfo = { name: f.name };
     try {
       const infoFile = await Deno.readTextFile(join(path, "info.json"));
@@ -43,6 +39,12 @@ const getPlans = async (): Promise<Plan[]> => {
         console.log("missing info: " + f.name);
       } else {
         console.error(e);
+      }
+    }
+
+    if (wireframePaths.length === 0) {
+      if (!info.hidden) {
+        console.log(`missing wireframes: ${f.name}`);
       }
     }
 
