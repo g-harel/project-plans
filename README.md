@@ -1,4 +1,4 @@
-<!-- 2023-11-15 -->
+<!-- 2023-11-17 -->
 
 # Project Plans
 
@@ -11,6 +11,9 @@
   </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/marking-hook">
+    <img src="plans/marking-hook/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
