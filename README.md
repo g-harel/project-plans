@@ -48,6 +48,9 @@
   <a href="./plans/pipi-hut">
     <img src="plans/pipi-hut/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/topper-block">
+    <img src="plans/topper-block/images/wireframe.png" width="45%"/>
+  </a>
 </p>
 
 ### workshop
