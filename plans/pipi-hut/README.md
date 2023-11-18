@@ -1,5 +1,8 @@
-<!-- 2023-10-19 -->
+<!-- 2023-11-18 -->
 
+<p align="center">
+  <img src="../../plans/pipi-hut/images/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Pipi Hut
   <br>

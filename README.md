@@ -1,4 +1,4 @@
-<!-- 2023-11-17 -->
+<!-- 2023-11-18 -->
 
 # Project Plans
 
@@ -11,9 +11,6 @@
   </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/marking-hook">
-    <img src="plans/marking-hook/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
@@ -47,6 +44,9 @@
   </a>
   <a href="./plans/console-organizer">
     <img src="plans/console-organizer/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/pipi-hut">
+    <img src="plans/pipi-hut/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -106,6 +106,9 @@
   </a>
   <a href="./plans/m18-mount">
     <img src="plans/m18-mount/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/marking-hook">
+    <img src="plans/marking-hook/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
