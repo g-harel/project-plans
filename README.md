@@ -1,4 +1,4 @@
-<!-- 2023-11-18 -->
+<!-- 2023-11-20 -->
 
 # Project Plans
 
@@ -6,14 +6,8 @@
 
 
 <p align="center">
-  <a href="./plans/hub-sign">
-    <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/snuffle-frame">
-    <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -76,8 +70,14 @@
   <a href="./plans/cutting-board">
     <img src="plans/cutting-board/images/wireframe1.png" width="45%"/>
   </a>
+  <a href="./plans/hub-sign">
+    <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/mouse-house">
     <img src="plans/mouse-house/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/snuffle-frame">
+    <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
   </a>
 </p>
 
