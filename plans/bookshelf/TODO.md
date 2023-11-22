@@ -17,13 +17,18 @@
 [x] flush route face frame to outside
 [x] flush route face frame to shelves
 [x] refine face frame shelf to side curve
-[ ] round over face frame face (NOT BOTTOM INSIDE SHELF)
-[ ] hand sand face frame
+[x] fill in and smooth face frame gaps
+[x] round over face frame face (NOT CABINET HOLE)
+[x] break edge of cabinet hole
+[5] hand sand face frame + near shelf area
 [ ] apply coat of rubio to face frame
 [ ] scuff face frame
 [ ] apply second coat of rubio to face frame
 [ ] drill adjustable feet holes
 [x] cut back panel rectangles to size
-[ ] cut arched back panel
+[x] cut arched back panel
+[x] test and resize back panels to slightly undersized
 [ ] apply wallpaper to back panels
 [ ] staple back panels to carcass
+[x] drill hidden levelling feet holes
+[x] drill levelling feet adjustment holes
