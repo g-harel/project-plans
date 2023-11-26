@@ -18,17 +18,23 @@
 [x] flush route face frame to shelves
 [x] refine face frame shelf to side curve
 [x] fill in and smooth face frame gaps
+[x] drill hidden levelling feet holes
+[x] drill levelling feet adjustment holes
 [x] round over face frame face (NOT CABINET HOLE)
 [x] break edge of cabinet hole
 [5] hand sand face frame + near shelf area
 [ ] apply coat of rubio to face frame
 [ ] scuff face frame
 [ ] apply second coat of rubio to face frame
-[ ] drill adjustable feet holes
 [x] cut back panel rectangles to size
 [x] cut arched back panel
 [x] test and resize back panels to slightly undersized
 [ ] apply wallpaper to back panels
 [ ] staple back panels to carcass
-[x] drill hidden levelling feet holes
-[x] drill levelling feet adjustment holes
+[ ] trace face frame of cabinet onto mdf panel
+[ ] cut traced shape from mdf
+[ ] refine shape until 1-2mm gap around
+[ ] use templates to trace out cabinet doors on ply (use continuous)
+[ ] jigsaw near line on cabinet doors
+[ ] use templates to router out cabinet doors
+[ ] add edge banding to doors
