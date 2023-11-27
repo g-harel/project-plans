@@ -26,11 +26,17 @@
 [ ] apply coat of rubio to face frame
 [ ] scuff face frame
 [ ] apply second coat of rubio to face frame
+
+back panels
 [x] cut back panel rectangles to size
 [x] cut arched back panel
 [x] test and resize back panels to slightly undersized
 [ ] apply wallpaper to back panels
 [ ] staple back panels to carcass
+
+cabinet doors
+[x] measure face frame offset and mill stock of that thickness to mount hinges
+[x] cut milled stock to appropriate length
 [ ] trace face frame of cabinet onto mdf panel
 [ ] cut traced shape from mdf
 [ ] refine shape until 1-2mm gap around
