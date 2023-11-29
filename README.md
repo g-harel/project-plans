@@ -1,4 +1,4 @@
-<!-- 2023-11-20 -->
+<!-- 2023-11-29 -->
 
 # Project Plans
 
@@ -50,6 +50,9 @@
 ### workshop
 
 <p align="center">
+  <a href="./plans/battery-shelf">
+    <img src="plans/battery-shelf/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/clamp-rack">
     <img src="plans/clamp-rack/images/wireframe.png" width="45%"/>
   </a>
