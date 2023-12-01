@@ -1,4 +1,4 @@
-<!-- 2023-11-29 -->
+<!-- 2023-12-01 -->
 
 # Project Plans
 
@@ -64,6 +64,9 @@
   </a>
   <a href="./plans/scrap-cart">
     <img src="plans/scrap-cart/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/sharpening-mount">
+    <img src="plans/sharpening-mount/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
