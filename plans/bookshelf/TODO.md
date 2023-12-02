@@ -37,10 +37,10 @@ back panels
 cabinet doors
 [x] measure face frame offset and mill stock of that thickness to mount hinges
 [x] cut milled stock to appropriate length
-[ ] trace face frame of cabinet onto mdf panel
-[ ] cut traced shape from mdf
-[ ] refine shape until 1-2mm gap around
-[ ] use templates to trace out cabinet doors on ply (use continuous)
-[ ] jigsaw near line on cabinet doors
-[ ] use templates to router out cabinet doors
-[ ] add edge banding to doors
+[x] trace face frame of cabinet onto template panel
+[x] cut and refine traced shape from template
+[x] use templates to trace out cabinet doors on ply (use continuous)
+[x] jigsaw near line on ply
+[x] use rabbet router bit to route 1/8" smaller than template on ply
+[x] flush trim remaining ledge on ply.
+[3] add edge banding to doors
