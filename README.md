@@ -1,15 +1,7 @@
-<!-- 2023-12-01 -->
+<!-- 2023-12-04 -->
 
 # Project Plans
 
-
-
-
-<p align="center">
-  <a href="./plans/clamping-square">
-    <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
-  </a>
-</p>
 
 ## experiments
 
@@ -84,6 +76,14 @@
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
+  </a>
+</p>
+
+### jigs
+
+<p align="center">
+  <a href="./plans/clamping-square">
+    <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
