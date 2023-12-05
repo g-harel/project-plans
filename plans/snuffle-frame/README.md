@@ -1,7 +1,7 @@
-<!-- 2023-11-20 -->
+<!-- 2023-12-05 -->
 
 <p align="center">
-  <img src="../../plans/snuffle-frame/wireframe.png" width="40%"/>
+  <img src="../../plans/snuffle-frame/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
   Snuffle Frame

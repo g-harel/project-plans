@@ -1,4 +1,4 @@
-<!-- 2023-12-04 -->
+<!-- 2023-12-05 -->
 
 # Project Plans
 
@@ -75,7 +75,7 @@
     <img src="plans/mouse-house/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/snuffle-frame">
-    <img src="plans/snuffle-frame/wireframe.png" width="45%"/>
+    <img src="plans/snuffle-frame/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
