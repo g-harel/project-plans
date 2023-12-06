@@ -1,20 +1,7 @@
-<!-- 2023-12-05 -->
+<!-- 2023-12-06 -->
 
 # Project Plans
 
-
-## experiments
-
-<p align="center">
-</p>
-
-### furniture
-
-<p align="center">
-  <a href="./plans/origami-coffee-table">
-    <img src="plans/origami-coffee-table/wireframe.png" width="45%"/>
-  </a>
-</p>
 
 ## furniture
 

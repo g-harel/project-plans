@@ -3,5 +3,6 @@
   "genDocs": true,
   "pitch": "Modeling experiment to replicate a geometric coffee table design.",
   "inspirationLinks": ["https://www.castlery.com/us/pla/cupid-coffee-table"],
-  "category": "experiments > furniture"
+  "category": "experiments > furniture",
+  "hidden": "true"
 }

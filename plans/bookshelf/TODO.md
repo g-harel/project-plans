@@ -22,10 +22,12 @@
 [x] drill levelling feet adjustment holes
 [x] round over face frame face (NOT CABINET HOLE)
 [x] break edge of cabinet hole
-[5] hand sand face frame + near shelf area
-[ ] apply coat of rubio to face frame
+[x] hand sand face frame + near shelf area
+[x] apply coat of rubio to face frame
 [ ] scuff face frame
 [ ] apply second coat of rubio to face frame
+[ ] add rubio to cabinet door spacers
+[ ] place spacers where they go with nails then screws out of the way of hinge screws
 
 back panels
 [x] cut back panel rectangles to size
@@ -43,4 +45,5 @@ cabinet doors
 [x] jigsaw near line on ply
 [x] use rabbet router bit to route 1/8" smaller than template on ply
 [x] flush trim remaining ledge on ply.
-[3] add edge banding to doors
+[x] add edge banding to doors
+[x] use jig to drill hinge holes in doors lined up with spacers
