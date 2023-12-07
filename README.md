@@ -1,4 +1,4 @@
-<!-- 2023-12-06 -->
+<!-- 2023-12-07 -->
 
 # Project Plans
 
@@ -71,6 +71,14 @@
 <p align="center">
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
+  </a>
+</p>
+
+### tools
+
+<p align="center">
+  <a href="./plans/screw-clamp">
+    <img src="plans/screw-clamp/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
