@@ -24,9 +24,9 @@
 [x] break edge of cabinet hole
 [x] hand sand face frame + near shelf area
 [x] apply coat of rubio to face frame
-[ ] scuff face frame
-[ ] apply second coat of rubio to face frame
-[ ] add rubio to cabinet door spacers
+[x] scuff face frame
+[x] apply second coat of rubio to face frame
+[x] add rubio to cabinet door spacers
 [ ] place spacers where they go with nails then screws out of the way of hinge screws
 
 back panels
