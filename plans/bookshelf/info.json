@@ -1,5 +1,10 @@
 {
   "name": "Bookshelf",
   "genDocs": true,
-  "category": "furniture"
+  "category": "furniture",
+  "links": [
+    "https://assets.leevalley.com/Original/10092/69020-concealed-levellers-c-01-e.pdf",
+    "https://www.leevalley.com/en-us/shop/hardware/knobs/cabinet/110281-cast-flower-knob?item=00W2062",
+    "https://go.rockler.com/tech/blum-110-degree-blumotion-inset-frameless-hinge-instructions.pdf"
+  ]
 }

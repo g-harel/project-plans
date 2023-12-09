@@ -27,14 +27,14 @@
 [x] scuff face frame
 [x] apply second coat of rubio to face frame
 [x] add rubio to cabinet door spacers
-[ ] place spacers where they go with nails then screws out of the way of hinge screws
+[x] place spacers where they go with nails then screws out of the way of hinge screws
 
 back panels
 [x] cut back panel rectangles to size
 [x] cut arched back panel
 [x] test and resize back panels to slightly undersized
-[ ] apply wallpaper to back panels
-[ ] staple back panels to carcass
+[x] apply wallpaper to back panels
+[x] staple back panels to carcass
 
 cabinet doors
 [x] measure face frame offset and mill stock of that thickness to mount hinges
