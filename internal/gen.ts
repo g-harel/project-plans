@@ -12,14 +12,35 @@ interface Plan {
 }
 
 interface PlanInfo {
+  // Project name.
   name: string;
+
+  // Whether project-specific docs should be generated.
   genDocs?: boolean;
+
+  // One-sentence description of the projects.
   pitch?: string;
+
+  // Multiple paragraphs with more details.
   description?: string[];
+
+  // Relevant resources, documentation, etc.
   links?: string[];
+
+  // Similar projects and inspiration.
   inspirationLinks?: string[];
+
+  // Category formatted by "folder" (a > b > c).
   category?: string;
+
+  // Whether the project should be hidden from the top level index.
   hidden?: boolean;
+
+  // What materials were used for the project.
+  materials?: string[];
+
+  // Which finishes were used for the project.
+  finish?: string[];
 }
 
 const getPlans = async (): Promise<Plan[]> => {
@@ -90,7 +111,7 @@ const writeTemplate = async (template: string, out: string, args: any) => {
     // Don't write if contents haven't changed.
     const existingContents = await Deno.readTextFile(out);
     if (existingContents.trim().endsWith(contents.trim())) return;
-  } catch (e) {
+  } catch (_) {
     // Write if something went wrong or file doesn't exist yet.
   }
 
