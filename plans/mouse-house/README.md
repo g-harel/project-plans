@@ -1,7 +1,7 @@
-<!-- 2023-11-04 -->
+<!-- 2023-12-11 -->
 
 <p align="center">
-  <img src="../../plans/mouse-house/wireframe.png" width="40%"/>
+  <img src="../../plans/mouse-house/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
   Mouse House

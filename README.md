@@ -1,4 +1,4 @@
-<!-- 2023-12-08 -->
+<!-- 2023-12-11 -->
 
 # Project Plans
 
@@ -13,7 +13,7 @@
     <img src="plans/woodman/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/bookshelf">
-    <img src="plans/bookshelf/wireframe.png" width="45%"/>
+    <img src="plans/bookshelf/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/console-organizer">
     <img src="plans/console-organizer/images/wireframe.png" width="45%"/>
@@ -59,7 +59,7 @@
     <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/mouse-house">
-    <img src="plans/mouse-house/wireframe.png" width="45%"/>
+    <img src="plans/mouse-house/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/images/wireframe.png" width="45%"/>
