@@ -4,13 +4,25 @@ import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
 
 const plansRoot = "./plans";
 
+// Representation of a project parsed from a folder.
 interface Plan {
+  // Path of the project folder.
   path: string;
+
+  // Contents of the handwritten project declaration.
   info: PlanInfo;
+
+  // Cell-rendered image of each project item.
   wireframePaths: string[];
+
+  // Project's SVG patterns.
   patternPaths: string[];
+
+  // Completed project pictures.
+  galleryPaths?: string[];
 }
 
+// Manually provided project setup.
 interface PlanInfo {
   // Project name.
   name: string;
