@@ -62,6 +62,7 @@ const getPlans = async (): Promise<Plan[]> => {
     const path = "./" + join(plansRoot, f.name);
     const wireframePaths = await glob(`**/${f.name}/**/wireframe*.png`);
     const patternPaths = await glob(`**/${f.name}/**/*.svg`);
+    const galleryPaths = await glob(`**/${f.name}/**/gallery*.@(jpg|png)`);
 
     let info: PlanInfo = { name: f.name };
     try {
@@ -85,6 +86,7 @@ const getPlans = async (): Promise<Plan[]> => {
       path,
       wireframePaths: wireframePaths.sort(),
       patternPaths: patternPaths.sort(),
+      galleryPaths: galleryPaths.sort(),
       info,
     });
   }
