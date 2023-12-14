@@ -1,4 +1,4 @@
-<!-- 2023-10-19 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/hub-sign/images/wireframe.png" width="40%"/>
@@ -8,7 +8,6 @@
   <br>
   <sup><sub><sup>Chicago-Theater-inspired sign with workins LEDs.<sup></sub>
 </h1>
-
 
 ## Inspiration
 

@@ -13,8 +13,14 @@
 
 {{#info.description}}
 {{{.}}}
-{{/info.description}}
 
+{{/info.description}}
+{{#galleryPaths.0}}
+{{#galleryPaths}}
+![](/{{{.}}})
+{{/galleryPaths}}
+
+{{/galleryPaths.0}}
 {{#info.inspirationLinks.0}}
 ## Inspiration
 

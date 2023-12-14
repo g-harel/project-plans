@@ -1,4 +1,4 @@
-<!-- 2023-10-20 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/euro-bench/images/wireframe.png" width="40%"/>
@@ -8,7 +8,6 @@
   <br>
   <sup><sub><sup>Flexible &amp; compact rolling workbench.<sup></sub>
 </h1>
-
 
 ## Inspiration
 

@@ -1,4 +1,4 @@
-<!-- 2023-11-15 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/block-plane-mount/images/wireframe.png" width="40%"/>
@@ -8,7 +8,6 @@
   <br>
   <sup><sub><sup>Magnetic wall mount for the Lie-Nielsen No. 60-1&#x2F;2 Adjustable Mouth Block Plane.<sup></sub>
 </h1>
-
 
 ## Inspiration
 

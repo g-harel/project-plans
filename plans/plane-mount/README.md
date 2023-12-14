@@ -1,4 +1,4 @@
-<!-- 2023-10-19 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/plane-mount/wireframe.png" width="26.666666666666668%"/>
@@ -10,7 +10,6 @@
   <br>
   <sup><sub><sup>Quick and secure wall mounting for Lie-Nielsen No.6 Fore plane.<sup></sub>
 </h1>
-
 
 ## Inspiration
 

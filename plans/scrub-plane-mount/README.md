@@ -1,4 +1,4 @@
-<!-- 2023-10-19 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/scrub-plane-mount/wireframe.png" width="40%"/>
@@ -8,7 +8,6 @@
   <br>
   <sup><sub><sup>Wall mount for the Lie-Nielsen No. 40-1&#x2F;2 Scrub Plane.<sup></sub>
 </h1>
-
 
 ## Inspiration
 

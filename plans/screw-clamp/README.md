@@ -1,4 +1,4 @@
-<!-- 2023-12-07 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/screw-clamp/images/wireframe.png" width="40%"/>
@@ -8,7 +8,6 @@
   <br>
   <sup><sub><sup>Modernized screw clamp concept inspired by Woodpecker tools.<sup></sub>
 </h1>
-
 
 ## Inspiration
 

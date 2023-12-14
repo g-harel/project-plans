@@ -1,4 +1,4 @@
-<!-- 2023-11-13 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/clamp-rack/images/wireframe.png" width="40%"/>
@@ -8,7 +8,6 @@
   <br>
   <sup><sub><sup>Clamp rack for Bessey EHK and KRE clamps.<sup></sub>
 </h1>
-
 
 ## Inspiration
 

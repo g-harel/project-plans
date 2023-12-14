@@ -1,4 +1,4 @@
-<!-- 2023-12-11 -->
+<!-- 2023-12-14 -->
 
 <p align="center">
   <img src="../../plans/mouse-house/images/wireframe.png" width="40%"/>
@@ -8,3 +8,6 @@
   <br>
   <sup><sub><sup>Cover for a mouse jiggler to protect it from cats.<sup></sub>
 </h1>
+
+![](/plans/mouse-house/images/gallery0.png)
+![](/plans/mouse-house/images/gallery1.jpg)
