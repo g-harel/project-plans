@@ -1,7 +1,15 @@
-<!-- 2023-12-11 -->
+<!-- 2023-12-15 -->
 
 # Project Plans
 
+
+
+
+<p align="center">
+  <a href="./plans/tic-tac-toilet">
+    <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
+  </a>
+</p>
 
 ## furniture
 
@@ -10,7 +18,7 @@
     <img src="plans/blanket-ladder/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/woodman">
-    <img src="plans/woodman/wireframe.png" width="45%"/>
+    <img src="plans/woodman/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/bookshelf">
     <img src="plans/bookshelf/images/wireframe.png" width="45%"/>
@@ -111,7 +119,7 @@
     <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/plane-mount">
-    <img src="plans/plane-mount/wireframe.png" width="45%"/>
+    <img src="plans/plane-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/knew-hook">
     <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
@@ -126,7 +134,7 @@
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/suizan-hook">
-    <img src="plans/suizan-hook/wireframe.png" width="45%"/>
+    <img src="plans/suizan-hook/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/wax-mount">
     <img src="plans/wax-mount/images/wireframe.png" width="45%"/>
