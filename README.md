@@ -1,4 +1,4 @@
-<!-- 2023-12-15 -->
+<!-- 2023-12-18 -->
 
 # Project Plans
 
@@ -6,6 +6,9 @@
 
 
 <p align="center">
+  <a href="./plans/lake-board">
+    <img src="plans/lake-board/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/tic-tac-toilet">
     <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
   </a>
