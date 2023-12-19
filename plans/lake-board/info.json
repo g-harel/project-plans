@@ -1,0 +1,8 @@
+{
+  "name": "Lake Board",
+  "genDocs": true,
+  "pitch": "Serving board shaped like a lake in Quebec.",
+  "category": "objects",
+  "materials": ["walnut"],
+  "finish": ["50% tung oil + 50% citrus solvent"]
+}

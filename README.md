@@ -1,4 +1,4 @@
-<!-- 2023-12-18 -->
+<!-- 2023-12-19 -->
 
 # Project Plans
 
@@ -6,9 +6,6 @@
 
 
 <p align="center">
-  <a href="./plans/lake-board">
-    <img src="plans/lake-board/images/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/tic-tac-toilet">
     <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
   </a>
@@ -68,6 +65,9 @@
   </a>
   <a href="./plans/hub-sign">
     <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/lake-board">
+    <img src="plans/lake-board/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/mouse-house">
     <img src="plans/mouse-house/images/wireframe.png" width="45%"/>
