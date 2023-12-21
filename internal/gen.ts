@@ -53,6 +53,9 @@ interface PlanInfo {
 
   // Which finishes were used for the project.
   finish?: string[];
+
+  // Links to places where the project is published.
+  publishedLinks?: string[];
 }
 
 const getPlans = async (): Promise<Plan[]> => {
