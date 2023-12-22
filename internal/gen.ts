@@ -56,6 +56,25 @@ interface PlanInfo {
 
   // Links to places where the project is published.
   publishedLinks?: string[];
+
+  // TODO(2023-12-21): replace description
+  introduction: Section;
+  supplies: Section & Fields<"tools" | "materials">;
+  steps: (Titled & Section)[]
+}
+
+interface Titled {
+  title: string;
+}
+
+type Fields<T extends string> = {
+  [k in T]: string;
+}
+
+interface Section {
+  body: string;
+  mediaPaths: string[];
+  imagePaths: string[];
 }
 
 const getPlans = async (): Promise<Plan[]> => {
