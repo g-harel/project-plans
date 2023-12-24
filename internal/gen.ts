@@ -33,9 +33,6 @@ interface PlanInfo {
   // One-sentence description of the projects.
   pitch?: string;
 
-  // Multiple paragraphs with more details.
-  description?: string[];
-
   // Relevant resources, documentation, etc.
   links?: string[];
 
@@ -58,9 +55,9 @@ interface PlanInfo {
   publishedLinks?: string[];
 
   // TODO(2023-12-21): replace description
-  introduction: Section;
-  supplies: Section & Fields<"tools" | "materials">;
-  steps: (Titled & Section)[]
+  introduction?: Section;
+  supplies?: Section & Fields<"tools" | "materials">;
+  steps?: (Titled & Section)[]
 }
 
 interface Titled {
@@ -73,8 +70,8 @@ type Fields<T extends string> = {
 
 interface Section {
   body: string;
-  mediaPaths: string[];
-  imagePaths: string[];
+  mediaPaths?: string[];
+  imagePaths?: string[];
 }
 
 const getPlans = async (): Promise<Plan[]> => {

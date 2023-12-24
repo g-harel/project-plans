@@ -2,7 +2,11 @@
   "name": "Example Project",
   "genDocs": true,
   "pitch": "",
-  "description": [],
+  "introduction": {
+    "body": "",
+    "mediaPaths": [],
+    "imagePaths": []
+  },
   "links": [],
   "inspirationLinks": [],
   "publishedLinks": [],
