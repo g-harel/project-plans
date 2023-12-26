@@ -56,8 +56,8 @@ interface PlanInfo {
 
   // TODO(2023-12-21): replace description
   introduction?: Section;
-  supplies?: Section & ListFields<"tools" | "materials">;
-  steps?: (Titled & Section)[]
+  supplies?: Section & ListFields<"materials" | "tools">;
+  steps?: (Titled & Section)[];
 }
 
 interface Titled {
@@ -66,10 +66,10 @@ interface Titled {
 
 type ListFields<T extends string> = {
   [k in T]: string[];
-}
+};
 
 interface Section {
-  body: string;
+  body: string[];
   mediaPaths?: string[];
   imagePaths?: string[];
 }

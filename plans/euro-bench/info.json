@@ -2,6 +2,8 @@
   "name": "Euro Bench",
   "genDocs": true,
   "pitch": "Flexible & compact rolling workbench.",
-  "inspirationLinks": ["https://stores.modularmarket.com/paulk_homes/the-paulk-smart-bench-psb-p21.php"],
+  "inspirationLinks": [
+    "https://stores.modularmarket.com/paulk_homes/the-paulk-smart-bench-psb-p21.php"
+  ],
   "category": "furniture > workshop"
 }

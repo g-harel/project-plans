@@ -3,20 +3,20 @@
   "genDocs": true,
   "pitch": "",
   "introduction": {
-    "body": "",
+    "body": [""],
     "mediaPaths": [],
     "imagePaths": []
   },
   "supplies": {
-    "body": "",
-    "tools": [],
+    "body": [""],
     "materials": [],
+    "tools": [],
     "mediaPaths": [],
     "imagePaths": []
   },
   "steps": [{
     "title": "",
-    "body": "",
+    "body": [""],
     "mediaPaths": [],
     "imagePaths": []
   }],

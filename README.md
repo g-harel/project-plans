@@ -2,9 +2,6 @@
 
 # Project Plans
 
-
-
-
 <p align="center">
   <a href="./plans/tic-tac-toilet">
     <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
