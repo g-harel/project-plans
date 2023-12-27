@@ -54,7 +54,6 @@ interface PlanInfo {
   // Links to places where the project is published.
   publishedLinks?: string[];
 
-  // TODO(2023-12-21): replace description
   introduction?: Section;
   supplies?: Section & ListFields<"materials" | "tools">;
   steps?: (Titled & Section)[];
@@ -70,7 +69,7 @@ type ListFields<T extends string> = {
 
 interface Section {
   body: string[];
-  mediaPaths?: string[];
+  assetPaths?: string[];
   imagePaths?: string[];
 }
 

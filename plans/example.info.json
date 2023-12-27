@@ -4,20 +4,20 @@
   "pitch": "",
   "introduction": {
     "body": [""],
-    "mediaPaths": [],
+    "assetPaths": [],
     "imagePaths": []
   },
   "supplies": {
     "body": [""],
     "materials": [],
     "tools": [],
-    "mediaPaths": [],
+    "assetPaths": [],
     "imagePaths": []
   },
   "steps": [{
     "title": "",
     "body": [""],
-    "mediaPaths": [],
+    "assetPaths": [],
     "imagePaths": []
   }],
   "links": [],
