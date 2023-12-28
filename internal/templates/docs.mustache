@@ -12,9 +12,39 @@
 </h1>
 
 {{#info.introduction}}
-{{{body}}}
+{{#body.0}}
+{{#body}}
+{{{.}}}
+{{/body}}
 
+{{/body.0}}
 {{/info.introduction}}
+{{#info.supplies}}
+# Supplies
+
+{{#body.0}}
+{{#body}}
+{{{.}}}
+
+{{/body}}
+{{/body.0}}
+{{#materials.0}}
+## Materials
+
+{{#materials}}
+- {{.}}
+{{/materials}}
+
+{{/materials.0}}
+{{#tools.0}}
+## Tools
+
+{{#tools}}
+- {{.}}
+{{/tools}}
+
+{{/tools.0}}
+{{/info.supplies}}
 {{#galleryPaths.0}}
 {{#galleryPaths}}
 ![](/{{{.}}})
@@ -27,4 +57,5 @@
 {{#info.inspirationLinks}}
 - {{{.}}}
 {{/info.inspirationLinks}}
+
 {{/info.inspirationLinks.0}}

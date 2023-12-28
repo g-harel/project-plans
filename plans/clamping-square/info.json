@@ -1,6 +1,6 @@
 {
   "name": "Clamping Square",
-  "genDocs": false,
+  "genDocs": true,
   "pitch": "90° clamping aides for Bessey TK-6 clamps.",
   "inspirationLinks": ["https://www.woodpeck.com/clamping-squares-plus.html"],
   "publishedLinks": ["https://www.instructables.com/Clamping-Square/"],

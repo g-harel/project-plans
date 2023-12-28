@@ -1,4 +1,4 @@
-<!-- 2023-10-31 -->
+<!-- 2023-12-28 -->
 
 <p align="center">
   <img src="../../plans/scrap-cart/images/wireframe.png" width="40%"/>
