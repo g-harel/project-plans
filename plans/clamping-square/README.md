@@ -1,4 +1,4 @@
-<!-- 2023-12-28 -->
+<!-- 2023-12-29 -->
 
 <p align="center">
   <img src="../../plans/clamping-square/images/wireframe.png" width="40%"/>
@@ -30,6 +30,48 @@ _Makes two squares_
 - Saw
 - Drill
 - Sandpaper
+
+# Cut a Square
+
+Cut a square with roughly 192mm sides as precisely as possible
+
+<img src="./images/step-square.png" width="490"/>
+
+# Split The Square
+
+Pick two opposing corners and connect with a line.
+
+<img src="./images/step-diagonal.png" width="490"/>
+
+# Notch The Square
+
+Cut off the same two opposing corners 23mm deep and perpendicular to th line.
+
+<img src="./images/step-notch.png" width="490"/>
+
+# Cut The Square
+
+Cut the along the line centering it on the kerf.
+
+<img src="./images/step-split.png" width="490"/>
+
+# Mark The Holes
+
+Mark a line parallel to each face 16mm from the face. Then, measure and mark each hole position every 32mm referencing the faces.
+
+<img src="./images/measurements.png" width="490"/>
+
+# Drill & Chamfer
+
+Drill and chamfer 3/8" holes as perpendicular as possible. Also sand the corner between the two reference faces for glue clearance.
+
+<img src="./images/step-chamfer.png" width="490"/>
+
+# (optional) Packing Tape
+
+Add some clear plastic packing tape to the reference surfaces to avoid gluing the square to your work.
+
+<img src="./images/step-.png" width="490"/>
 
 ## Inspiration
 
