@@ -13,9 +13,7 @@
       "- Both the square and the clamps are bulkier and harder to manipulate.",
       "- Lower precision. Initially it is entirely dependent on the squareness of cut, but wood is more likely to change over time than aluminum.",
       "- Squeeze-out may bond to the surface of the square if some countermeasures are not added (like packing tape)."
-    ],
-    "assetPaths": [],
-    "imagePaths": []
+    ]
   },
   "supplies": {
     "body": ["_Makes two squares_"],
@@ -27,9 +25,7 @@
       "Saw",
       "Drill",
       "Sandpaper"
-    ],
-    "assetPaths": [],
-    "imagePaths": []
+    ]
   },
   "steps": [
     {
@@ -37,13 +33,11 @@
       "body": [
         "Cut a square with roughly 192mm sides as precisely as possible"
       ],
-      "assetPaths": [],
       "imagePaths": ["./images/step-square.png"]
     },
     {
       "title": "Split The Square",
       "body": ["Pick two opposing corners and connect with a line."],
-      "assetPaths": [],
       "imagePaths": ["./images/step-diagonal.png"]
     },
     {
@@ -51,13 +45,11 @@
       "body": [
         "Cut off the same two opposing corners 23mm deep and perpendicular to th line."
       ],
-      "assetPaths": [],
       "imagePaths": ["./images/step-notch.png"]
     },
     {
       "title": "Cut The Square",
       "body": ["Cut the along the line centering it on the kerf."],
-      "assetPaths": [],
       "imagePaths": ["./images/step-split.png"]
     },
     {
@@ -65,7 +57,6 @@
       "body": [
         "Mark a line parallel to each face 16mm from the face. Then, measure and mark each hole position every 32mm referencing the faces."
       ],
-      "assetPaths": [],
       "imagePaths": ["./images/measurements.png"]
     },
     {
@@ -73,7 +64,6 @@
       "body": [
         "Drill and chamfer 3/8\" holes as perpendicular as possible. Also sand the corner between the two reference faces for glue clearance."
       ],
-      "assetPaths": [],
       "imagePaths": ["./images/step-chamfer.png"]
     },
     {
@@ -81,7 +71,6 @@
       "body": [
         "Add some clear plastic packing tape to the reference surfaces to avoid gluing the square to your work."
       ],
-      "assetPaths": [],
       "imagePaths": ["./images/step-.png"]
     }
   ]
