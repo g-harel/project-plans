@@ -55,16 +55,16 @@ interface PlanInfo {
   publishedLinks?: string[];
 
   introduction?: Section;
-  supplies?: Section & ListFields<"materials" | "tools">;
-  steps?: (Titled & Section)[];
+  supplies?: Section & ListFields<string[], "materials" | "tools">;
+  steps?: (Titled & Section & ListFields<number, "__index">)[];
 }
 
 interface Titled {
   title: string;
 }
 
-type ListFields<T extends string> = {
-  [k in T]: string[];
+type ListFields<T, K extends string> = {
+  [k in K]: T;
 };
 
 interface Section {
@@ -126,6 +126,11 @@ const writeRepoReadme = async (plans: Plan[]) => {
 
 const writeDocs = async (plan: Plan) => {
   if (!plan.info.genDocs) return;
+  if (plan.info.steps) {
+    for (let i = 0; i < plan.info.steps.length; i++) {
+      plan.info.steps[i].__index = i + 1;
+    }
+  }
   await writeTemplate(
     "./internal/templates/docs.mustache",
     join(plan.path, "README.md"),
