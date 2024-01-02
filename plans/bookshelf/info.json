@@ -2,6 +2,39 @@
   "name": "Bookshelf",
   "genDocs": true,
   "category": "furniture",
+  "introduction": {
+    "body": [""]
+  },
+  "supplies": {
+    "body": [""],
+    "materials": [
+      "4x8' 3/4\" Walnut Plywood",
+      "2x8' Walnut Veneer",
+      "3x 2x8' 1/4\" MDF",
+      "1x5' 18mm Baltic Birch Plywood",
+      "~8bf Walnut (see cutlist)",
+      "4x Inset Cabinet Hinge (see links)",
+      "4x Concealed Adjustable Levellers (see links)",
+      "2x Brass Knobs (see links)"
+    ],
+    "tools": [
+      "Saw",
+      "Router",
+      "Sander",
+      "Drill",
+      "Clamps",
+      "Card Scraper",
+      "Domino Mortiser"
+    ],
+    "assetPaths": [],
+    "imagePaths": []
+  },
+  "steps": [{
+    "title": "",
+    "body": [""],
+    "assetPaths": [],
+    "imagePaths": []
+  }],
   "links": [
     "https://assets.leevalley.com/Original/10092/69020-concealed-levellers-c-01-e.pdf",
     "https://www.leevalley.com/en-us/shop/hardware/knobs/cabinet/110281-cast-flower-knob?item=00W2062",
