@@ -29,12 +29,50 @@
     "assetPaths": [],
     "imagePaths": []
   },
-  "steps": [{
-    "title": "",
-    "body": [""],
-    "assetPaths": [],
-    "imagePaths": []
-  }],
+  "steps": [
+    {
+      "title": "Cutlist",
+      "body": [""],
+      "assetPaths": [],
+      "imagePaths": []
+    },
+    {
+      "title": "Bending Form",
+      "body": [""],
+      "assetPaths": [],
+      "imagePaths": []
+    },
+    {
+      "title": "Arch",
+      "body": [""],
+      "assetPaths": [],
+      "imagePaths": []
+    },
+    {
+      "title": "Face Frame",
+      "body": [""],
+      "assetPaths": [],
+      "imagePaths": []
+    },
+    {
+      "title": "Frame",
+      "body": [""],
+      "assetPaths": [],
+      "imagePaths": []
+    },
+    {
+      "title": "Doors",
+      "body": [""],
+      "assetPaths": [],
+      "imagePaths": []
+    },
+    {
+      "title": "Panels",
+      "body": [""],
+      "assetPaths": [],
+      "imagePaths": []
+    }
+  ],
   "links": [
     "https://assets.leevalley.com/Original/10092/69020-concealed-levellers-c-01-e.pdf",
     "https://www.leevalley.com/en-us/shop/hardware/knobs/cabinet/110281-cast-flower-knob?item=00W2062",

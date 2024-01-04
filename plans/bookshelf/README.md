@@ -1,4 +1,4 @@
-<!-- 2024-01-02 -->
+<!-- 2024-01-04 -->
 
 <p align="center">
   <img src="../../plans/bookshelf/images/wireframe.png" width="40%"/>
@@ -34,7 +34,19 @@
 
 ## Steps
 
-### 1. 
+### 1. Cutlist
+
+### 2. Bending Form
+
+### 3. Arch
+
+### 4. Face Frame
+
+### 5. Frame
+
+### 6. Doors
+
+### 7. Panels
 
 ![](/plans/bookshelf/images/gallery0.png)
 ![](/plans/bookshelf/images/gallery1.png)
