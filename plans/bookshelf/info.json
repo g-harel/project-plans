@@ -25,7 +25,9 @@
       "Clamps",
       "Card Scraper",
       "Domino Mortiser",
-      "Nailer or stapler"
+      "Nailer or Stapler",
+      "Jigsaw or Bandsaw",
+      "1/8\" rabbeting router bit" 
     ],
     "assetPaths": [],
     "imagePaths": []
@@ -63,7 +65,13 @@
     },
     {
       "title": "Doors",
-      "body": [""],
+      "body": [
+        "Clamp a piece of template material to the face frame so that it covers the entire cabinet door opening. From the back of the cabinet frame, trace the shape of the face frame opening onto the template material. Marking multiple times ensures a more accurate template and reduces the chance of the pencil's thickness offsetting the line. Label the template side that is being marked with \"INSIDE\"",
+        "Using a saw capable of cutting curves (ex. jigsaw, bandsaw) follow the outside of the line, cutting out the template as precisely as possible. Refine the shape to a more precise match with some sanding. Select a veneered plywood section that is larger than the pattern. Temporarily place the pattern onto the veneered plywood making sure that the \"INSIDE\" face of the template is facing the part of the panel that should be visible in the finished piece. Mark the pattern onto the plywood, then cut it out roughly with the same saw as earlier. Use double-stick tape to reattach the template to the veneered plywood panel. Using a 1/8\" rabbeting router bit, run the bit's bearing against the template without cutting into the template. Use a flush trim router bit to remove the remaining material.",
+        "cut two doors + edge banding",
+        "hardware"
+
+      ],
       "assetPaths": [],
       "imagePaths": []
     },
