@@ -27,7 +27,8 @@
       "Domino Mortiser",
       "Nailer or Stapler",
       "Jigsaw or Bandsaw",
-      "1/8\" rabbeting router bit" 
+      "1/8\" rabbeting router bit" ,
+      "Double-Sided Tape"
     ],
     "assetPaths": [],
     "imagePaths": []
@@ -66,11 +67,10 @@
     {
       "title": "Doors",
       "body": [
-        "Clamp a piece of template material to the face frame so that it covers the entire cabinet door opening. From the back of the cabinet frame, trace the shape of the face frame opening onto the template material. Marking multiple times ensures a more accurate template and reduces the chance of the pencil's thickness offsetting the line. Label the template side that is being marked with \"INSIDE\"",
-        "Using a saw capable of cutting curves (ex. jigsaw, bandsaw) follow the outside of the line, cutting out the template as precisely as possible. Refine the shape to a more precise match with some sanding. Select a veneered plywood section that is larger than the pattern. Temporarily place the pattern onto the veneered plywood making sure that the \"INSIDE\" face of the template is facing the part of the panel that should be visible in the finished piece. Mark the pattern onto the plywood, then cut it out roughly with the same saw as earlier. Use double-stick tape to reattach the template to the veneered plywood panel. Using a 1/8\" rabbeting router bit, run the bit's bearing against the template without cutting into the template. Use a flush trim router bit to remove the remaining material.",
-        "cut two doors + edge banding",
-        "hardware"
-
+        "Clamp a piece of template material to the face frame so that it covers the opening of both cabinet doors. From the back of the cabinet frame, trace the shape of the face frame opening onto the template material. Marking multiple times ensures a more accurate template and reduces the chance of the pencil's thickness offsetting the line. Label the template side that is being marked with \"INSIDE\". Using a saw follow the outside of the line, cutting out the template as precisely as possible. Refine the shape to a more precise match with some sanding. ",
+        "Select a piece of veneered plywood that is larger than the pattern and whose grain should be visible in the finished piece. Mark the selected area as \"OUTSIDE\". Temporarily place the pattern onto the veneered plywood making sure that the \"INSIDE\" face of the template is facing the \"OUTSIDE\" face of the panel. Trace the pattern onto the plywood, then cut it out roughly with a saw. Use double-stick tape to solidly reattach the template to the veneered plywood panel. Using a 1/8\" rabbeting router bit, run the bit's bearing against the template without cutting into the template. Detach the template then use a flush trim router bit to remove the remaining material. Verify the fit of the panel in the frame and adjust with sanding as needed for an even reveal all around.",
+        "Mark the center of the panel, then mark a line perpendicular from the bottom which intersects with that center mark. Using a saw, make a cut centered on that line. The most common saw kerfs will remove roughly the right amount of material from both panels to maintain the 1/8\" reveal between the panels, but if you used a different size of rabbeting bit or have a smaller kerf width, cut the appropriate amount off both sides. First apply edge banding to the fresh vertical cut, then to the continuous top-side-bottom face.",
+        "Apply finish, then measure and cut for hardware as specified by the manufacturer. Take care in ensuring the orientation of the panel is as intended and consistent with the now-erased \"OUTSIDE\" mark."
       ],
       "assetPaths": [],
       "imagePaths": []
