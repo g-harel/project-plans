@@ -1,18 +1,30 @@
-{
-    "expenses": [
-        {
-            "description": "4x 18mm 5x5' Baltic Birch @ 135.57",
+[
+    {
+        "title": "Baltic Birch Sheets",
+        "description": "4x 18mm 5x5' Baltic Birch @ 135.57",
+        "date": "2024-01-15",
+        "task": {
+            "type": "",
+            "hours": 2.0
+        },
+        "expense": {
             "retailer": "Owl Hardwood Lumber",
-            "amount": 586,
+            "amount": 586.00,
             "utilization": 0.8
         }
-    ],
-    "tasks": [
-        {
-            "title": "",
-            "description": "",
-            "time": "",
-            "date": ""
+    },
+    {
+        "title": "Whitewash Test",
+        "description": "Test 'Nordic White' Precolor + 'Super White' Part A on scraps.",
+        "date": "2024-01-19",
+        "task": {
+            "type": "prep",
+            "hours": 0.5
+        },
+        "expense": {
+            "retailer": "Amazon",
+            "amount": 40.00,
+            "utilization": 0.05
         }
-    ]
-}
+    }
+]
