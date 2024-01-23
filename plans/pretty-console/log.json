@@ -26,5 +26,14 @@
             "amount": 40.00,
             "utilization": 0.05
         }
+    },
+    {
+        "title": "Bending Jig",
+        "description": "Cut out two matching template pieces out of 3/4\" MDF. Includes alignment slots.",
+        "date": "2024-01-21",
+        "task": {
+            "type": "prep",
+            "hours": 1.5
+        }
     }
 ]
