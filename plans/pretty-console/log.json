@@ -35,5 +35,23 @@
             "type": "prep",
             "hours": 1.5
         }
+    },
+    {
+        "title": "Bending Jig Assembly",
+        "description": "Cut alignment blocks and attach to templates.",
+        "date": "2024-01-28",
+        "task": {
+            "type": "prep",
+            "hours": 0.5
+        }
+    },
+    {
+        "title": "Frame Piece Breakdown",
+        "description": "Rough breakdown of 4x frame pieces along the grain to allow kerf bending.",
+        "date": "2024-01-28",
+        "task": {
+            "type": "breakdown",
+            "hours": 0.5
+        }
     }
 ]
