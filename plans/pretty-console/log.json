@@ -53,5 +53,14 @@
             "type": "breakdown",
             "hours": 0.5
         }
+    },
+    {
+        "title": "Panel Breakdown",
+        "description": "Rough breakdown + labelling of of remaining panels into pieces that can be further sized on the \"MFT\" table.",
+        "date": "2024-01-29",
+        "task": {
+            "type": "breakdown",
+            "hours": 1.0
+        }
     }
 ]
