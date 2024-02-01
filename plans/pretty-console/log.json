@@ -62,5 +62,32 @@
             "type": "breakdown",
             "hours": 1.0
         }
+    },
+    {
+        "title": "Finalize Width of Frames",
+        "description": "Cut frame pieces to final width of 415mm + parallel sides.",
+        "date": "2024-01-30",
+        "task": {
+            "type": "breakdown",
+            "hours": 0.2
+        }
+    },
+    {
+        "title": "Finalize Frames",
+        "description": "Square up one remaining side of frames then cut to 798mm.",
+        "date": "2024-01-31",
+        "task": {
+            "type": "breakdown",
+            "hours": 0.4
+        }
+    },
+    {
+        "title": "Kerf Bending Test",
+        "description": "Test kerf bending parameters on off cuts from frames.",
+        "date": "2024-01-31",
+        "task": {
+            "type": "prep",
+            "hours": 0.5
+        }
     }
 ]
