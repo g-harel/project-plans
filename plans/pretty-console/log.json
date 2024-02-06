@@ -41,7 +41,7 @@
         "description": "Cut alignment blocks and attach to templates.",
         "date": "2024-01-28",
         "task": {
-            "type": "prep",
+            "type": "jigs",
             "hours": 0.5
         }
     },
@@ -88,6 +88,24 @@
         "task": {
             "type": "prep",
             "hours": 0.5
+        }
+    },
+    {
+        "title": "Frame Kerf Cuts",
+        "description": "Mark, set up, and cut all the kerfs in 4x frame pieces.",
+        "date": "2024-02-05",
+        "task": {
+            "type": "bending",
+            "hours": 0.75
+        }
+    },
+    {
+        "title": "Bending Jig Details",
+        "description": "Add clear tape to bending jig edges & attach clamping and alignment blocks",
+        "date": "2024-02-05",
+        "task": {
+            "type": "jigs",
+            "hours": 0.25
         }
     }
 ]
