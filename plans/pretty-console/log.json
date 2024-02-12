@@ -107,5 +107,23 @@
             "type": "jigs",
             "hours": 0.25
         }
+    },
+    {
+        "title": "Frame Bending 1",
+        "description": "Wet the outside of the kerf bend & add glue using a syringe. Bend frame over jig and attach with clamps. Leave to cure for >24h.",
+        "date": "2024-02-09",
+        "task": {
+            "type": "bending",
+            "hours": 0.25
+        }
+    },
+    {
+        "title": "Frame Bending 2",
+        "description": "Wet the outside of the kerf bend & add glue using a syringe. Bend frame over jig and attach with clamps. Leave to cure for >24h.",
+        "date": "2024-02-11",
+        "task": {
+            "type": "bending",
+            "hours": 0.25
+        }
     }
 ]
