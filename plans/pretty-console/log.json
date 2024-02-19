@@ -77,7 +77,7 @@
         "description": "Square up one remaining side of frames then cut to 798mm.",
         "date": "2024-01-31",
         "task": {
-            "type": "breakdown",
+            "type": "dimensioning",
             "hours": 0.4
         }
     },
@@ -142,6 +142,33 @@
         "task": {
             "type": "bending",
             "hours": 0.25
+        }
+    },
+    {
+        "title": "Inside Kerf Bend Sanding",
+        "description": "Using a flap wheel, sand the inside of the kerf bends to remove all the excess glue and smooth out the surface on all frames.",
+        "date": "2024-02-18",
+        "task": {
+            "type": "sanding",
+            "hours": 0.75
+        }
+    },
+    {
+        "title": "Final Dimensioning of Frames",
+        "description": "Placing the frame pieces against a reference surface (wall, bench), mark the correct measurements and trim with a track saw.",
+        "date": "2024-02-18",
+        "task": {
+            "type": "dimensioning",
+            "hours": 0.75
+        }
+    },
+    {
+        "title": "Frame Joinery",
+        "description": "Cut Domino (6x40mm) mortises in the short ends of the frames to connect each pairs together.",
+        "date": "2024-02-18",
+        "task": {
+            "type": "joinery",
+            "hours": 0.5
         }
     }
 ]
