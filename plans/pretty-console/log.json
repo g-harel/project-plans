@@ -170,5 +170,23 @@
             "type": "joinery",
             "hours": 0.5
         }
+    },
+    {
+        "title": "Frame Joinery 2",
+        "description": "Cut Domino connector mortises in the short ends of the frames to connect each pairs together.",
+        "date": "2024-02-19",
+        "task": {
+            "type": "joinery",
+            "hours": 0.75
+        }
+    },
+    {
+        "title": "Frame Assembly",
+        "description": "Insert all dominos and connector hardware, add glue, assemble, and tighten connectors.",
+        "date": "2024-02-19",
+        "task": {
+            "type": "assembly",
+            "hours": 0.5
+        }
     }
 ]
