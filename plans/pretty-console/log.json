@@ -188,5 +188,32 @@
             "type": "assembly",
             "hours": 0.5
         }
+    },
+    {
+        "title": "Final Dimensioning of Sides & Tops",
+        "description": "Using the final measurements from the frames, cut all side and top pieces to that width.",
+        "date": "2024-02-22",
+        "task": {
+            "type": "dimensioning",
+            "hours": 0.5
+        }
+    },
+    {
+        "title": "Final Dimensioning of Sides",
+        "description": "Sneak up on the correct dimension to cut the sides to the correct height so the frames are parallel on either side.",
+        "date": "2024-02-22",
+        "task": {
+            "type": "dimensioning",
+            "hours": 0.5
+        }
+    },
+    {
+        "title": "Final Dimensioning of Frames & Tops",
+        "description": "Using a tall stop block cut the frames to the same final width on top and bottom. Use that same setup to cut the tops to width.",
+        "date": "2024-02-23",
+        "task": {
+            "type": "dimensioning",
+            "hours": 0.5
+        }
     }
 ]
