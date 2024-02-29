@@ -215,5 +215,33 @@
             "type": "dimensioning",
             "hours": 0.5
         }
+    },
+    {
+        "title": "Rubio Monocoat",
+        "description": "Super White - 350ml",
+        "date": "2024-02-26",
+        "task": {
+            "type": "",
+            "hours": 0.0
+        },
+        "expense": {
+            "retailer": "Amazon",
+            "amount": 85.98,
+            "utilization": 0.5
+        }
+    },
+    {
+        "title": "Formica Laminate",
+        "description": "2x 4x8' Mission White @ 68.80",
+        "date": "2024-03-01",
+        "task": {
+            "type": "",
+            "hours": 0.5
+        },
+        "expense": {
+            "retailer": "Home Depot",
+            "amount": 147.58,
+            "utilization": 0.7
+        }
     }
 ]
