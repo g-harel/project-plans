@@ -1,4 +1,4 @@
-<!-- 2024-03-03 -->
+<!-- 2024-03-06 -->
 
 # Project Plans
 
@@ -6,9 +6,6 @@
 
 
 <p align="center">
-  <a href="./plans/dog-mount">
-    <img src="plans/dog-mount/wireframe0.png" width="45%"/>
-  </a>
   <a href="./plans/euro-router">
     <img src="plans/euro-router/wireframe.png" width="45%"/>
   </a>
@@ -129,6 +126,9 @@
   </a>
   <a href="./plans/centrotec-mount">
     <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/dog-mount">
+    <img src="plans/dog-mount/wireframe0.png" width="45%"/>
   </a>
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/images/wireframe.png" width="45%"/>
