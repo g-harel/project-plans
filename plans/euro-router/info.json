@@ -1,0 +1,7 @@
+{
+  "name": "Euro Router",
+  "genDocs": true,
+  "pitch": "Simple and easy to store MFT-compatible router table extension for the OF1400.",
+  "category": "objects > jigs",
+  "hidden": false
+}

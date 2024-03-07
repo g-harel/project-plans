@@ -1,4 +1,4 @@
-<!-- 2024-03-06 -->
+<!-- 2024-03-07 -->
 
 # Project Plans
 
@@ -6,9 +6,6 @@
 
 
 <p align="center">
-  <a href="./plans/euro-router">
-    <img src="plans/euro-router/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/tic-tac-toilet">
     <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
   </a>
@@ -85,6 +82,9 @@
 <p align="center">
   <a href="./plans/clamping-square">
     <img src="plans/clamping-square/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/euro-router">
+    <img src="plans/euro-router/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/shooting-board">
     <img src="plans/shooting-board/images/wireframe.png" width="45%"/>
