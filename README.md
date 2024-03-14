@@ -1,4 +1,4 @@
-<!-- 2024-03-08 -->
+<!-- 2024-03-14 -->
 
 # Project Plans
 
@@ -63,6 +63,9 @@
 ## objects
 
 <p align="center">
+  <a href="./plans/couch-clamp">
+    <img src="plans/couch-clamp/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/cutting-board">
     <img src="plans/cutting-board/images/wireframe1.png" width="45%"/>
   </a>
