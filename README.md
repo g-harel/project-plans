@@ -1,4 +1,4 @@
-<!-- 2024-03-14 -->
+<!-- 2024-03-16 -->
 
 # Project Plans
 
@@ -14,6 +14,9 @@
 ## furniture
 
 <p align="center">
+  <a href="./plans/baby-bookcase">
+    <img src="plans/baby-bookcase/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/bathroom-shelf">
     <img src="plans/bathroom-shelf/wireframe.png" width="45%"/>
   </a>
