@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Red Oak Lumber",
+        "description": "46bf 1/2\" Red Oak @ 3.39",
+        "date": "2024-03-16",
+        "task": {
+            "type": "",
+            "hours": 1.5
+        },
+        "expense": {
+            "retailer": "Owl Hardwood Lumber",
+            "amount": 162.61,
+            "utilization": -1
+        }
+    },
+    {
+        "title": "2x Vertical Panels",
+        "description": "Cut boards to length, joint the edges, domino the edges, and glue boards together.",
+        "date": "2024-03-27",
+        "task": {
+            "type": "panel",
+            "hours": 1.5
+        }
+    }
+]
