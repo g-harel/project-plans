@@ -1,15 +1,7 @@
-<!-- 2024-03-16 -->
+<!-- 2024-03-19 -->
 
 # Project Plans
 
-
-
-
-<p align="center">
-  <a href="./plans/tic-tac-toilet">
-    <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
-  </a>
-</p>
 
 ## furniture
 
@@ -34,6 +26,9 @@
   </a>
   <a href="./plans/pipi-hut">
     <img src="plans/pipi-hut/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/tic-tac-toilet">
+    <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/topper-block">
     <img src="plans/topper-block/images/wireframe.png" width="45%"/>
