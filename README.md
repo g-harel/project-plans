@@ -1,4 +1,4 @@
-<!-- 2024-03-19 -->
+<!-- 2024-03-20 -->
 
 # Project Plans
 
@@ -32,6 +32,9 @@
   </a>
   <a href="./plans/topper-block">
     <img src="plans/topper-block/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/trotten-top">
+    <img src="plans/trotten-top/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
