@@ -1,6 +1,5 @@
 {
   "name": "M18 Battery Mount",
-  "genDocs": true,
   "pitch": "Wall mount for Milwaukee M18 batteries.",
   "category": "prints > mounts"
 }

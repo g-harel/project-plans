@@ -1,7 +1,5 @@
 {
   "name": "Bathroom Shelf",
-  "genDocs": true,
   "pitch": "Simple shelf unit to make use of an awkward gap and store Dyson haircare appliances.",
-  "category": "furniture",
-  "hidden": false
+  "category": "furniture"
 }

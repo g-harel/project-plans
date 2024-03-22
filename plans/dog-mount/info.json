@@ -1,8 +1,6 @@
 {
   "name": "Dog Mount",
-  "genDocs": true,
   "pitch": "Simple wall mount for jigs and parts that use 20mm dog holes in ~18mm material.",
   "category": "prints > mounts",
-  "materials": ["Prusament Marble Grey PLA"],
-  "hidden": false
+  "materials": ["Prusament Marble Grey PLA"]
 }

@@ -1,6 +1,5 @@
 {
   "name": "Screw Clamp",
-  "genDocs": true,
   "pitch": "Modernized screw clamp concept inspired by Woodpecker tools.",
   "inspirationLinks": ["https://woodpeck.com"],
   "category": "objects > tools"

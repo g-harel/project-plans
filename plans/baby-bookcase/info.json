@@ -1,7 +1,5 @@
 {
   "name": "Baby Bookcase",
-  "genDocs": true,
   "pitch": "Friendly child's bookcase with plenty of storage",
-  "category": "furniture",
-  "hidden": false
+  "category": "furniture"
 }

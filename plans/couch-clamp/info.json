@@ -1,8 +1,8 @@
 {
   "name": "Couch Clamp",
-  "genDocs": true,
   "pitch": "DIY attachments to keep sections of the modular Joybird Bryant sofa from separating.",
-  "links": ["https://joybird.com/u-sofa-bumper-sectionals/bryant-u-sofa-bumper-sectiona"],
-  "category": "objects",
-  "hidden": false
+  "links": [
+    "https://joybird.com/u-sofa-bumper-sectionals/bryant-u-sofa-bumper-sectiona"
+  ],
+  "category": "objects"
 }

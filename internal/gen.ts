@@ -27,9 +27,6 @@ interface PlanInfo {
   // Project name.
   name: string;
 
-  // Whether project-specific docs should be generated.
-  genDocs?: boolean;
-
   // One-sentence description of the projects.
   pitch?: string;
 
@@ -125,7 +122,6 @@ const writeRepoReadme = async (plans: Plan[]) => {
 };
 
 const writeDocs = async (plan: Plan) => {
-  if (!plan.info.genDocs) return;
   if (plan.info.steps) {
     for (let i = 0; i < plan.info.steps.length; i++) {
       plan.info.steps[i].__index = i + 1;

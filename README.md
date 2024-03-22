@@ -2,7 +2,6 @@
 
 # Project Plans
 
-
 ## furniture
 
 <p align="center">

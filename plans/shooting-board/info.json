@@ -1,8 +1,6 @@
 {
   "name": "Shooting Board",
-  "genDocs": true,
   "pitch": "Traditional fixed 90deg shooting board with sloped runner.",
   "category": "objects > jigs",
-  "materials": ["baltic birch", "birch"],
-  "hidden": false
+  "materials": ["baltic birch", "birch"]
 }

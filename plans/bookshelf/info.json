@@ -1,6 +1,5 @@
 {
   "name": "Bookshelf",
-  "genDocs": true,
   "category": "furniture",
   "introduction": {
     "body": [""]
@@ -27,7 +26,7 @@
       "Domino Mortiser",
       "Nailer or Stapler",
       "Jigsaw or Bandsaw",
-      "1/8\" rabbeting router bit" ,
+      "1/8\" rabbeting router bit",
       "Double-Sided Tape"
     ],
     "assetPaths": [],

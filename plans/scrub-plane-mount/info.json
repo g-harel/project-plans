@@ -2,6 +2,5 @@
   "name": "Scrub Plane Mount",
   "pitch": "Wall mount for the Lie-Nielsen No. 40-1/2 Scrub Plane.",
   "inspirationLinks": ["https://woodgears.ca/tool_holders/handplane.html"],
-  "category": "prints > mounts",
-  "genDocs": true
+  "category": "prints > mounts"
 }

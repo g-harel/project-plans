@@ -1,9 +1,7 @@
 {
   "name": "Tic-Tac Toilet",
-  "genDocs": true,
   "pitch": "Playful wall decoration & storage shelving.",
   "category": "furniture",
   "materials": ["SPF 1x6"],
-  "finish": ["Rubio Pure + Rubio Charcoal"],
-  "hidden": false
+  "finish": ["Rubio Pure + Rubio Charcoal"]
 }
