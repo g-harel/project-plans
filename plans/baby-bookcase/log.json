@@ -16,10 +16,28 @@
   {
     "title": "2x Vertical Panels",
     "description": "Cut boards to length, joint the edges, domino the edges, and glue boards together.",
-    "date": "2024-03-27",
+    "date": "2024-03-17",
     "task": {
       "type": "panel",
       "hours": 1.5
+    }
+  },
+  {
+    "title": "2x Horizontal Panels",
+    "description": "Cut boards to length, joint the edges, domino the edges, and glue boards together.",
+    "date": "2024-03-21",
+    "task": {
+      "type": "panel",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "2x Roof Panels",
+    "description": "Cut boards to length, joint the edges, domino the edges, and glue boards together.",
+    "date": "2024-03-22",
+    "task": {
+      "type": "panel",
+      "hours": 0.9
     }
   }
 ]
