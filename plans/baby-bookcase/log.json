@@ -39,5 +39,19 @@
       "type": "panel",
       "hours": 0.9
     }
+  },
+  {
+    "title": "Finish Test",
+    "description": "Cut & prep samples, then test 'Natural' & 'Smoke' Part A.",
+    "date": "2024-03-23",
+    "task": {
+      "type": "prep",
+      "hours": 0.5
+    },
+    "expense": {
+      "retailer": "Amazon",
+      "amount": 22.02,
+      "utilization": 0.05
+    }
   }
 ]
