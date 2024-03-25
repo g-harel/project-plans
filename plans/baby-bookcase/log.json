@@ -53,5 +53,14 @@
       "amount": 22.02,
       "utilization": 0.05
     }
+  },
+  {
+    "title": "Partial Back & Shelf Panels",
+    "description": "Cut boards to length and joint the edges.",
+    "date": "2024-03-24",
+    "task": {
+      "type": "panel",
+      "hours": 0.3
+    }
   }
 ]
