@@ -1,7 +1,7 @@
 <!-- 2024-03-26 -->
 
 <h1 align="center">
-  dungeon-doohickey
+  bath-tray
   <br>
   <sup><sub><sup><sup></sub>
 </h1>

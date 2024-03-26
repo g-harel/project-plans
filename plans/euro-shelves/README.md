@@ -1,9 +1,13 @@
-# Euro Box Shelves
+<!-- 2024-03-26 -->
 
-> Rolling shelving unit sized to store five shallow and two deep large _euro
-> containers_.
+<h1 align="center">
+  euro-shelves
+  <br>
+  <sup><sub><sup><sup></sub>
+</h1>
 
-|                                                |                                                |                                                |
-| :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img width="1604" src="./images/shelves1.png"> | <img width="1604" src="./images/shelves2.png"> | <img width="1604" src="./images/shelves3.png"> |
-| <img width="1604" src="./images/shelves4.png"> | <img width="1604" src="./images/shelves5.png"> |                                                |
+![](/plans/euro-shelves/images/gallery0.png)
+![](/plans/euro-shelves/images/gallery1.png)
+![](/plans/euro-shelves/images/gallery2.png)
+![](/plans/euro-shelves/images/gallery3.png)
+![](/plans/euro-shelves/images/gallery4.png)
