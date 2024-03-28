@@ -62,5 +62,14 @@
       "type": "panel",
       "hours": 0.3
     }
+  },
+  {
+    "title": "Remaining Back & Shelf Panels",
+    "description": "Domino the edges, and glue boards together.",
+    "date": "2024-03-28",
+    "task": {
+      "type": "panel",
+      "hours": 0.5
+    }
   }
 ]
