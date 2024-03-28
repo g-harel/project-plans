@@ -1,7 +1,7 @@
-<!-- 2024-03-26 -->
+<!-- 2024-03-28 -->
 
 <h1 align="center">
-  car-hook
+  Car Hook
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Wall-mount for Lego DeLorean set.<sup></sub>
 </h1>
