@@ -71,5 +71,14 @@
       "type": "panel",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Square up panels",
+    "description": "Use a jointer plane to flatten one edge per panel, then reference off that edge to cut the ends perpendicular to it.",
+    "date": "2024-03-30",
+    "task": {
+      "type": "panel",
+      "hours": 1.0
+    }
   }
 ]
