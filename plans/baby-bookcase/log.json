@@ -80,5 +80,14 @@
       "type": "panel",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Select and label panels",
+    "description": "Using the cutlist, map actual panels to assembly parts to optimize utilization and appearance..",
+    "date": "2024-03-31",
+    "task": {
+      "type": "panel",
+      "hours": 0.3
+    }
   }
 ]
