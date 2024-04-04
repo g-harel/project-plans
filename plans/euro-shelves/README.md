@@ -1,9 +1,9 @@
-<!-- 2024-03-26 -->
+<!-- 2024-04-04 -->
 
 <h1 align="center">
-  euro-shelves
+  Euro Shelves
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Rolling shelving unit sized to fit 400mm wide euro-spec plastic crates.<sup></sub>
 </h1>
 
 ![](/plans/euro-shelves/images/gallery0.png)
