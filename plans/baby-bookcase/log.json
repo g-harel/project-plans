@@ -83,11 +83,34 @@
   },
   {
     "title": "Select and label panels",
-    "description": "Using the cutlist, map actual panels to assembly parts to optimize utilization and appearance..",
+    "description": "Using the cutlist, map actual panels to assembly parts to optimize utilization and appearance.",
     "date": "2024-03-31",
     "task": {
       "type": "panel",
       "hours": 0.3
+    }
+  },
+  {
+    "title": "MDF Back Panels",
+    "description": "3x 2x4' 1/2\" MDF @ 24.99",
+    "date": "2024-04-07",
+    "task": {
+      "type": "",
+      "hours": 0.5
+    },
+    "expense": {
+      "retailer": "Home Depot",
+      "amount": 74.97,
+      "utilization": 0.5
+    }
+  },
+  {
+    "title": "Final Major Panel Dimensioning",
+    "description": "Size and sand the major panels + cut all other panels  oversized.",
+    "date": "2024-04-07",
+    "task": {
+      "type": "panel",
+      "hours": 2.0
     }
   }
 ]
