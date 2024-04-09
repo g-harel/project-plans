@@ -105,12 +105,21 @@
     }
   },
   {
-    "title": "Final Major Panel Dimensioning",
-    "description": "Size and sand the major panels + cut all other panels  oversized.",
+    "title": "Final Case Panel Dimensioning",
+    "description": "Size and sand the case panels + cut all other panels oversized.",
     "date": "2024-04-07",
     "task": {
       "type": "panel",
       "hours": 2.0
+    }
+  },
+  {
+    "title": "Begin Marking Case Panel Joinery",
+    "description": "Using relative dimensions wherever possible, carefully mark Domino reference lines.",
+    "date": "2024-04-08",
+    "task": {
+      "type": "panel",
+      "hours": 0.5
     }
   }
 ]
