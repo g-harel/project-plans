@@ -121,5 +121,14 @@
       "type": "panel",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Finish Marking Case Panel Joinery",
+    "description": "Using relative dimensions wherever possible, carefully mark Domino reference lines.",
+    "date": "2024-04-09",
+    "task": {
+      "type": "panel",
+      "hours": 0.4
+    }
   }
 ]
