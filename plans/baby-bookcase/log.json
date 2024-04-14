@@ -130,5 +130,14 @@
       "type": "panel",
       "hours": 0.4
     }
+  },
+  {
+    "title": "Cut thin side piece",
+    "description": "Cut the thin side piece out of a suitable rough piece and do a first sanding pass",
+    "date": "2024-04-12",
+    "task": {
+      "type": "panel",
+      "hours": 0.5
+    }
   }
 ]
