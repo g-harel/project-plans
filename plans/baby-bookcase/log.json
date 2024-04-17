@@ -139,5 +139,14 @@
       "type": "panel",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Cut dominos",
+    "description": "Finalize domino locations, then cut them all out and dry assemble to confirm fit.",
+    "date": "2024-04-15",
+    "task": {
+      "type": "case",
+      "hours": 1.5
+    }
   }
 ]
