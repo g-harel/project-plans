@@ -148,5 +148,14 @@
       "type": "case",
       "hours": 1.5
     }
+  },
+  {
+    "title": "Hybrid back panel",
+    "description": "Using dominos, glue up the back bin panel hardwood edge to the MDF piece.",
+    "date": "2024-04-18",
+    "task": {
+      "type": "panel",
+      "hours": 0.25
+    }
   }
 ]
