@@ -157,5 +157,14 @@
       "type": "panel",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Hybrid panel flushing",
+    "description": "Plane down the hardwood part of the hybrid panel so it sits flush with the MDF.",
+    "date": "2024-04-19",
+    "task": {
+      "type": "panel",
+      "hours": 0.25
+    }
   }
 ]
