@@ -166,5 +166,32 @@
       "type": "panel",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Shelf flattening",
+    "description": "Use a handplane to flatten the four shelves, then sand to 120.",
+    "date": "2024-04-22",
+    "task": {
+      "type": "panel",
+      "hours": 1
+    }
+  },
+  {
+    "title": "Shelf Domino markings",
+    "description": "Measuring from the top of the panels, mark the domino reference line 2mm above the final shelf position.",
+    "date": "2024-04-22",
+    "task": {
+      "type": "case",
+      "hours": 0.3
+    }
+  },
+  {
+    "title": "Finalize RHS shelf dimensions.",
+    "description": "Carefully cut down RHS shelf panels to idnetical final dimension.",
+    "date": "2024-04-22",
+    "task": {
+      "type": "panel",
+      "hours": 0.2
+    }
   }
 ]
