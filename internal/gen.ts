@@ -72,20 +72,28 @@ interface Section {
 
 const getPlans = async (): Promise<Plan[]> => {
   const plans: Plan[] = [];
+
+  // Find and sort list of plan subdirectories.
+  const planDirs: string[] = [];
   for await (const f of Deno.readDir(plansRoot)) {
     if (!f.isDirectory) continue;
-    const path = "./" + join(plansRoot, f.name);
-    const wireframePaths = await glob(`**/${f.name}/**/wireframe*.png`);
-    const patternPaths = await glob(`**/${f.name}/**/*.svg`);
-    const galleryPaths = await glob(`**/${f.name}/**/gallery*.@(jpg|png)`);
+    planDirs.push(f.name);
+  }
+  planDirs.sort()
 
-    let info: PlanInfo = { name: f.name };
+  for (const dir of planDirs) {
+    const path = "./" + join(plansRoot, dir);
+    const wireframePaths = await glob(`**/${dir}/**/wireframe*.png`);
+    const patternPaths = await glob(`**/${dir}/**/*.svg`);
+    const galleryPaths = await glob(`**/${dir}/**/gallery*.@(jpg|png)`);
+
+    let info: PlanInfo = { name: dir };
     try {
       const infoFile = await Deno.readTextFile(join(path, "info.json"));
       info = Object.assign(info, JSON.parse(infoFile));
     } catch (e) {
       if ((e instanceof Deno.errors.NotFound)) {
-        console.log("missing info: " + f.name);
+        console.log("missing info: " + dir);
       } else {
         console.error(e);
       }
@@ -93,7 +101,7 @@ const getPlans = async (): Promise<Plan[]> => {
 
     if (wireframePaths.length === 0) {
       if (!info.hidden) {
-        console.log(`missing wireframes: ${f.name}`);
+        console.log(`missing wireframes: ${dir}`);
       }
     }
 
@@ -114,7 +122,7 @@ const writeRepoReadme = async (plans: Plan[]) => {
     (p) => p.info.category || "",
   );
   await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
-    wireframeCategories: r.map((r) => {
+    wireframeCategories: r.map(r) => {
       if (r.name) r.name = "#".repeat(r.level + 1) + " " + r.name;
       return r;
     }),
