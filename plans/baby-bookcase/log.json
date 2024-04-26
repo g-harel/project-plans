@@ -193,5 +193,14 @@
       "type": "panel",
       "hours": 0.2
     }
+  },
+  {
+    "title": "Cut display strips.",
+    "description": "Rip strips of the right width then make sure they are equal and parallel with a handplane.",
+    "date": "2024-04-25",
+    "task": {
+      "type": "panel",
+      "hours": 1.0
+    }
   }
 ]
