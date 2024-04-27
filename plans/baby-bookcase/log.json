@@ -211,5 +211,23 @@
       "type": "joinery",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Shelf Joinery.",
+    "description": "Mark and cut shelf dominos on side, middle, and shelf pieces using a story stick.",
+    "date": "2024-04-27",
+    "task": {
+      "type": "joinery",
+      "hours": 2.0
+    }
+  },
+  {
+    "title": "Bin Shelves.",
+    "description": "Dry assemble case and take final measurements for bin shelf/back sizes then cut shelves to size.",
+    "date": "2024-04-27",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
