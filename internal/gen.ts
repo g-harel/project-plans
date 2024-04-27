@@ -122,7 +122,7 @@ const writeRepoReadme = async (plans: Plan[]) => {
     (p) => p.info.category || "",
   );
   await writeTemplate("./internal/templates/readme.mustache", "./README.md", {
-    wireframeCategories: r.map(r) => {
+    wireframeCategories: r.map((r) => {
       if (r.name) r.name = "#".repeat(r.level + 1) + " " + r.name;
       return r;
     }),

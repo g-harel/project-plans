@@ -202,5 +202,14 @@
       "type": "panel",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Cut shelf domino reference stick.",
+    "description": "Rip a strip and make sure sides are parallel. Mark domino locations at regular intervals across the width",
+    "date": "2024-04-26",
+    "task": {
+      "type": "joinery",
+      "hours": 0.25
+    }
   }
 ]
