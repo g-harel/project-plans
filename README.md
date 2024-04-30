@@ -1,4 +1,4 @@
-<!-- 2024-04-24 -->
+<!-- 2024-04-30 -->
 
 # Project Plans
 
@@ -26,6 +26,9 @@
   </a>
   <a href="./plans/pipi-hut">
     <img src="plans/pipi-hut/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/potty-deck">
+    <img src="plans/potty-deck/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/tic-tac-toilet">
     <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
