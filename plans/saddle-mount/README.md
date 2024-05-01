@@ -1,7 +1,7 @@
-<!-- 2024-03-26 -->
+<!-- 2024-05-01 -->
 
 <h1 align="center">
-  saddle-mount
+  Saddle Mount
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Super secure wall mount for the metric Woodpecker saddle square rules.<sup></sub>
 </h1>
