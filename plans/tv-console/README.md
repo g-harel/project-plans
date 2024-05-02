@@ -1,7 +1,7 @@
-<!-- 2024-03-26 -->
+<!-- 2024-05-02 -->
 
 <h1 align="center">
-  tv-console
+  TV Console Mod
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Modification to a TV console to prevent sag.<sup></sub>
 </h1>
