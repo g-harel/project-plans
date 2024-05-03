@@ -229,5 +229,23 @@
       "type": "case",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Back Panel Sizing",
+    "description": "Cut back panels to final width using shelves as story sticks.",
+    "date": "2024-05-02",
+    "task": {
+      "type": "case",
+      "hours": 0.25
+    }
+  },
+  {
+    "title": "Shelf Domino Marks",
+    "description": "Create story stick for back panel dominos + mark domino locations on shelves and reference line on vertical panels.",
+    "date": "2024-05-02",
+    "task": {
+      "type": "case",
+      "hours": 0.4
+    }
   }
 ]
