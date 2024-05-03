@@ -247,5 +247,14 @@
       "type": "case",
       "hours": 0.4
     }
+  },
+  {
+    "title": "Finish Stain Test #2",
+    "description": "Sand and apply 'Citrine', 'Pine', and 'Touch of Gold' finish samples to test pieces.",
+    "date": "2024-05-03",
+    "task": {
+      "type": "prep",
+      "hours": 0.25
+    }
   }
 ]
