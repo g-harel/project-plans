@@ -256,5 +256,14 @@
       "type": "prep",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Shelf Back Dominos",
+    "description": "Using a story stick, mark then cut the domino mortises in the back of all the shelves and the MDF panels.",
+    "date": "2024-05-05",
+    "task": {
+      "type": "joinery",
+      "hours": 1.0
+    }
   }
 ]
