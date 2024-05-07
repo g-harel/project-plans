@@ -265,5 +265,23 @@
       "type": "joinery",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Finish Testing",
+    "description": "Sand down a sample board and test different combinations of finishes and paints.",
+    "date": "2024-05-06",
+    "task": {
+      "type": "prep",
+      "hours": 2.0
+    }
+  },
+  {
+    "title": "Book Shelves Joinery",
+    "description": "Measure and cut domino mortises for the book shelf parts & their connecting pieces.",
+    "date": "2024-05-06",
+    "task": {
+      "type": "joinery",
+      "hours": 1.0
+    }
   }
 ]
