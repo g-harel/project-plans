@@ -283,5 +283,14 @@
       "type": "joinery",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Back Panel Joinery",
+    "description": "Mark out domino locations and cut mortises in display back, middle, and LHS support.",
+    "date": "2024-05-08",
+    "task": {
+      "type": "joinery",
+      "hours": 0.5
+    }
   }
 ]
