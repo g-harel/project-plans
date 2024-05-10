@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Band",
+  "pitch": "Custom wedding band model to be sent to a manufacturing company.",
+  "category": "objects",
+  "materials": ["Stainless Steel"]
+}

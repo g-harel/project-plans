@@ -1,7 +1,7 @@
-<!-- 2024-05-08 -->
+<!-- 2024-05-10 -->
 
 <h1 align="center">
-  wedding-band
+  Wedding Band
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Custom wedding band model to be sent to a manufacturing company.<sup></sub>
 </h1>
