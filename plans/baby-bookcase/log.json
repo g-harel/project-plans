@@ -292,5 +292,14 @@
       "type": "joinery",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Test Fit",
+    "description": "Cut out remaining dominos and do a dry assembly of the parts, adjusting dominos as needed",
+    "date": "2024-05-11",
+    "task": {
+      "type": "joinery",
+      "hours": 2.0
+    }
   }
 ]
