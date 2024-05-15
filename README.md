@@ -1,4 +1,4 @@
-<!-- 2024-04-30 -->
+<!-- 2024-05-15 -->
 
 # Project Plans
 
@@ -84,6 +84,9 @@
   </a>
   <a href="./plans/snuffle-frame">
     <img src="plans/snuffle-frame/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/wedding-band">
+    <img src="plans/wedding-band/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
