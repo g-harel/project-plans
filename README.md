@@ -1,4 +1,4 @@
-<!-- 2024-05-15 -->
+<!-- 2024-05-16 -->
 
 # Project Plans
 
@@ -72,6 +72,9 @@
   </a>
   <a href="./plans/cutting-board">
     <img src="plans/cutting-board/images/wireframe1.png" width="45%"/>
+  </a>
+  <a href="./plans/vise-mount">
+    <img src="plans/vise-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/hub-sign">
     <img src="plans/hub-sign/images/wireframe.png" width="45%"/>
