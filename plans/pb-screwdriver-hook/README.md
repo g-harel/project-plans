@@ -1,5 +1,8 @@
-<!-- 2024-03-26 -->
+<!-- 2024-05-16 -->
 
+<p align="center">
+  <img src="../../plans/pb-screwdriver-hook/images/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   PB Swiss Screwdriver Hook
   <br>
