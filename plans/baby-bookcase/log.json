@@ -301,5 +301,14 @@
       "type": "joinery",
       "hours": 2.0
     }
+  },
+  {
+    "title": "Final Touches",
+    "description": "Cut out first shelf notch & cut domino mortises. Measure and cut out bar holes. Cut missing/incorrect domino mortises from dry fit.",
+    "date": "2024-05-17",
+    "task": {
+      "type": "joinery",
+      "hours": 2.0
+    }
   }
 ]
