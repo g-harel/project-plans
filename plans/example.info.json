@@ -1,5 +1,6 @@
 {
   "name": "Example Project",
+  "inProgress": false,
   "pitch": "",
   "introduction": {
     "body": [""],

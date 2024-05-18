@@ -27,6 +27,9 @@ interface PlanInfo {
   // Project name.
   name: string;
 
+  // Whether the project is in-progress or not.
+  inProgress: boolean;
+
   // One-sentence description of the projects.
   pitch?: string;
 
@@ -51,6 +54,7 @@ interface PlanInfo {
   // Links to places where the project is published.
   publishedLinks?: string[];
 
+  // Collection of fields used to generate plans on instructables.com
   introduction?: Section;
   supplies?: Section & ListFields<string[], "materials" | "tools">;
   steps?: (Titled & Section & ListFields<number, "__index">)[];
