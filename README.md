@@ -1,4 +1,4 @@
-<!-- 2024-05-16 -->
+<!-- 2024-05-20 -->
 
 # Project Plans
 
@@ -174,6 +174,9 @@
   </a>
   <a href="./plans/wax-mount">
     <img src="plans/wax-mount/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/wood-is-good-hook">
+    <img src="plans/wood-is-good-hook/images/wireframe.png" width="45%"/>
   </a>
 </p>
 

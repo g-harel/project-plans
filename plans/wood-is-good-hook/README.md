@@ -1,5 +1,8 @@
-<!-- 2024-04-06 -->
+<!-- 2024-05-20 -->
 
+<p align="center">
+  <img src="../../plans/wood-is-good-hook/images/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Wood is Good Hook
   <br>
