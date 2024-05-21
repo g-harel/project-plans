@@ -310,5 +310,14 @@
       "type": "joinery",
       "hours": 2.0
     }
+  },
+  {
+    "title": "Domino Tenon Glueing",
+    "description": "Glue the domino tenons into all the tight mortises.",
+    "date": "2024-05-20",
+    "task": {
+      "type": "assembly",
+      "hours": 2.0
+    }
   }
 ]
