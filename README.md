@@ -1,4 +1,4 @@
-<!-- 2024-05-20 -->
+<!-- 2024-05-21 -->
 
 # Project Plans
 
@@ -147,6 +147,9 @@
   </a>
   <a href="./plans/board-hook">
     <img src="plans/board-hook/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/car-hook">
+    <img src="plans/car-hook/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/centrotec-mount">
     <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>

@@ -1,5 +1,8 @@
-<!-- 2024-03-28 -->
+<!-- 2024-05-21 -->
 
+<p align="center">
+  <img src="../../plans/car-hook/images/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Car Hook
   <br>
