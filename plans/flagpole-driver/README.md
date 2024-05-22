@@ -1,5 +1,8 @@
-<!-- 2024-03-26 -->
+<!-- 2024-05-23 -->
 
+<p align="center">
+  <img src="../../plans/flagpole-driver/images/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Flagpole Driver
   <br>
