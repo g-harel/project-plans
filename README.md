@@ -1,4 +1,4 @@
-<!-- 2024-05-22 -->
+<!-- 2024-05-23 -->
 
 # Project Plans
 
@@ -66,6 +66,9 @@
   </a>
   <a href="./plans/euro-bench">
     <img src="plans/euro-bench/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/euro-shelves">
+    <img src="plans/euro-shelves/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrap-cart">
     <img src="plans/scrap-cart/images/wireframe.png" width="45%"/>

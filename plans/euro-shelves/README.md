@@ -1,5 +1,8 @@
-<!-- 2024-04-04 -->
+<!-- 2024-05-23 -->
 
+<p align="center">
+  <img src="../../plans/euro-shelves/images/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Euro Shelves
   <br>
