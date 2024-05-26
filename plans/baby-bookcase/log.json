@@ -319,5 +319,14 @@
       "type": "assembly",
       "hours": 2.0
     }
+  },
+  {
+    "title": "Shelf Glue up + Finishing prep",
+    "description": "Glue the two shelf components together for both shelves. Start final sanding and adding tape to glue surfaces before paint.",
+    "date": "2024-05-24",
+    "task": {
+      "type": "assembly",
+      "hours": 2.0
+    }
   }
 ]
