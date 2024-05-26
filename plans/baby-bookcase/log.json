@@ -328,5 +328,14 @@
       "type": "assembly",
       "hours": 2.0
     }
+  },
+  {
+    "title": "Finishing Prep",
+    "description": "Sand the glued shelf pieces flush. Continue sanding and taping over joinery for painted parts.",
+    "date": "2024-05-26",
+    "task": {
+      "type": "finishing",
+      "hours": 2.0
+    }
   }
 ]
