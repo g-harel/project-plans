@@ -337,5 +337,14 @@
       "type": "finishing",
       "hours": 2.0
     }
+  },
+  {
+    "title": "Roof Parts",
+    "description": "Cut roof pieces to correct width then sand to 120 grit. Cut 45deg angle on top piece and use hand plane to get it down to 35deg. Using top dimension, cut MDF back triangle.",
+    "date": "2024-05-27",
+    "task": {
+      "type": "case",
+      "hours": 2.0
+    }
   }
 ]
