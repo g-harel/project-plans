@@ -346,5 +346,14 @@
       "type": "case",
       "hours": 2.0
     }
+  },
+  {
+    "title": "Roof Miter",
+    "description": "Dial in the angle, then cut the roof miter to 35deg. Make sure to save the triangular off-cuts for the attic corners.",
+    "date": "2024-05-29",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
