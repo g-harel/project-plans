@@ -355,5 +355,23 @@
       "type": "case",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Roof Joinery",
+    "description": "Cut Domino mortises in roof miter, attic back piece, roof pieces, and top shelf. Glue dominos in back piece.",
+    "date": "2024-06-01",
+    "task": {
+      "type": "case",
+      "hours": 1.5
+    }
+  },
+  {
+    "title": "Prep Top & Bottom",
+    "description": "Sand top and bottom pieces to 120 grit then add masking tape to joinery.",
+    "date": "2024-06-01",
+    "task": {
+      "type": "finishing",
+      "hours": 0.5
+    }
   }
 ]
