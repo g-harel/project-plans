@@ -373,5 +373,14 @@
       "type": "finishing",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Roof Sizing",
+    "description": "Cut straight end of the roof to the correct dimension using the back as reference.",
+    "date": "2024-06-02",
+    "task": {
+      "type": "case",
+      "hours": 0.25
+    }
   }
 ]
