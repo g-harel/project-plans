@@ -1,4 +1,4 @@
-<!-- 2024-06-01 -->
+<!-- 2024-06-03 -->
 
 # Project Plans
 
@@ -183,6 +183,9 @@
   </a>
   <a href="./plans/marking-hook">
     <img src="plans/marking-hook/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/no1-plane-mount">
+    <img src="plans/no1-plane-mount/images/wireframe0.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
