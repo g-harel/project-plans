@@ -382,5 +382,14 @@
       "type": "case",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Roof Finishing",
+    "description": "Round external roof corners and add light roundover on the lip. Sand smooth and tape miter.",
+    "date": "2024-06-04",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
