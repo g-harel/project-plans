@@ -1,5 +1,9 @@
-<!-- 2024-04-22 -->
+<!-- 2024-06-06 -->
 
+<p align="center">
+  <img src="../../plans/no2-plane-mount/images/wireframe0.png" width="40%"/>
+  <img src="../../plans/no2-plane-mount/images/wireframe2.png" width="40%"/>
+</p>
 <h1 align="center">
   No.2 Plane Mount
   <br>
