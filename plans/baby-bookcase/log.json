@@ -391,5 +391,14 @@
       "type": "case",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Oil Parts",
+    "description": "Prepare oil finish and apply to all pieces that won't be painted.",
+    "date": "2024-06-07",
+    "task": {
+      "type": "Finishing",
+      "hours": 1.5
+    }
   }
 ]
