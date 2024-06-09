@@ -400,5 +400,14 @@
       "type": "Finishing",
       "hours": 1.5
     }
+  },
+  {
+    "title": "Paint",
+    "description": "Prepare paint, clean dust of parts and paint first coat. Lightly (220 grit) sand first coat, remove dust and apply second coat.",
+    "date": "2024-06-08",
+    "task": {
+      "type": "Finishing",
+      "hours": 3.0
+    }
   }
 ]

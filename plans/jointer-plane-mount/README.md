@@ -1,5 +1,9 @@
-<!-- 2024-03-26 -->
+<!-- 2024-06-09 -->
 
+<p align="center">
+  <img src="../../plans/jointer-plane-mount/images/wireframe0.png" width="40%"/>
+  <img src="../../plans/jointer-plane-mount/images/wireframe1.png" width="40%"/>
+</p>
 <h1 align="center">
   Jointer Plane Wall Mount
   <br>
