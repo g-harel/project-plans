@@ -409,5 +409,23 @@
       "type": "Finishing",
       "hours": 3.0
     }
+  },
+  {
+    "title": "Oil Fail",
+    "description": "Test oil on sample piece, then on painted parts. Sand off oil from painted parts.",
+    "date": "2024-06-09",
+    "task": {
+      "type": "Finishing",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Paint 3rd coat",
+    "description": "Prepare more paint, then apply a 3rd coat. Carefully tip the brush and follow the direction of the grain to give each piece an even finish.",
+    "date": "2024-06-09",
+    "task": {
+      "type": "Finishing",
+      "hours": 1.5
+    }
   }
 ]
