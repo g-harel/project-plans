@@ -427,5 +427,14 @@
       "type": "Finishing",
       "hours": 1.5
     }
+  },
+  {
+    "title": "Paint Scuff",
+    "description": "Brush the panels to remove dirt, then using a piece of cardboard gently smooth all the pieces to an even & smooth surface.",
+    "date": "2024-06-10",
+    "task": {
+      "type": "Finishing",
+      "hours": 0.75
+    }
   }
 ]
