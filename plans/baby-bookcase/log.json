@@ -436,5 +436,14 @@
       "type": "Finishing",
       "hours": 0.75
     }
+  },
+  {
+    "title": "Paint Oil",
+    "description": "Sand the unpainted surfaces of teh painted panels to remove stray paint. Add Rubio to all painted surfaces",
+    "date": "2024-06-11",
+    "task": {
+      "type": "Finishing",
+      "hours": 1.75
+    }
   }
 ]
