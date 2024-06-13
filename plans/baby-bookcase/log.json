@@ -445,5 +445,19 @@
       "type": "Finishing",
       "hours": 1.75
     }
+  },
+  {
+    "title": "Installation bits & bobs",
+    "description": "Furniture straps + flexible shims + felt strips",
+    "date": "2024-06-12",
+    "task": {
+      "type": "",
+      "hours": 0.1
+    },
+    "expense": {
+      "retailer": "Amazon",
+      "amount": 36.16,
+      "utilization": 0.7
+    }
   }
 ]
