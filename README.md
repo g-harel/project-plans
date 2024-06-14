@@ -1,4 +1,4 @@
-<!-- 2024-06-09 -->
+<!-- 2024-06-13 -->
 
 # Project Plans
 
@@ -192,6 +192,9 @@
   </a>
   <a href="./plans/no2-plane-mount">
     <img src="plans/no2-plane-mount/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/rabbet-plane-mount">
+    <img src="plans/rabbet-plane-mount/images/wireframe0.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>

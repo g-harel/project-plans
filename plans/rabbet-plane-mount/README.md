@@ -1,5 +1,9 @@
-<!-- 2024-04-15 -->
+<!-- 2024-06-13 -->
 
+<p align="center">
+  <img src="../../plans/rabbet-plane-mount/images/wireframe0.png" width="40%"/>
+  <img src="../../plans/rabbet-plane-mount/images/wireframe1.png" width="40%"/>
+</p>
 <h1 align="center">
   Rabbeting Plane Wall Mount
   <br>
