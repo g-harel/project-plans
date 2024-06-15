@@ -439,7 +439,7 @@
   },
   {
     "title": "Paint Oil",
-    "description": "Sand the unpainted surfaces of teh painted panels to remove stray paint. Add Rubio to all painted surfaces",
+    "description": "Sand the unpainted surfaces of the painted panels to remove stray paint. Add Rubio to all painted surfaces",
     "date": "2024-06-11",
     "task": {
       "type": "Finishing",
@@ -458,6 +458,15 @@
       "retailer": "Amazon",
       "amount": 36.16,
       "utilization": 0.7
+    }
+  },
+  {
+    "title": "Paint Oil Second Coat",
+    "description": "Add 2nd coat of Rubio to all painted surfaces",
+    "date": "2024-06-14",
+    "task": {
+      "type": "Finishing",
+      "hours": 1.0
     }
   }
 ]
