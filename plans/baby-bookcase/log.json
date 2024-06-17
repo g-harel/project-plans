@@ -472,10 +472,19 @@
   {
     "title": "Wax",
     "description": "Wipe on the wax with a non-abrasive white pad, then buff it off with a paper towel.",
-    "date": "2024-06-14",
+    "date": "2024-06-16",
     "task": {
       "type": "Finishing",
       "hours": 1.0
+    }
+  },
+  {
+    "title": "Glue Prep",
+    "description": "Remove the tape from the panels + sand the paint/finish off the dominos and edges.",
+    "date": "2024-06-16",
+    "task": {
+      "type": "Finishing",
+      "hours": 0.5
     }
   }
 ]
