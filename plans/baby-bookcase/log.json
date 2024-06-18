@@ -480,11 +480,20 @@
   },
   {
     "title": "Glue Prep",
-    "description": "Remove the tape from the panels + sand the paint/finish off the dominos and edges.",
+    "description": "Start removing the tape from the panels + sanding the paint/finish off the dominos and edges.",
     "date": "2024-06-16",
     "task": {
       "type": "Finishing",
       "hours": 0.5
+    }
+  },
+  {
+    "title": "More Glue Prep",
+    "description": "Start removing the tape from the panels + sanding the paint/finish off the dominos and edges.",
+    "date": "2024-06-17",
+    "task": {
+      "type": "Finishing",
+      "hours": 0.75
     }
   }
 ]
