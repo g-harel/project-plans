@@ -489,8 +489,17 @@
   },
   {
     "title": "More Glue Prep",
-    "description": "Start removing the tape from the panels + sanding the paint/finish off the dominos and edges.",
+    "description": "Continue removing the tape from the panels + sanding the paint/finish off the dominos and edges.",
     "date": "2024-06-17",
+    "task": {
+      "type": "Finishing",
+      "hours": 0.75
+    }
+  },
+  {
+    "title": "Final Glue Prep + Glue",
+    "description": "Finish removing the tape from the panels + sanding the paint/finish off the dominos and edges. Glue the first shelf into the back",
+    "date": "2024-06-19",
     "task": {
       "type": "Finishing",
       "hours": 0.75
