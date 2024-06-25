@@ -540,5 +540,14 @@
       "type": "Assembly",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Every 4-8h, glue panels together joint-by-joint using minimal glue and making sure everything is square and flush.",
+    "date": "2024-06-24",
+    "task": {
+      "type": "Assembly",
+      "hours": 0.5
+    }
   }
 ]
