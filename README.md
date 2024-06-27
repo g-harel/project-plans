@@ -1,4 +1,4 @@
-<!-- 2024-06-26 -->
+<!-- 2024-06-27 -->
 
 # Project Plans
 
@@ -141,6 +141,9 @@
 ### tools
 
 <p align="center">
+  <a href="./plans/cauls">
+    <img src="plans/cauls/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/screw-clamp">
     <img src="plans/screw-clamp/images/wireframe.png" width="45%"/>
   </a>

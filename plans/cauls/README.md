@@ -1,5 +1,8 @@
-<!-- 2024-06-26 -->
+<!-- 2024-06-27 -->
 
+<p align="center">
+  <img src="../../plans/cauls/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Cauls
   <br>
