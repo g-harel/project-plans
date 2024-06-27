@@ -1,5 +1,9 @@
-<!-- 2024-04-05 -->
+<!-- 2024-06-26 -->
 
+<p align="center">
+  <img src="../../plans/shooting-plane-mount/images/wireframe0.png" width="40%"/>
+  <img src="../../plans/shooting-plane-mount/images/wireframe1.png" width="40%"/>
+</p>
 <h1 align="center">
   Shooting Plane Mount
   <br>
