@@ -510,7 +510,7 @@
     "description": "Every 4-8h, glue panels together joint-by-joint using minimal glue and making sure everything is square and flush.",
     "date": "2024-06-20",
     "task": {
-      "type": "Assembly",
+      "type": "assembly",
       "hours": 0.25
     }
   },
@@ -519,7 +519,7 @@
     "description": "Every 4-8h, glue panels together joint-by-joint using minimal glue and making sure everything is square and flush.",
     "date": "2024-06-21",
     "task": {
-      "type": "Assembly",
+      "type": "assembly",
       "hours": 0.25
     }
   },
@@ -528,7 +528,7 @@
     "description": "Every 4-8h, glue panels together joint-by-joint using minimal glue and making sure everything is square and flush.",
     "date": "2024-06-22",
     "task": {
-      "type": "Assembly",
+      "type": "assembly",
       "hours": 0.25
     }
   },
@@ -537,7 +537,7 @@
     "description": "Every 4-8h, glue panels together joint-by-joint using minimal glue and making sure everything is square and flush.",
     "date": "2024-06-23",
     "task": {
-      "type": "Assembly",
+      "type": "assembly",
       "hours": 0.5
     }
   },
@@ -546,7 +546,25 @@
     "description": "Every 4-8h, glue panels together joint-by-joint using minimal glue and making sure everything is square and flush.",
     "date": "2024-06-24",
     "task": {
-      "type": "Assembly",
+      "type": "assembly",
+      "hours": 0.5
+    }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Every 4-8h, glue panels together joint-by-joint using minimal glue and making sure everything is square and flush.",
+    "date": "2024-06-28",
+    "task": {
+      "type": "assembly",
+      "hours": 0.25
+    }
+  },
+  {
+    "title": "Caulk Testing",
+    "description": "Experiment with adding white caulk to the joints that aren't quite flush.",
+    "date": "2024-06-28",
+    "task": {
+      "type": "prep",
       "hours": 0.5
     }
   }
