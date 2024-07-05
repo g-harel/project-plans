@@ -576,5 +576,86 @@
       "type": "assembly",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Attach RHS panel to shelves.",
+    "date": "2024-06-30",
+    "task": {
+      "type": "assembly",
+      "hours": 0.25
+    }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Cut and attach strips of felt to base, keeping the reveal consistent and roughly 1/4\".",
+    "date": "2024-07-01",
+    "task": {
+      "type": "assembly",
+      "hours": 0.5
+    }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Attach top shelf to full shelf assembly.",
+    "date": "2024-07-02",
+    "task": {
+      "type": "assembly",
+      "hours": 0.5
+    }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Attach roof parts to each other",
+    "date": "2024-07-02",
+    "task": {
+      "type": "assembly",
+      "hours": 0.3
+    }
+  },
+  {
+    "title": "Paint patching",
+    "description": "Mix up and apply 3x coats of milk paint to shelf mistake.",
+    "date": "2024-07-03",
+    "task": {
+      "type": "finishing",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Attach roof back to roof pieces after trimming the dominos to fit diagonally.",
+    "date": "2024-07-03",
+    "task": {
+      "type": "assembly",
+      "hours": 0.5
+    }
+  },
+  {
+    "title": "Final Assembly",
+    "description": "Attach roof assembly to shelf assembly. Use glue and a syringe to make sure there is a consistent bond.",
+    "date": "2024-07-04",
+    "task": {
+      "type": "assembly",
+      "hours": 0.75
+    }
+  },
+  {
+    "title": "Trim",
+    "description": "Cut down long 45deg piece of trim to glue to the back of the roof to hide the gap.",
+    "date": "2024-07-04",
+    "task": {
+      "type": "trim",
+      "hours": 0.75
+    }
+  },
+  {
+    "title": "Trim Finishing",
+    "description": "Add rubio oil to trim parts and to shelf mistake touch-ups.",
+    "date": "2024-07-04",
+    "task": {
+      "type": "finishing",
+      "hours": 0.5
+    }
   }
 ]
