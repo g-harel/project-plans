@@ -657,5 +657,14 @@
       "type": "finishing",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Trim Assembly",
+    "description": "Cut down side trim to length and glue in place.",
+    "date": "2024-07-05",
+    "task": {
+      "type": "finishing",
+      "hours": 0.25
+    }
   }
 ]
