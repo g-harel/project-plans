@@ -675,5 +675,14 @@
       "type": "trim",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Paint retouch",
+    "description": "Sand off failed paint touch-up and re-paint. Use original large brush and long strokes.",
+    "date": "2024-07-07",
+    "task": {
+      "type": "paint",
+      "hours": 0.4
+    }
   }
 ]
