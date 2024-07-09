@@ -684,5 +684,14 @@
       "type": "paint",
       "hours": 0.4
     }
+  },
+  {
+    "title": "Paint retouch",
+    "description": "Add final coat of paint, then smooth it out with brown paper once dry.",
+    "date": "2024-07-08",
+    "task": {
+      "type": "paint",
+      "hours": 0.25
+    }
   }
 ]
