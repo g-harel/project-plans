@@ -693,5 +693,14 @@
       "type": "paint",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Oil retouch",
+    "description": "Add small amount of rubio to retouched area, making sure to cover everything that was sanded.",
+    "date": "2024-07-09",
+    "task": {
+      "type": "finishing",
+      "hours": 0.25
+    }
   }
 ]
