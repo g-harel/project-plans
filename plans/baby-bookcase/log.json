@@ -702,5 +702,23 @@
       "type": "finishing",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Wax retouch + brown caulk",
+    "description": "Rub furniture wax on retouched area. Then use brown caulk in a syringe to fill obvious gaps.",
+    "date": "2024-07-10",
+    "task": {
+      "type": "finishing",
+      "hours": 0.25
+    }
+  },
+  {
+    "title": "Delivery",
+    "description": "Pack shelf in moving blanket, then deliver.",
+    "date": "2024-07-10",
+    "task": {
+      "type": "finishing",
+      "hours": 0.75
+    }
   }
 ]
