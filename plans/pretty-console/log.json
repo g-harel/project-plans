@@ -243,5 +243,32 @@
       "amount": 147.58,
       "utilization": 0.7
     }
+  },
+  {
+    "title": "Piece selection",
+    "description": "Compare all tops and sides and keep the most consistent ones. Enough for one less middle module.",
+    "date": "2024-07-27",
+    "task": {
+      "type": "assembly",
+      "hours": 0.3
+    }
+  },
+  {
+    "title": "Module assembly",
+    "description": "Using glue, pin nails, and screws: assemble the three modules. Plane down any lips at the joints.",
+    "date": "2024-07-28",
+    "task": {
+      "type": "assembly",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Module rabbet",
+    "description": "Using a rabbeting bit at a router table, cut a 1/4\" rabbet along the back of all the modules.",
+    "date": "2024-07-28",
+    "task": {
+      "type": "joinery",
+      "hours": 1.0
+    }
   }
 ]
