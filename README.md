@@ -1,4 +1,4 @@
-<!-- 2024-06-27 -->
+<!-- 2024-08-23 -->
 
 # Project Plans
 
@@ -14,6 +14,12 @@
   </a>
   <a href="./plans/tv-console">
     <img src="plans/tv-console/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/grs-holder">
+    <img src="plans/grs-holder/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/pb-allen-holder">
+    <img src="plans/pb-allen-holder/wireframe0.png" width="45%"/>
   </a>
 </p>
 
