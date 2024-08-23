@@ -270,5 +270,14 @@
       "type": "joinery",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Module inside sanding",
+    "description": "Sand the inside of each module to 120 grit. Then take internal measurements for the back panels",
+    "date": "2024-08-22",
+    "task": {
+      "type": "finishing",
+      "hours": 0.75
+    }
   }
 ]
