@@ -273,10 +273,19 @@
   },
   {
     "title": "Module inside sanding",
-    "description": "Sand the inside of each module to 120 grit. Then take internal measurements for the back panels",
+    "description": "Sand the inside of each module to 120 grit. Then take internal measurements for the back panels.",
     "date": "2024-08-22",
     "task": {
       "type": "finishing",
+      "hours": 0.75
+    }
+  },
+  {
+    "title": "Backs",
+    "description": "Cut back panels to size and start rounding the corners. Refine the radius with a sander for an exact fit.",
+    "date": "2024-08-25",
+    "task": {
+      "type": "case",
       "hours": 0.75
     }
   }
