@@ -288,5 +288,14 @@
       "type": "case",
       "hours": 0.75
     }
+  },
+  {
+    "title": "Backs",
+    "description": "Finish rounding large end radius and hand-fit each back with a sander and handplane.",
+    "date": "2024-08-27",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
