@@ -297,5 +297,14 @@
       "type": "case",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Backs",
+    "description": "Finish rounding last back",
+    "date": "2024-08-30",
+    "task": {
+      "type": "case",
+      "hours": 0.5
+    }
   }
 ]
