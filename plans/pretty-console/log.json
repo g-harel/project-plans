@@ -306,5 +306,14 @@
       "type": "case",
       "hours": 0.5
     }
+  },
+  {
+    "title": "Case Edge Banding",
+    "description": "Cut 10mm strips of 4/4 material enough to cover all the case edges. Also cut the same thickness of 8/4 material to edge band the corners.",
+    "date": "2024-08-31",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
