@@ -333,5 +333,14 @@
       "type": "case",
       "hours": 0.8
     }
+  },
+  {
+    "title": "Trim Edge Banding",
+    "description": "Use a handplane to smooth the transitions between the edge banding pieces on the face. Then use a flush trim router bit to remove the excess edge banding.",
+    "date": "2024-09-07",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
