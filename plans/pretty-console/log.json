@@ -342,5 +342,14 @@
       "type": "case",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Final Trim of Edge Banding",
+    "description": "Chisel out corners of edge banding and sand the inside and outside transitions.",
+    "date": "2024-09-08",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
