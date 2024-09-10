@@ -351,5 +351,14 @@
       "type": "case",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Edge Banding Touchup & Shelves",
+    "description": "Flush up and route extra material on edge banding touchup. Using a router with an offset base, trim the shelf edge banding flush. Re-apply edge banding if mistakes are made.",
+    "date": "2024-09-10",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
