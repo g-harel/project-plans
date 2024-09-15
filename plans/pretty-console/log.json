@@ -360,5 +360,23 @@
       "type": "case",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Edge Banding Touchup & Sanding",
+    "description": "Finish flushing up the redone shelf's edge banding, then sand all the shelves and backs.",
+    "date": "2024-09-13",
+    "task": {
+      "type": "case",
+      "hours": 0.5
+    }
+  },
+  {
+    "title": "Mounting bolts",
+    "description": "Align the sections at the top/back corner and along the whole top seam, then drill four holes through both case parts. Once each joint. Flush up visible transitions with a sander and handplane while bolted together.",
+    "date": "2024-09-14",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
   }
 ]
