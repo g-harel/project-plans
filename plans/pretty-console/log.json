@@ -371,12 +371,21 @@
     }
   },
   {
-    "title": "Mounting bolts",
+    "title": "Mounting Bolts",
     "description": "Align the sections at the top/back corner and along the whole top seam, then drill four holes through both case parts. Once each joint. Flush up visible transitions with a sander and handplane while bolted together.",
     "date": "2024-09-14",
     "task": {
       "type": "case",
       "hours": 1.0
+    }
+  },
+  {
+    "title": "Bolt Recesses + Cable pattern",
+    "description": "Using a 3/4\" forstner bit, add a recessed pocket for each bolt head. Re-assemble the console with final hardware to check and adjust the fitment. Sand all the face frame faces to 120grit. Cut out a pattern for the cable management punch-outs in the backs.",
+    "date": "2024-09-15",
+    "task": {
+      "type": "case",
+      "hours": 2.0
     }
   }
 ]
