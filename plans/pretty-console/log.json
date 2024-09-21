@@ -387,5 +387,14 @@
       "type": "case",
       "hours": 2.0
     }
+  },
+  {
+    "title": "Attach Back Panels",
+    "description": "Using a small bead of glue to avoid squeexe out on the interior, assemble the back panels to the cases. Use a nailer to immobilize the panels while applying pressure twoards the inside of the box. Go back around the gap with more glue to fill any gaps.",
+    "date": "2024-09-19",
+    "task": {
+      "type": "case",
+      "hours": 0.5
+    }
   }
 ]
