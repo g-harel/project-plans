@@ -390,11 +390,29 @@
   },
   {
     "title": "Attach Back Panels",
-    "description": "Using a small bead of glue to avoid squeexe out on the interior, assemble the back panels to the cases. Use a nailer to immobilize the panels while applying pressure twoards the inside of the box. Go back around the gap with more glue to fill any gaps.",
+    "description": "Using a small bead of glue to avoid squeeze out on the interior, assemble the back panels to the cases. Use a nailer to immobilize the panels while applying pressure twoards the inside of the box. Go back around the gap with more glue to fill any gaps.",
     "date": "2024-09-19",
     "task": {
       "type": "case",
       "hours": 0.5
+    }
+  },
+  {
+    "title": "Case Touch-Ups",
+    "description": "Use a chisel or chisel plane to remove excess glue from the backs and sand the surface flush. Use wood filler to fill the screw holes on th top and bottom of the cases. Sand flush while assembled and break the sections apart.",
+    "date": "2024-09-21",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Case Laminate Breakdown",
+    "description": "Unroll a 4x8' laminate sheet and cut out all the case parts.a",
+    "date": "2024-09-21",
+    "task": {
+      "type": "laminate",
+      "hours": 1.0
     }
   }
 ]
