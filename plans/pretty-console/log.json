@@ -408,11 +408,29 @@
   },
   {
     "title": "Case Laminate Breakdown",
-    "description": "Unroll a 4x8' laminate sheet and cut out all the case parts.a",
+    "description": "Unroll a 4x8' laminate sheet and cut out all the case parts.",
     "date": "2024-09-21",
     "task": {
       "type": "laminate",
       "hours": 1.0
+    }
+  },
+  {
+    "title": "Base Parts",
+    "description": "Cut out all base parts into correctly sized rectangles.",
+    "date": "2024-09-26",
+    "task": {
+      "type": "base",
+      "hours": 0.5
+    }
+  },
+  {
+    "title": "Base Assembly",
+    "description": "Use a fixturing table setup to assemble one side of the base",
+    "date": "2024-09-28",
+    "task": {
+      "type": "base",
+      "hours": 0.25
     }
   }
 ]
