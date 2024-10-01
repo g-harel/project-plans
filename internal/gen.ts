@@ -1,6 +1,7 @@
 import { glob } from "npm:glob@10.3.1";
 import * as m from "npm:mustache@4.2.0";
 import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
+import { z , ZodError} from "https://deno.land/x/zod@v3.23.8/mod.ts";
 
 const plansRoot = "./plans";
 
@@ -20,6 +21,9 @@ interface Plan {
 
   // Completed project pictures.
   galleryPaths?: string[];
+
+  // Structured work log items.
+  logs?: LogItem[];
 }
 
 // Manually provided project setup.
@@ -28,7 +32,7 @@ interface PlanInfo {
   name: string;
 
   // Whether the project is in-progress or not.
-  inProgress: boolean;
+  inProgress?: boolean;
 
   // One-sentence description of the projects.
   pitch?: string;
@@ -74,6 +78,22 @@ interface Section {
   imagePaths?: string[];
 }
 
+const LogItem = z.object({
+  title: z.string(),
+  description: z.string(),
+  date: z.string().date(),
+  task: z.object({
+    type: z.string(),
+    hours: z.number(),
+  }),
+  expense: z.object({
+    retailer: z.string(),
+    amount: z.number(),
+    utilization: z.number().min(0).max(1),
+  }).optional(),
+});
+type LogItem = z.infer<typeof LogItem>;
+
 const getPlans = async (): Promise<Plan[]> => {
   const plans: Plan[] = [];
 
@@ -83,7 +103,7 @@ const getPlans = async (): Promise<Plan[]> => {
     if (!f.isDirectory) continue;
     planDirs.push(f.name);
   }
-  planDirs.sort()
+  planDirs.sort();
 
   for (const dir of planDirs) {
     const path = "./" + join(plansRoot, dir);
@@ -109,14 +129,34 @@ const getPlans = async (): Promise<Plan[]> => {
       }
     }
 
+    const logs: LogItem[] = [];
+    let lastItem: string = "";
+    const logPath = join(path, "log.json");
+    try {
+      const logFile = await Deno.readTextFile(logPath);
+      const logItems = JSON.parse(logFile);
+      for (const item of logItems) {
+        lastItem = item;
+        logs.push(LogItem.parse(item));
+      }
+    } catch (e) {
+      if (e instanceof ZodError) {
+        console.error(logPath, lastItem, e);
+      } else if (!(e instanceof Deno.errors.NotFound)) {
+        console.error(e);
+      }
+    }
+
     plans.push({
       path,
       wireframePaths: wireframePaths.sort(),
       patternPaths: patternPaths.sort(),
       galleryPaths: galleryPaths.sort(),
+      logs,
       info,
     });
   }
+
   return plans.sort((a, b) => a.info.name < b.info.name ? -1 : 1);
 };
 
@@ -138,6 +178,14 @@ const writeDocs = async (plan: Plan) => {
     for (let i = 0; i < plan.info.steps.length; i++) {
       plan.info.steps[i].__index = i + 1;
     }
+  }
+  if (plan.logs?.length) {
+    let sum = 0;
+    for (const log of plan.logs) {
+      sum += log.task.hours;
+    }
+    // TODO 2024-10-01 show in output.
+    console.log(sum); 
   }
   await writeTemplate(
     "./internal/templates/docs.mustache",
