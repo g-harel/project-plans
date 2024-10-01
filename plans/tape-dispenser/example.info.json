@@ -2,5 +2,7 @@
   "name": "Tape Dispenser",
   "inProgress": true,
   "pitch": "Simple wall-mounted tape dispenser.",
-  "inspirationLinks": ["https://www.kickstarter.com/projects/cwandt/mr-tape-dispenser"]
+  "inspirationLinks": [
+    "https://www.kickstarter.com/projects/cwandt/mr-tape-dispenser"
+  ]
 }

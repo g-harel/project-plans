@@ -1,9 +1,6 @@
-<!-- 2024-08-23 -->
+<!-- 2024-10-01 -->
 
 # Project Plans
-
-
-
 
 <p align="center">
   <a href="./plans/flagpole-driver">
@@ -19,7 +16,7 @@
     <img src="plans/grs-holder/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/pb-allen-holder">
-    <img src="plans/pb-allen-holder/wireframe0.png" width="45%"/>
+    <img src="plans/pb-allen-holder/images/wireframe0.png" width="45%"/>
   </a>
 </p>
 

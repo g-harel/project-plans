@@ -1,7 +1,7 @@
 import { glob } from "npm:glob@10.3.1";
 import * as m from "npm:mustache@4.2.0";
 import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
-import { z , ZodError} from "https://deno.land/x/zod@v3.23.8/mod.ts";
+import { z, ZodError } from "https://deno.land/x/zod@v3.23.8/mod.ts";
 
 const plansRoot = "./plans";
 
@@ -185,7 +185,7 @@ const writeDocs = async (plan: Plan) => {
       sum += log.task.hours;
     }
     // TODO 2024-10-01 show in output.
-    console.log(sum); 
+    console.log(sum);
   }
   await writeTemplate(
     "./internal/templates/docs.mustache",
