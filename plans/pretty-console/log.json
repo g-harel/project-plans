@@ -432,5 +432,14 @@
       "type": "base",
       "hours": 0.25
     }
+  },
+  {
+    "title": "Base Assembly",
+    "description": "Use a fixturing table setup to assemble the second side of the base",
+    "date": "2024-09-29",
+    "task": {
+      "type": "base",
+      "hours": 0.25
+    }
   }
 ]
