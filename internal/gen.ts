@@ -180,12 +180,16 @@ const writeDocs = async (plan: Plan) => {
     }
   }
   if (plan.logs?.length) {
-    let sum = 0;
+    let hours = 0;
+    let cost = 0;
     for (const log of plan.logs) {
-      sum += log.task.hours;
+      hours += log.task.hours;
+      cost += (log.expense?.amount || 0) * (log.expense?.utilization || 1);
     }
     // TODO 2024-10-01 show in output.
-    console.log(sum);
+    console.log(plan.info.name);
+    console.log("hours: ", hours);
+    console.log("cost: ", cost);
   }
   await writeTemplate(
     "./internal/templates/docs.mustache",

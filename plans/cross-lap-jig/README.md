@@ -1,4 +1,4 @@
-<!-- 2024-10-01 -->
+<!-- 2024-10-28 -->
 
 <p align="center">
   <img src="../../plans/cross-lap-jig/images/wireframe.png" width="40%"/>
