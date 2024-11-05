@@ -4,7 +4,7 @@
     "description": "4x 18mm 5x5' Baltic Birch @ 135.57",
     "date": "2024-01-15",
     "task": {
-      "type": "",
+      "type": "materials",
       "hours": 2.0
     },
     "expense": {
@@ -440,6 +440,29 @@
     "task": {
       "type": "base",
       "hours": 0.25
+    }
+  },
+  {
+    "title": "Walnut",
+    "description": "9bf 1/2\" Natural Walnut @ 269.00 + 2x8' Premium Walnut Veneer @ 79.99 + 2x8' Birch Veneer @ 54.99 + 250' Iron-On Walnut Banding",
+    "date": "2024-10-28",
+    "task": {
+      "type": "materials",
+      "hours": 0.0
+    },
+    "expense": {
+      "retailer": "Woodworkers Source",
+      "amount": 638.58,
+      "utilization": 0.7
+    }
+  },
+  {
+    "title": "Bumps",
+    "description": "Make templates from 1/2\" MDF, then roughly mark and cut them out of raw 1/2\".",
+    "date": "2024-11-04",
+    "task": {
+      "type": "doors",
+      "hours": 2.00
     }
   }
 ]
