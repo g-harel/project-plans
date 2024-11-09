@@ -461,8 +461,26 @@
     "description": "Make templates from 1/2\" MDF, then roughly mark and cut them out of raw 1/2\" Walnut boards.",
     "date": "2024-11-04",
     "task": {
-      "type": "doors",
+      "type": "pictographs",
       "hours": 2.00
+    }
+  },
+  {
+    "title": "Base Edge Banding",
+    "description": "Apply and trim edge banding on base components. Select, joint and glue a panel for remaining oversized pictographs.",
+    "date": "2024-11-07",
+    "task": {
+      "type": "veneering",
+      "hours": 1.50
+    }
+  },
+  {
+    "title": "Final Pictographs",
+    "description": "Mark and cut remainig pictographs.",
+    "date": "2024-11-08",
+    "task": {
+      "type": "pictographs",
+      "hours": 0.5
     }
   }
 ]
