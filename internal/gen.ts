@@ -2,6 +2,7 @@ import { glob } from "npm:glob@10.3.1";
 import * as m from "npm:mustache@4.2.0";
 import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
 import { z, ZodError } from "https://deno.land/x/zod@v3.23.8/mod.ts";
+import { parse } from "jsr:@std/yaml";
 
 const plansRoot = "./plans";
 
@@ -114,12 +115,12 @@ const getPlans = async (): Promise<Plan[]> => {
     let info: PlanInfo = { name: dir };
     try {
       const infoFile = await Deno.readTextFile(join(path, "info.json"));
-      info = Object.assign(info, JSON.parse(infoFile));
+      info = Object.assign(info, parse(infoFile));
     } catch (e) {
       if ((e instanceof Deno.errors.NotFound)) {
         console.log("missing info: " + dir);
       } else {
-        console.error(e);
+        console.error(path, e);
       }
     }
 
@@ -134,7 +135,7 @@ const getPlans = async (): Promise<Plan[]> => {
     const logPath = join(path, "log.json");
     try {
       const logFile = await Deno.readTextFile(logPath);
-      const logItems = JSON.parse(logFile);
+      const logItems = parse(logFile);
       for (const item of logItems) {
         lastItem = item;
         logs.push(LogItem.parse(item));
@@ -143,7 +144,7 @@ const getPlans = async (): Promise<Plan[]> => {
       if (e instanceof ZodError) {
         console.error(logPath, lastItem, e);
       } else if (!(e instanceof Deno.errors.NotFound)) {
-        console.error(e);
+        console.error(logPath, e);
       }
     }
 
