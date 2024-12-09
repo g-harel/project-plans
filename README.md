@@ -1,4 +1,4 @@
-<!-- 2024-10-28 -->
+<!-- 2024-12-09 -->
 
 # Project Plans
 
@@ -28,6 +28,9 @@
   </a>
   <a href="./plans/bathroom-shelf">
     <img src="plans/bathroom-shelf/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/bissell-stand">
+    <img src="plans/bissell-stand/wireframe0.png" width="45%"/>
   </a>
   <a href="./plans/blanket-ladder">
     <img src="plans/blanket-ladder/images/wireframe.png" width="45%"/>

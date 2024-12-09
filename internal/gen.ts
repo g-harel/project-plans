@@ -2,7 +2,7 @@ import { glob } from "npm:glob@10.3.1";
 import * as m from "npm:mustache@4.2.0";
 import { join } from "https://deno.land/std@0.194.0/path/mod.ts";
 import { z, ZodError } from "https://deno.land/x/zod@v3.23.8/mod.ts";
-import { parse } from "jsr:@std/yaml";
+import { parseAll } from "jsr:@std/yaml";
 
 const plansRoot = "./plans";
 
@@ -108,14 +108,17 @@ const getPlans = async (): Promise<Plan[]> => {
 
   for (const dir of planDirs) {
     const path = "./" + join(plansRoot, dir);
+    const infoPaths = await glob(`**/${dir}/**/info.@(json|yaml)`);
     const wireframePaths = await glob(`**/${dir}/**/wireframe*.png`);
     const patternPaths = await glob(`**/${dir}/**/*.svg`);
     const galleryPaths = await glob(`**/${dir}/**/gallery*.@(jpg|png)`);
 
     let info: PlanInfo = { name: dir };
+    const infoPath = infoPaths.sort().reverse()[0] || "missin-file.json";
     try {
-      const infoFile = await Deno.readTextFile(join(path, "info.json"));
-      info = Object.assign(info, parse(infoFile));
+      const infoFile = await Deno.readTextFile(infoPath);
+      info = Object.assign(info, (parseAll(infoFile) as any)[0]);
+      console.log(info);
     } catch (e) {
       if ((e instanceof Deno.errors.NotFound)) {
         console.log("missing info: " + dir);
@@ -135,9 +138,9 @@ const getPlans = async (): Promise<Plan[]> => {
     const logPath = join(path, "log.json");
     try {
       const logFile = await Deno.readTextFile(logPath);
-      const logItems = parse(logFile);
+      let logItems: LogItem[] = (parseAll(logFile) as any)[0];
       for (const item of logItems) {
-        lastItem = item;
+        lastItem = JSON.stringify(item);
         logs.push(LogItem.parse(item));
       }
     } catch (e) {
