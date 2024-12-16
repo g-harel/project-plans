@@ -118,7 +118,6 @@ const getPlans = async (): Promise<Plan[]> => {
     try {
       const infoFile = await Deno.readTextFile(infoPath);
       info = Object.assign(info, (parseAll(infoFile) as any)[0]);
-      console.log(info);
     } catch (e) {
       if ((e instanceof Deno.errors.NotFound)) {
         console.log("missing info: " + dir);
@@ -211,7 +210,11 @@ const writeTemplate = async (template: string, out: string, args: any) => {
   try {
     // Don't write if contents haven't changed.
     const existingContents = await Deno.readTextFile(out);
-    if (existingContents.trim().endsWith(contents.trim())) return;
+    if (
+      existingContents
+        .replace(/\s/g, "")
+        .endsWith(contents.replace(/\s/g, ""))
+    ) return;
   } catch (_) {
     // Write if something went wrong or file doesn't exist yet.
   }
