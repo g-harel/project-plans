@@ -502,18 +502,26 @@
     }
   },
   {
-    "title": "Base plugs",
+    "title": "Base Plugs",
     "description": "Cut, install, and cut 15mm plugs for domino connectors.",
     "date": "2024-12-04",
     "task": {
       "type": "base",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Case Banding",
+    "description": "Add walnut edge banding to all the case fronts. Trim on a router table and sand inside edge till smooth.",
+    "date": "2025-01-02",
+    "task": {
+      "type": "base",
+      "hours": 2.0
+    }
   }
 ]
 
 # TODO add computer shelf
-# TODO add tool wall shelving
 
 # TODO carve out a few mm of the middle section sides for it to attach flush
 # TODO cut out cable holes from middle section
