@@ -112,9 +112,10 @@ const getPlans = async (): Promise<Plan[]> => {
     const wireframePaths = await glob(`**/${dir}/**/wireframe*.png`);
     const patternPaths = await glob(`**/${dir}/**/*.svg`);
     const galleryPaths = await glob(`**/${dir}/**/gallery*.@(jpg|png)`);
+    const logPaths = await glob(`**/${dir}/log.@(json|yaml)`);
 
     let info: PlanInfo = { name: dir };
-    const infoPath = infoPaths.sort().reverse()[0] || "missin-file.json";
+    const infoPath = infoPaths.sort().reverse()[0] || "missing-file.json";
     try {
       const infoFile = await Deno.readTextFile(infoPath);
       info = Object.assign(info, (parseAll(infoFile) as any)[0]);
@@ -134,19 +135,21 @@ const getPlans = async (): Promise<Plan[]> => {
 
     const logs: LogItem[] = [];
     let lastItem: string = "";
-    const logPath = join(path, "log.json");
-    try {
-      const logFile = await Deno.readTextFile(logPath);
-      let logItems: LogItem[] = (parseAll(logFile) as any)[0];
-      for (const item of logItems) {
-        lastItem = JSON.stringify(item);
-        logs.push(LogItem.parse(item));
-      }
-    } catch (e) {
-      if (e instanceof ZodError) {
-        console.error(logPath, lastItem, e);
-      } else if (!(e instanceof Deno.errors.NotFound)) {
-        console.error(logPath, e);
+    const logPath = logPaths[0];
+    if (logPath) {
+      try {
+        const logFile = await Deno.readTextFile(logPath);
+        let logItems: LogItem[] = (parseAll(logFile) as any)[0];
+        for (const item of logItems) {
+          lastItem = JSON.stringify(item);
+          logs.push(LogItem.parse(item));
+        }
+      } catch (e) {
+        if (e instanceof ZodError) {
+          console.error(logPath, lastItem, e);
+        } else if (!(e instanceof Deno.errors.NotFound)) {
+          console.error(logPath, e);
+        }
       }
     }
 
@@ -191,8 +194,8 @@ const writeDocs = async (plan: Plan) => {
     }
     // TODO 2024-10-01 show in output.
     console.log(plan.info.name);
-    console.log("hours: ", hours);
-    console.log("cost: ", cost);
+    console.log("  hours: ", hours);
+    console.log("  cost: ", cost);
   }
   await writeTemplate(
     "./internal/templates/docs.mustache",
