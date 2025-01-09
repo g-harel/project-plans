@@ -527,16 +527,33 @@
       "type": "case",
       "hours": 1.25
     }
+  },
+  {
+    "title": "Case Relief & Cable Passthrough",
+    "description": "Dish out the other side of the middle case section. Cut out the first cable passthrough hole.",
+    "date": "2025-01-07",
+    "task": {
+      "type": "case",
+      "hours": 1.25
+    }
+  },
+  {
+    "title": "Cable Passthrough",
+    "description": "Cut out the second cable passthrough hole.",
+    "date": "2025-01-08",
+    "task": {
+      "type": "case",
+      "hours": 0.5
+    }
   }
 ]
 
 # TODO add computer shelf
 
-# TODO carve out a few mm of the middle section sides for it to attach flush
-# TODO cut out cable holes from middle section
 # TODO veneer the boxes
 # TODO final sanding of all box surfaces
 # TODO assemble the base
+# TODO cut down middle shelves to size
 # TODO add white finish to inside of boxes
 # TODO add walnut finish to outside and edges of boxes
 
