@@ -554,6 +554,24 @@
       "type": "base",
       "hours": 0.75
     }
+  },
+  {
+    "title": "Veneer Middle Section",
+    "description": "Cut down 2x 2x8' walnut veneer rolls for case sections. Use contact cement to glue veneer sheet to both sides of middle case.",
+    "date": "2025-01-20",
+    "task": {
+      "type": "veneering",
+      "hours": 1.25
+    }
+  },
+  {
+    "title": "Shelf Pin Jig",
+    "description": "Cut and assemble shelf pin jig.",
+    "date": "2025-01-20",
+    "task": {
+      "type": "jig",
+      "hours": 1
+    }
   }
 ]
 
