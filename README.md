@@ -1,4 +1,4 @@
-<!-- 2024-12-16 -->
+<!-- 2025-01-27 -->
 
 # Project Plans
 
@@ -20,6 +20,9 @@
   </a>
   <a href="./plans/tool-cabinet">
     <img src="plans/tool-cabinet/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/tool-shelf">
+    <img src="plans/tool-shelf/wireframe.png" width="45%"/>
   </a>
 </p>
 

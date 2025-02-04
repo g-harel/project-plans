@@ -1,7 +1,7 @@
-<!-- 2024-03-26 -->
+<!-- 2025-02-04 -->
 
 <h1 align="center">
-  Geometric Console
+  Pictograph Console
   <br>
   <sup><sub><sup><sup></sub>
 </h1>

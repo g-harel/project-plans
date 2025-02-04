@@ -659,29 +659,61 @@
       "type": "case",
       "hours": 0.5
     },
-    {
-      "title": "Final Case Sanding",
-      "description": "Sand all case parts to 120 grit.",
-      "date": "2025-01-29",
-      "task": {
-        "type": "case",
-        "hours": 1.0
-      }
+  },
+  {
+    "title": "Final Case Sanding",
+    "description": "Sand all case parts to 120 grit.",
+    "date": "2025-01-29",
+    "task": {
+      "type": "case",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Outside Finish",
+    "description": "Add a coat of Rubio Walnut finish to the veneered walnut surfaces of the case parts and base. Stay clear of the birch insides and sand off any accidents as soon as possible. Rub surface with brown paper when cured.",
+    "date": "2025-02-01",
+    "task": {
+      "type": "finishing",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Inside Finish",
+    "description": "Add a coat of Rubio Super White to exposed birch insides of the case and shelves. Rub surface with brown paper when cured.",
+    "date": "2025-02-02",
+    "task": {
+      "type": "finishing",
+      "hours": 2.0
+    }
+  },
+  {
+    "title": "Shelf Pins",
+    "description": "Mark out shelf pin locations with jig, then drill them out with a 5/16\" bit, and install the sleeves.",
+    "date": "2025-02-03",
+    "task": {
+      "type": "case",
+      "hours": 0.75
+    }
+  },
+  {
+    "title": "Case Install",
+    "description": "Place the base on the intended location and adjust feet to flat/level using a level. Place the case pieces upside down on a flat moving blanket and bolt them together flush. Flip the base over and screw it to the cases through the bottom. Flip over the assembled usit and slide into position.",
+    "date": "2025-02-03",
+    "task": {
+      "type": "case",
+      "hours": 0.75
     }
   }
 ]
 
-# TODO add walnut finish to outside, base, and edges of boxes
-# TODO sand inside and add white finish to insides+ shelves
-# TODO cut shelf pin holes & install them
-
-# TODO size doors to fit finalized cases (care for door gaps)
+# TODO size doors to fit finalized cases (care for door gaps & edge banding)
 # TODO add radius to doors
 # TODO edge band doors
 # TODO veneer doors (walnut outsize, birch inside)
 # TODO final sanding of all door surfaces
-# TODO add white finish to inside of doors
 # TODO add walnut finish to outside and edges of doors
+# TODO add white finish to inside of doors
 # TODO final sanding of pictographs
 # TODO add walnut finish to pictographs (not underside)
 # TODO lay out pictographs on doors with tape
