@@ -1,4 +1,4 @@
-<!-- 2025-01-27 -->
+<!-- 2025-02-08 -->
 
 # Project Plans
 
@@ -12,8 +12,14 @@
   <a href="./plans/tv-console">
     <img src="plans/tv-console/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/chisel-plane-mount">
+    <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/grs-holder">
     <img src="plans/grs-holder/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/mitre-ruler-holder">
+    <img src="plans/mitre-ruler-holder/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/pb-allen-holder">
     <img src="plans/pb-allen-holder/images/wireframe0.png" width="45%"/>
