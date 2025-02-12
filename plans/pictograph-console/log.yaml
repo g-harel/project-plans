@@ -704,14 +704,45 @@
       "type": "case",
       "hours": 0.75
     }
+  },
+  {
+    "title": "Door Sizing",
+    "description": "Measure door openings and cut down material. Ensure correct partial overlay, gaps, and edge banding thickness are accounted for. Then, round corners of outer doors to 35mm radius.",
+    "date": "2025-02-06",
+    "task": {
+      "type": "doors",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Door Veneer",
+    "description": "Cut down walnut & birch veneer. Add birch veneer to inside with contact adhesive & trim. Edge band and trim the edges of the doors. Add walnut veneer to outside of doors with contact adhesive & trim.",
+    "date": "2025-02-08",
+    "task": {
+      "type": "doors",
+      "hours": 2.0
+    }
+  },
+  {
+    "title": "Final Sanding",
+    "description": "Sand down the doors and pictograph parts.",
+    "date": "2025-02-10",
+    "task": {
+      "type": "doors",
+      "hours": 1.0
+    }
+  },
+  {
+    "title": "Pictograph Edges",
+    "description": "Pick the show side of all the pictographs and then break the face and side edges.",
+    "date": "2025-02-11",
+    "task": {
+      "type": "doors",
+      "hours": 1.0
+    }
   }
 ]
 
-# TODO size doors to fit finalized cases (care for door gaps & edge banding)
-# TODO add radius to doors
-# TODO edge band doors
-# TODO veneer doors (walnut outsize, birch inside)
-# TODO final sanding of all door surfaces
 # TODO add walnut finish to outside and edges of doors
 # TODO add white finish to inside of doors
 # TODO final sanding of pictographs
