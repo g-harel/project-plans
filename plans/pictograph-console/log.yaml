@@ -740,15 +740,46 @@
       "type": "doors",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Outer Door Finishing",
+    "description": "Add a coat of Walnut Rubio to the edges and fronts of the doors.",
+    "date": "2025-02-12",
+    "task": {
+      "type": "doors",
+      "hours": 0.75
+    }
+  },
+  {
+    "title": "Pictograph Finishing",
+    "description": "Add a coat of Walnut Rubio to the top and sides of the pictographs (not underneath).",
+    "date": "2025-02-13",
+    "task": {
+      "type": "doors",
+      "hours": 1.25
+    }
+  },
+  {
+    "title": "Inner Door Finishing",
+    "description": "Add a coat of Super White Rubio to the birch inside of the doors.",
+    "date": "2025-02-14",
+    "task": {
+      "type": "doors",
+      "hours": 0.5
+    }
+  },
+  {
+    "title": "Pictograph Recoat",
+    "description": "Rub down all finished surfaces of the pictographs with brown paper then lightly apply another coat of Walnut Rubio.",
+    "date": "2025-02-15",
+    "task": {
+      "type": "doors",
+      "hours": 1.0
+    }
   }
 ]
 
-# TODO add walnut finish to outside and edges of doors
-# TODO add white finish to inside of doors
-# TODO final sanding of pictographs
-# TODO add walnut finish to pictographs (not underside)
 # TODO lay out pictographs on doors with tape
 # TODO sand finish from pictograph locations
 # TODO glue pictographs in place using setup blocks for positioning
-
-# TODO add computer shelf
+# TODO install doors
