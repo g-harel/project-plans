@@ -1,4 +1,4 @@
-<!-- 2025-02-08 -->
+<!-- 2025-02-17 -->
 
 # Project Plans
 
@@ -8,6 +8,9 @@
   </a>
   <a href="./plans/pb-screwdriver-hook">
     <img src="plans/pb-screwdriver-hook/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/pictograph-console">
+    <img src="plans/pictograph-console/jigs/blum-hinge-pad/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/tv-console">
     <img src="plans/tv-console/images/wireframe.png" width="45%"/>

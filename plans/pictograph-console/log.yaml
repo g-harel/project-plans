@@ -776,10 +776,23 @@
       "type": "doors",
       "hours": 1.0
     }
+  },
+  {
+    "title": "Pictograph Install",
+    "description": "Carefully place the pictographs onto the doors and surround each piece with tape to save its position. Sand underneath each pictograph to remove the finish and then glue them back on one-by-one.",
+    "date": "2025-02-16",
+    "task": {
+      "type": "doors",
+      "hours": 2.5
+    }
+  },
+  {
+    "title": "Door Install",
+    "description": "Drill appropriate holes in the doors and boxes, then install the euro hinges (using the printed hinge offsets if necessary). Adjust hinges as necessary.",
+    "date": "2025-02-16",
+    "task": {
+      "type": "doors",
+      "hours": 1.0
+    }
   }
 ]
-
-# TODO lay out pictographs on doors with tape
-# TODO sand finish from pictograph locations
-# TODO glue pictographs in place using setup blocks for positioning
-# TODO install doors
