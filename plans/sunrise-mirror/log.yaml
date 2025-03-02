@@ -1,0 +1,17 @@
+- title: "Pattern Material"
+  description: "2x 1/2\" 2x4' MDF Sheets @ 24.99"
+  date: "2025-02-22"
+  task:
+    type: "supplies"
+    hours: 0.5
+  expense:
+    retailer: "Home Depot"
+    amount: 55.10
+    utilization: 0.6
+
+- title: "Patterns"
+  description: "Cut out 'back', 'mdf', 'segment', and 'shelf' patterns from pattern material. The 'mdf' piece can be cut from the inside of the 'back'."
+  date: "2025-03-02"
+  task:
+    type: "pattern"
+    hours: 2.0
