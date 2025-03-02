@@ -1,4 +1,4 @@
-<!-- 2025-02-17 -->
+<!-- 2025-03-02 -->
 
 # Project Plans
 
@@ -17,6 +17,9 @@
   </a>
   <a href="./plans/chisel-plane-mount">
     <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/groove-plane-mount">
+    <img src="plans/groove-plane-mount/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/grs-holder">
     <img src="plans/grs-holder/wireframe.png" width="45%"/>
