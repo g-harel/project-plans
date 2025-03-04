@@ -1,4 +1,4 @@
-<!-- 2025-03-02 -->
+<!-- 2025-03-03 -->
 
 # Project Plans
 
@@ -9,8 +9,8 @@
   <a href="./plans/pb-screwdriver-hook">
     <img src="plans/pb-screwdriver-hook/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/pictograph-console">
-    <img src="plans/pictograph-console/jigs/blum-hinge-pad/wireframe.png" width="45%"/>
+  <a href="./plans/picto-console">
+    <img src="plans/picto-console/jigs/blum-hinge-pad/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/tv-console">
     <img src="plans/tv-console/images/wireframe.png" width="45%"/>
@@ -18,17 +18,29 @@
   <a href="./plans/chisel-plane-mount">
     <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/generic-peg">
+    <img src="plans/generic-peg/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/groove-plane-mount">
     <img src="plans/groove-plane-mount/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/grs-holder">
     <img src="plans/grs-holder/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/lip-balm-stand">
+    <img src="plans/lip-balm-stand/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/mitre-ruler-holder">
     <img src="plans/mitre-ruler-holder/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/pb-allen-holder">
     <img src="plans/pb-allen-holder/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/screwdriver-holder">
+    <img src="plans/screwdriver-holder/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/sunrise-mirror">
+    <img src="plans/sunrise-mirror/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/tool-cabinet">
     <img src="plans/tool-cabinet/wireframe.png" width="45%"/>

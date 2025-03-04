@@ -1,7 +1,11 @@
-<!-- 2024-07-19 -->
+<!-- 2025-03-03 -->
 
 <h1 align="center">
-  tape-dispenser
+  Tape Dispenser
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Simple wall-mounted tape dispenser.<sup></sub>
 </h1>
+
+## Inspiration
+
+- https://www.kickstarter.com/projects/cwandt/mr-tape-dispenser

@@ -1,7 +1,7 @@
-<!-- 2024-10-01 -->
+<!-- 2025-03-03 -->
 
 <h1 align="center">
-  slot-hatch
+  Slot Hatch
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>User-friendly vector pattern for large pocket cuts with the Shaper Origin.<sup></sub>
 </h1>

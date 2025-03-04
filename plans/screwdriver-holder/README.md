@@ -1,10 +1,10 @@
 <!-- 2025-03-03 -->
 
 <p align="center">
-  <img src="../../plans/sunrise-mirror/images/wireframe.png" width="40%"/>
+  <img src="../../plans/screwdriver-holder/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
-  sunrise-mirror
+  screwdriver-holder
   <br>
   <sup><sub><sup><sup></sub>
 </h1>
