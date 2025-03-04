@@ -9,9 +9,16 @@
     amount: 55.10
     utilization: 0.6
 
-- title: "Patterns"
-  description: "Cut out 'back', 'mdf', 'segment', and 'shelf' patterns from pattern material. The 'mdf' piece can be cut from the inside of the 'back'."
+- title: "Templates"
+  description: "Cut out 'back', 'mdf', 'segment', and 'shelf' templates from pattern material. The 'mdf' piece can be cut from the inside of the 'back'."
   date: "2025-03-02"
   task:
-    type: "pattern"
+    type: "template"
+    hours: 2.0
+
+- title: "Rough Parts"
+  description: "Sand hardwood board(s) to 120 grit. Trace templates onto board(s), then cut them out with a jigsaw. "
+  date: "2025-03-03"
+  task:
+    type: "roughing"
     hours: 2.0
