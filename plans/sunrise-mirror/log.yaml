@@ -43,3 +43,10 @@
   task:
     type: "joinery"
     hours: 1.0
+
+- title: "Arch Assembly"
+  description: "Glue together the arch segments using floating tenons and tape as clamps."
+  date: "2025-03-09"
+  task:
+    type: "assembly"
+    hours: 0.5
