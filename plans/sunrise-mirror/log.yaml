@@ -17,8 +17,29 @@
     hours: 2.0
 
 - title: "Rough Parts"
-  description: "Sand hardwood board(s) to 120 grit. Trace templates onto board(s), then cut them out with a jigsaw. "
+  description: "Sand hardwood board(s) to 120 grit. Trace templates onto board(s), then cut them out with a jigsaw."
   date: "2025-03-03"
   task:
     type: "roughing"
     hours: 2.0
+
+- title: "Flush Trim Segments"
+  description: "Using a router table, flush trim the segments one by one using the template."
+  date: "2025-03-08"
+  task:
+    type: "shaping"
+    hours: 1.0
+
+- title: "Template Smoothing"
+  description: "Fill any imperfections in the templates using wood filler. Then, with 80 grit sandpaper on a dowel, smooth out the templates to make them smooth to the touch."
+  date: "2025-03-08"
+  task:
+    type: "template"
+    hours: 0.75
+
+- title: "Segment Mortises & Filler Strips"
+  description: "Cut mortises into arch segments biasing away from the outside surface that will be trimmed. Cut down 1 & 2mm strips to glue to the mdf arch back that was cut too small."
+  date: "2025-03-09"
+  task:
+    type: "joinery"
+    hours: 1.0
