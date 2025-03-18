@@ -1,8 +1,19 @@
+- title: "Half Circle Mirror"
+  description: "1x 800x400mm Half Circle Mirror @ 110.99"
+  date: "2024-07-22"
+  task:
+    type: "hardware"
+    hours: 0
+  expense:
+    retailer: "coloraydecor.com"
+    amount: 130.99
+    utilization: 1.0
+
 - title: "Pattern Material"
   description: "2x 1/2\" 2x4' MDF Sheets @ 24.99"
   date: "2025-02-22"
   task:
-    type: "supplies"
+    type: "material"
     hours: 0.5
   expense:
     retailer: "Home Depot"
@@ -50,3 +61,10 @@
   task:
     type: "assembly"
     hours: 0.5
+
+- title: "Arch Back Assembly"
+  description: "Glue veneers onto outside of the MDF back to match the arch. Then use a slot cutting bit to make 1/4\" biscuit slots in the arch and the MDF back. Glue together DIY using 1/4\" loose tenons."
+  date: "2025-03-17"
+  task:
+    type: "assembly"
+    hours: 1.5
