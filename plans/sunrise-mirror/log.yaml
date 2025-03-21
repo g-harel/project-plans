@@ -63,8 +63,29 @@
     hours: 0.5
 
 - title: "Arch Back Assembly"
-  description: "Glue veneers onto outside of the MDF back to match the arch. Then use a slot cutting bit to make 1/4\" biscuit slots in the arch and the MDF back. Glue together DIY using 1/4\" loose tenons."
+  description: "Glue veneers onto outside of the MDF back to match the arch. Then use a slot cutting bit to make 1/4\" biscuit slots in the arch and the MDF back. Glue together using DIY 1/4\" loose tenons."
   date: "2025-03-17"
   task:
     type: "assembly"
+    hours: 1.5
+
+- title: "Back Assembly"
+  description: "Use a slot cutting bit to make 1/4\" biscuit slots in the arch and the back. Glue together using DIY 1/4\" loose tenons."
+  date: "2025-03-19"
+  task:
+    type: "assembly"
+    hours: 0.5
+
+- title: "Outer Flush Trimming"
+  description: "Stick the 'back' and 'shelf' templates onto the corresponding pieces and flush trim at the router table. Then, replace the bit with a bowl cutting template bit and follow the inside of the mirror pocket."
+  date: "2025-03-20"
+  task:
+    type: "templating"
+    hours: 1.5
+
+- title: "Pocket Routing"
+  description: "Using the same bowl bit in a handheld router, cut out the remaining pockets on the back and the shelf. Use a light final pass and take care to keep the bottoms as flat and uniform as possible."
+  date: "2025-03-21"
+  task:
+    type: "templating"
     hours: 1.5
