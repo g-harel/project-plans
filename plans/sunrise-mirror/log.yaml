@@ -89,3 +89,10 @@
   task:
     type: "templating"
     hours: 1.5
+
+- title: "Arch Patch"
+  description: "Cut a rectangular section around the gouge in the arch and glue in a tightly fitting replacement chunk from leftover material."
+  date: "2025-03-22"
+  task:
+    type: "repair"
+    hours: 0.5
