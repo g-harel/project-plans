@@ -96,3 +96,17 @@
   task:
     type: "repair"
     hours: 0.5
+
+- title: "Initial Sanding"
+  description: "Using sanding sponges, scrapers, and files, bring every surface to a smooth 120 grit."
+  date: "2025-03-23"
+  task:
+    type: "finishing"
+    hours: 2.0
+
+- title: "Shelf Joinery"
+  description: "Create floating tenon joints all along the shelf-to-back connection. Reference from the top of the shelf and use a straight fence to index on the back."
+  date: "2025-03-23"
+  task:
+    type: "finishing"
+    hours: 0.5
