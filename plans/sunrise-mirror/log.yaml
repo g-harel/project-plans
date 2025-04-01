@@ -110,3 +110,10 @@
   task:
     type: "finishing"
     hours: 0.5
+
+- title: "Shelf Assembly"
+  description: "Finalize all rough patches with a scraper and sandpaper, then assemble the shelf to the back."
+  date: "2025-03-30"
+  task:
+    type: "assembly"
+    hours: 0.5
