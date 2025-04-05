@@ -117,3 +117,24 @@
   task:
     type: "assembly"
     hours: 0.5
+
+- title: "Keilverbinder Slots"
+  description: "Cut out sets of Keilverbinder slots 16\" apart to allow flush wall mounting."
+  date: "2025-03-31"
+  task:
+    type: "hardware"
+    hours: 1.0
+
+- title: "Wood Filler"
+  description: "Fill all the joinery gaps between the shelf and the back with some walnut colored wood filler."
+  date: "2025-04-01"
+  task:
+    type: "finishing"
+    hours: 0.5
+
+- title: "Finishing"
+  description: "Sand the entire assembly with 180 grit sanding sponge, then clean off the dust with waxed cheese cloth. Then, apply coat of hardwax finishing oil."
+  date: "2025-04-05"
+  task:
+    type: "finishing"
+    hours: 1.0
