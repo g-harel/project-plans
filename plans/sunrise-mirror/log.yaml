@@ -138,3 +138,10 @@
   task:
     type: "finishing"
     hours: 1.0
+
+- title: "Final Finishing"
+  description: "Scuff finish with maroon abrasive pad, then apply thin final coat of hardwax finishing oil."
+  date: "2025-04-06"
+  task:
+    type: "finishing"
+    hours: 0.5

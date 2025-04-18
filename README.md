@@ -1,4 +1,4 @@
-<!-- 2025-03-03 -->
+<!-- 2025-04-18 -->
 
 # Project Plans
 
@@ -38,9 +38,6 @@
   </a>
   <a href="./plans/screwdriver-holder">
     <img src="plans/screwdriver-holder/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/sunrise-mirror">
-    <img src="plans/sunrise-mirror/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/tool-cabinet">
     <img src="plans/tool-cabinet/wireframe.png" width="45%"/>
@@ -82,6 +79,9 @@
   </a>
   <a href="./plans/stool-stool">
     <img src="plans/stool-stool/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/sunrise-mirror">
+    <img src="plans/sunrise-mirror/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/tic-tac-toilet">
     <img src="plans/tic-tac-toilet/images/wireframe.png" width="45%"/>
