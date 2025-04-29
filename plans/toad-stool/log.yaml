@@ -1,0 +1,31 @@
+# - title: "Half Circle Mirror"
+#   description: "1x 800x400mm Half Circle Mirror @ 110.99"
+#   date: "2024-07-22"
+#   task:
+#     type: "hardware"
+#     hours: 0
+#   expense:
+#     retailer: "coloraydecor.com"
+#     amount: 130.99
+#     utilization: 1.0
+
+- title: "Seat Stock"
+  description: "Cut down 8/4 board into seat halves and glue them together."
+  date: "2025-04-19"
+  task:
+    type: "roughing"
+    hours: 0.75
+
+- title: "Seat Template"
+  description: "Cut a template for the seat with holes to punch the center and each leg's direction."
+  date: "2025-04-26"
+  task:
+    type: "templates"
+    hours: 0.5
+
+- title: "Seat Roughing"
+  description: "Place the template on the material and cut as close to the line as possible to remove the bulk of the material. Stick on the template and remove the remaining material using multiple passes with a pattern and flush cut router bit."
+  date: "2025-04-27"
+  task:
+    type: "roughing"
+    hours: 1.5
