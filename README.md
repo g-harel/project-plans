@@ -3,15 +3,6 @@
 # Project Plans
 
 <p align="center">
-  <a href="./plans/flagpole-driver">
-    <img src="plans/flagpole-driver/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/pb-screwdriver-hook">
-    <img src="plans/pb-screwdriver-hook/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/picto-console">
-    <img src="plans/picto-console/jigs/blum-hinge-pad/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/tv-console">
     <img src="plans/tv-console/images/wireframe.png" width="45%"/>
   </a>
@@ -76,6 +67,9 @@
   </a>
   <a href="./plans/console-organizer">
     <img src="plans/console-organizer/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/picto-console">
+    <img src="plans/picto-console/jigs/blum-hinge-pad/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/pipi-hut">
     <img src="plans/pipi-hut/images/wireframe.png" width="45%"/>
@@ -186,6 +180,9 @@
   <a href="./plans/cauls">
     <img src="plans/cauls/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/flagpole-driver">
+    <img src="plans/flagpole-driver/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/screw-clamp">
     <img src="plans/screw-clamp/images/wireframe.png" width="45%"/>
   </a>
@@ -237,6 +234,9 @@
   </a>
   <a href="./plans/no2-plane-mount">
     <img src="plans/no2-plane-mount/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/pb-screwdriver-hook">
+    <img src="plans/pb-screwdriver-hook/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/pliers-rail">
     <img src="plans/pliers-rail/images/wireframe.png" width="45%"/>
