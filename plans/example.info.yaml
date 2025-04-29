@@ -1,0 +1,25 @@
+name: "Example Project"
+inProgress: false
+pitch: ""
+introduction:
+  body: [""]
+  assetPaths: []
+  imagePaths: []
+supplies:
+  body: [""]
+  materials: []
+  tools: []
+  assetPaths: []
+  imagePaths: []
+steps:
+- title: ""
+  body: [""]
+  assetPaths: []
+  imagePaths: []
+links: []
+inspirationLinks: []
+publishedLinks: []
+category: "prints > mounts"
+materials: []
+finish: []
+hidden: false
