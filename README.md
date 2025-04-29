@@ -1,4 +1,4 @@
-<!-- 2025-04-18 -->
+<!-- 2025-04-29 -->
 
 # Project Plans
 
@@ -18,6 +18,9 @@
   <a href="./plans/chisel-plane-mount">
     <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/chisel-plate">
+    <img src="plans/chisel-plate/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/generic-peg">
     <img src="plans/generic-peg/wireframe.png" width="45%"/>
   </a>
@@ -35,6 +38,9 @@
   </a>
   <a href="./plans/pb-allen-holder">
     <img src="plans/pb-allen-holder/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/saw-holder">
+    <img src="plans/saw-holder/images/wireframe0.png" width="45%"/>
   </a>
   <a href="./plans/screwdriver-holder">
     <img src="plans/screwdriver-holder/wireframe.png" width="45%"/>
@@ -231,6 +237,9 @@
   </a>
   <a href="./plans/no2-plane-mount">
     <img src="plans/no2-plane-mount/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/pliers-rail">
+    <img src="plans/pliers-rail/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/rabbet-plane-mount">
     <img src="plans/rabbet-plane-mount/images/wireframe0.png" width="45%"/>
