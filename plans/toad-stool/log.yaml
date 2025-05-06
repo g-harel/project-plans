@@ -29,3 +29,10 @@
   task:
     type: "roughing"
     hours: 1.5
+
+- title: "Leg Roughing"
+  description: "Use a jigsaw to cut down 8/4 material into 22\" square prisms. Make sure to prioritize material with straight grain."
+  date: "2025-05-04"
+  task:
+    type: "roughing"
+    hours: 0.75

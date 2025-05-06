@@ -1,28 +1,13 @@
-<!-- 2025-04-29 -->
+<!-- 2025-05-05 -->
 
 # Project Plans
 
 <p align="center">
-  <a href="./plans/tv-console">
-    <img src="plans/tv-console/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/chisel-plane-mount">
-    <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/chisel-plate">
-    <img src="plans/chisel-plate/images/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/generic-peg">
-    <img src="plans/generic-peg/wireframe.png" width="45%"/>
-  </a>
   <a href="./plans/groove-plane-mount">
     <img src="plans/groove-plane-mount/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/grs-holder">
     <img src="plans/grs-holder/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/lip-balm-stand">
-    <img src="plans/lip-balm-stand/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/mitre-ruler-holder">
     <img src="plans/mitre-ruler-holder/wireframe.png" width="45%"/>
@@ -138,6 +123,9 @@
   <a href="./plans/lake-board">
     <img src="plans/lake-board/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/lip-balm-stand">
+    <img src="plans/lip-balm-stand/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/mouse-house">
     <img src="plans/mouse-house/images/wireframe.png" width="45%"/>
   </a>
@@ -166,6 +154,9 @@
 ### mounts
 
 <p align="center">
+  <a href="./plans/chisel-plate">
+    <img src="plans/chisel-plate/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/pb-rail">
     <img src="plans/pb-rail/images/wireframe.png" width="45%"/>
   </a>
@@ -217,6 +208,9 @@
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/generic-peg">
+    <img src="plans/generic-peg/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/jointer-plane-mount">
     <img src="plans/jointer-plane-mount/images/wireframe0.png" width="45%"/>
   </a>
@@ -250,6 +244,9 @@
   <a href="./plans/shooting-plane-mount">
     <img src="plans/shooting-plane-mount/images/wireframe0.png" width="45%"/>
   </a>
+  <a href="./plans/chisel-plane-mount">
+    <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/suizan-hook">
     <img src="plans/suizan-hook/images/wireframe.png" width="45%"/>
   </a>
@@ -258,6 +255,14 @@
   </a>
   <a href="./plans/wood-is-good-hook">
     <img src="plans/wood-is-good-hook/images/wireframe.png" width="45%"/>
+  </a>
+</p>
+
+## repairs
+
+<p align="center">
+  <a href="./plans/tv-console">
+    <img src="plans/tv-console/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
