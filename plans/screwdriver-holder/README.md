@@ -1,10 +1,10 @@
-<!-- 2025-03-03 -->
+<!-- 2025-05-07 -->
 
 <p align="center">
-  <img src="../../plans/screwdriver-holder/wireframe.png" width="40%"/>
+  <img src="../../plans/screwdriver-holder/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
-  screwdriver-holder
+  Screwdriver Holder
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Modular magnetic screwdriver wall storage mount.<sup></sub>
 </h1>

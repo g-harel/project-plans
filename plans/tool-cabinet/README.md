@@ -1,10 +1,10 @@
-<!-- 2024-12-16 -->
+<!-- 2025-05-07 -->
 
 <p align="center">
-  <img src="../../plans/tool-cabinet/wireframe.png" width="40%"/>
+  <img src="../../plans/tool-cabinet/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
-  tool-cabinet
+  Tool Cabinet
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>French-cleat-mounted storage cabinet made of scrap material.<sup></sub>
 </h1>

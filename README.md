@@ -1,4 +1,4 @@
-<!-- 2025-05-05 -->
+<!-- 2025-05-07 -->
 
 # Project Plans
 
@@ -11,21 +11,6 @@
   </a>
   <a href="./plans/mitre-ruler-holder">
     <img src="plans/mitre-ruler-holder/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/pb-allen-holder">
-    <img src="plans/pb-allen-holder/images/wireframe0.png" width="45%"/>
-  </a>
-  <a href="./plans/saw-holder">
-    <img src="plans/saw-holder/images/wireframe0.png" width="45%"/>
-  </a>
-  <a href="./plans/screwdriver-holder">
-    <img src="plans/screwdriver-holder/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/tool-cabinet">
-    <img src="plans/tool-cabinet/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/tool-shelf">
-    <img src="plans/tool-shelf/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -102,6 +87,12 @@
   </a>
   <a href="./plans/sharpening-mount">
     <img src="plans/sharpening-mount/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/tool-cabinet">
+    <img src="plans/tool-cabinet/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/tool-shelf">
+    <img src="plans/tool-shelf/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -229,6 +220,9 @@
   <a href="./plans/no2-plane-mount">
     <img src="plans/no2-plane-mount/images/wireframe0.png" width="45%"/>
   </a>
+  <a href="./plans/pb-allen-holder">
+    <img src="plans/pb-allen-holder/images/wireframe0.png" width="45%"/>
+  </a>
   <a href="./plans/pb-screwdriver-hook">
     <img src="plans/pb-screwdriver-hook/images/wireframe.png" width="45%"/>
   </a>
@@ -237,6 +231,12 @@
   </a>
   <a href="./plans/rabbet-plane-mount">
     <img src="plans/rabbet-plane-mount/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/saw-holder">
+    <img src="plans/saw-holder/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/screwdriver-holder">
+    <img src="plans/screwdriver-holder/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/scrub-plane-mount">
     <img src="plans/scrub-plane-mount/wireframe.png" width="45%"/>
