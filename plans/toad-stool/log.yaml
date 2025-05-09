@@ -31,8 +31,22 @@
     hours: 1.5
 
 - title: "Leg Roughing"
-  description: "Use a jigsaw to cut down 8/4 material into 22\" square prisms. Make sure to prioritize material with straight grain."
+  description: "Use a jigsaw to cut down 8/4 material into 22\" sticks. Make sure to prioritize material with straight grain."
   date: "2025-05-04"
+  task:
+    type: "roughing"
+    hours: 0.75
+
+- title: "Stretcher Roughing"
+  description: "Use a jigsaw to cut down 8/4 material into 16\" sticks. Make sure to prioritize material with straight grain."
+  date: "2025-05-08"
+  task:
+    type: "roughing"
+    hours: 0.5
+
+- title: "Stretcher Sizing"
+  description: "Use a scrub plane to cut down the stretchers to a slightly over 1 1/4\" square profile."
+  date: "2025-05-09"
   task:
     type: "roughing"
     hours: 0.75
