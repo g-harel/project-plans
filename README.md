@@ -1,4 +1,4 @@
-<!-- 2025-05-07 -->
+<!-- 2025-06-02 -->
 
 # Project Plans
 
@@ -151,9 +151,6 @@
   <a href="./plans/pb-rail">
     <img src="plans/pb-rail/images/wireframe.png" width="45%"/>
   </a>
-  <a href="./plans/saddle-mount">
-    <img src="plans/saddle-mount/images/wireframe.png" width="45%"/>
-  </a>
 </p>
 
 ### tools
@@ -232,6 +229,9 @@
   <a href="./plans/rabbet-plane-mount">
     <img src="plans/rabbet-plane-mount/images/wireframe0.png" width="45%"/>
   </a>
+  <a href="./plans/saddle-mount">
+    <img src="plans/saddle-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/saw-holder">
     <img src="plans/saw-holder/images/wireframe0.png" width="45%"/>
   </a>
@@ -246,6 +246,9 @@
   </a>
   <a href="./plans/chisel-plane-mount">
     <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/small-combo-square-mount">
+    <img src="plans/small-combo-square-mount/images/wireframe0.png" width="45%"/>
   </a>
   <a href="./plans/suizan-hook">
     <img src="plans/suizan-hook/images/wireframe.png" width="45%"/>
