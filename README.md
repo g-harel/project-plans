@@ -1,4 +1,4 @@
-<!-- 2025-06-02 -->
+<!-- 2025-06-09 -->
 
 # Project Plans
 
@@ -178,6 +178,9 @@
 ### mounts
 
 <p align="center">
+  <a href="./plans/angle-gauge-mount">
+    <img src="plans/angle-gauge-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/block-plane-mount">
     <img src="plans/block-plane-mount/images/wireframe.png" width="45%"/>
   </a>
@@ -192,6 +195,9 @@
   </a>
   <a href="./plans/dog-mount">
     <img src="plans/dog-mount/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/dovetail-square-mount">
+    <img src="plans/dovetail-square-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/images/wireframe.png" width="45%"/>
@@ -243,6 +249,9 @@
   </a>
   <a href="./plans/shooting-plane-mount">
     <img src="plans/shooting-plane-mount/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/sliding-bevel-mount">
+    <img src="plans/sliding-bevel-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/chisel-plane-mount">
     <img src="plans/chisel-plane-mount/wireframe.png" width="45%"/>
