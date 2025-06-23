@@ -50,3 +50,105 @@
   task:
     type: "roughing"
     hours: 0.75
+
+- title: "Stretchers Layout"
+  description: "Mark the center of the stretcher stock on either end. Use a compass to draw a circle of the intended final radius on either end."
+  retcon: true
+  date: "2025-05-13"
+  task:
+    type: "stretchers"
+    hours: 0.5
+
+- title: "Octagonize Stretchers"
+  description: "Use a handplane with a rough setting to remove material from the long-side corners of the stretchers until they are octagonal."
+  retcon: true
+  date: "2025-05-17"
+  task:
+    type: "stretchers"
+    hours: 1
+
+- title: "Taper Octagonal Stretchers"
+  description: "Use a handplane with a rough setting to taper all faces of the stretchers until they touch the layout marks on the ends. Front stretcher should be double-tapered."
+  retcon: true
+  date: "2025-05-21"
+  task:
+    type: "stretchers"
+    hours: 1
+
+- title: "Round Stretchers"
+  description: "Use a handplane with a rough setting to round the octagonal corners, then a fine setting to refine the shape to a circular surface with no facets."
+  retcon: true
+  date: "2025-05-25"
+  task:
+    type: "stretchers"
+    hours: 1
+
+- title: "Sand Stretchers"
+  description: "Use soft sanding sponges to smooth the stretcher surface until facets are completely removed."
+  retcon: true
+  date: "2025-05-29"
+  task:
+    type: "stretchers"
+    hours: 0.25
+
+- title: "Legs Layout"
+  description: "Mark the center of the stretcher stock on either end. Use a compass to draw a circle of the intended final radius on either end."
+  retcon: true
+  date: "2025-06-03"
+  task:
+    type: "legs"
+    hours: 0.75
+
+- title: "Octagonize Legs"
+  description: "Use a handplane with a rough setting to remove material from the long-side corners of the legs until they are octagonal."
+  retcon: true
+  date: "2025-06-07"
+  task:
+    type: "legs"
+    hours: 1.5
+
+- title: "Taper Octagonal Legs"
+  description: "Use a handplane with a rough setting to taper all faces of the legs until they touch the layout marks on the ends. Front stretcher should be double-tapered."
+  retcon: true
+  date: "2025-06-11"
+  task:
+    type: "legs"
+    hours: 1.5
+
+- title: "Round Legs"
+  description: "Use a handplane with a rough setting to round the octagonal corners, then a fine setting to refine the shape to a circular surface with no facets."
+  retcon: true
+  date: "2025-06-15"
+  task:
+    type: "legs"
+    hours: 1.5
+
+- title: "Sand Legs"
+  description: "Use soft sanding sponges to smooth the stretcher surface until facets are completely removed."
+  retcon: true
+  date: "2025-06-19"
+  task:
+    type: "legs"
+    hours: 0.5
+
+- title: "Milk Paint"
+  description: "16oz Flag Red & 16oz Lily Pad Green @ 11.99"
+  date: "2025-06-22"
+  task:
+    type: "finishing"
+    hours: 0
+  expense:
+    retailer: "rockler.com"
+    amount: 25.00
+    utilization: 0.2
+
+- title: "Milk Paint"
+  description: "16oz Soft White @ 18.99 & 16oz Low Sheen Finishing Cream @ 32.99"
+  date: "2025-06-22"
+  task:
+    type: "finishing"
+    hours: 0
+  expense:
+    retailer: "rockler.com"
+    amount: 57.31
+    utilization: 0.2
