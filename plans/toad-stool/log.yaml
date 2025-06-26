@@ -152,3 +152,10 @@
     retailer: "rockler.com"
     amount: 57.31
     utilization: 0.2
+
+- title: "Leg Joinery"
+  description: "Drill 3x 1\" diameter bores leaning 15deg away from the seat centerline. Use a tenon cutter to cut down the small end of the legs to a 1\" diameter tenon. Hammer the tenon gently to compress the grain and test the fit in the seats."
+  date: "2025-06-25"
+  task:
+    type: "joinery"
+    hours: 1.0
