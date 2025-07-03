@@ -159,3 +159,10 @@
   task:
     type: "joinery"
     hours: 1.0
+
+- title: "Seat Shaping"
+  description: "Use a large chamfer bit to set a baseline on the top of the seat. Using an aggressive sander with 40 grit, carve the profile into a smooth curve by adding facets until it is mostly round. Smooth the profile with a foam interface pad and 80 grit sandpaper."
+  date: "2025-07-03"
+  task:
+    type: "seat"
+    hours: 1.5
