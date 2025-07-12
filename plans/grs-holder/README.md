@@ -1,10 +1,10 @@
-<!-- 2024-08-23 -->
+<!-- 2025-07-07 -->
 
 <p align="center">
-  <img src="../../plans/grs-holder/wireframe.png" width="40%"/>
+  <img src="../../plans/grs-holder/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
-  grs-holder
+  GRS-18 Wall Mount
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Wall mount for the TSO GRS-16 Guide Rail Square.<sup></sub>
 </h1>

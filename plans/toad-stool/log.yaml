@@ -166,3 +166,10 @@
   task:
     type: "seat"
     hours: 1.5
+
+- title: "Stretcher Joinery"
+  description: "Use an elastic band across the legs & a ruler to mark and drill the 5/8\" stretcher holes. Measure the internal dimension using two sticks, then cut the main stretcher to length. Then cut both ends of the stretcher to the round tenon shape. Repeat the process for the secondary stretcher."
+  date: "2025-07-04"
+  task:
+    type: "joinery"
+    hours: 2.0

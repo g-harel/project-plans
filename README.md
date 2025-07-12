@@ -1,18 +1,6 @@
-<!-- 2025-06-09 -->
+<!-- 2025-07-07 -->
 
 # Project Plans
-
-<p align="center">
-  <a href="./plans/groove-plane-mount">
-    <img src="plans/groove-plane-mount/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/grs-holder">
-    <img src="plans/grs-holder/wireframe.png" width="45%"/>
-  </a>
-  <a href="./plans/mitre-ruler-holder">
-    <img src="plans/mitre-ruler-holder/wireframe.png" width="45%"/>
-  </a>
-</p>
 
 ## furniture
 
@@ -61,6 +49,9 @@
   </a>
   <a href="./plans/trotten-top">
     <img src="plans/trotten-top/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/toad-stool">
+    <img src="plans/toad-stool/images/wireframe.png" width="45%"/>
   </a>
 </p>
 
@@ -170,6 +161,9 @@
 ## prints
 
 <p align="center">
+  <a href="./plans/headlamp-shade">
+    <img src="plans/headlamp-shade/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/drill-guide">
     <img src="plans/drill-guide/images/wireframe.png" width="45%"/>
   </a>
@@ -202,6 +196,9 @@
   <a href="./plans/plane-mount">
     <img src="plans/plane-mount/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/grs-holder">
+    <img src="plans/grs-holder/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/generic-peg">
     <img src="plans/generic-peg/images/wireframe.png" width="45%"/>
   </a>
@@ -211,11 +208,17 @@
   <a href="./plans/knew-hook">
     <img src="plans/knew-hook/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/groove-plane-mount">
+    <img src="plans/groove-plane-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/m18-mount">
     <img src="plans/m18-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/marking-hook">
     <img src="plans/marking-hook/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/mitre-ruler-holder">
+    <img src="plans/mitre-ruler-holder/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/no1-plane-mount">
     <img src="plans/no1-plane-mount/images/wireframe0.png" width="45%"/>
@@ -258,6 +261,12 @@
   </a>
   <a href="./plans/small-combo-square-mount">
     <img src="plans/small-combo-square-mount/images/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/hnt-smoother-mount">
+    <img src="plans/hnt-smoother-mount/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/starrett-meter">
+    <img src="plans/starrett-meter/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/suizan-hook">
     <img src="plans/suizan-hook/images/wireframe.png" width="45%"/>

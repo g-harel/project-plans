@@ -1,7 +1,7 @@
-<!-- 2024-07-19 -->
+<!-- 2025-07-07 -->
 
 <h1 align="center">
-  mini-square-mount
+  Mini Square Wall Mount
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Wall mount for the Woodpeckers Mini Square.<sup></sub>
 </h1>

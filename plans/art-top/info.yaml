@@ -1,0 +1,8 @@
+name: "Art Top"
+pitch: "Simple melamine table top with reinforced red oak border."
+category: "furniture"
+materials:
+- "melamine"
+- "red oak"
+finish:
+- "Rubio Pure"

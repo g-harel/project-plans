@@ -1,7 +1,7 @@
-<!-- 2024-07-03 -->
+<!-- 2025-07-07 -->
 
 <h1 align="center">
-  router-plane-mount
+  Router Plane Mount
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Wall mount for the Lie-Nielsen No. 71 Large Router Plane - Closed Throat.<sup></sub>
 </h1>

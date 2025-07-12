@@ -1,7 +1,7 @@
-<!-- 2024-07-03 -->
+<!-- 2025-07-07 -->
 
 <h1 align="center">
-  chisel-mount
+  Chisel Mount
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Generic wall mount for chisels.<sup></sub>
 </h1>

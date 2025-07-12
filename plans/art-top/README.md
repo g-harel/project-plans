@@ -1,7 +1,7 @@
-<!-- 2024-07-03 -->
+<!-- 2025-07-07 -->
 
 <h1 align="center">
-  art-top
+  Art Top
   <br>
-  <sup><sub><sup><sup></sub>
+  <sup><sub><sup>Simple melamine table top with reinforced red oak border.<sup></sub>
 </h1>
