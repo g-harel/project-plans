@@ -1,4 +1,4 @@
-<!-- 2025-07-07 -->
+<!-- 2025-07-22 -->
 
 # Project Plans
 
@@ -136,6 +136,9 @@
 ### mounts
 
 <p align="center">
+  <a href="./plans/scraper-plane-mount">
+    <img src="plans/scraper-plane-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/chisel-plate">
     <img src="plans/chisel-plate/images/wireframe.png" width="45%"/>
   </a>
@@ -175,6 +178,12 @@
   <a href="./plans/angle-gauge-mount">
     <img src="plans/angle-gauge-mount/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/bench-rule-mount">
+    <img src="plans/bench-rule-mount/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/bigcal-mount">
+    <img src="plans/bigcal-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/block-plane-mount">
     <img src="plans/block-plane-mount/images/wireframe.png" width="45%"/>
   </a>
@@ -187,8 +196,14 @@
   <a href="./plans/centrotec-mount">
     <img src="plans/centrotec-mount/images/wireframe.png" width="45%"/>
   </a>
+  <a href="./plans/dividers-mount">
+    <img src="plans/dividers-mount/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/dog-mount">
     <img src="plans/dog-mount/wireframe0.png" width="45%"/>
+  </a>
+  <a href="./plans/dovetail-marker-mount">
+    <img src="plans/dovetail-marker-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/dovetail-square-mount">
     <img src="plans/dovetail-square-mount/images/wireframe.png" width="45%"/>

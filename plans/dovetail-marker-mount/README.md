@@ -1,7 +1,7 @@
-<!-- 2025-06-09 -->
+<!-- 2025-07-13 -->
 
 <p align="center">
-  <img src="../../plans/dovetail-square-mount/images/wireframe.png" width="40%"/>
+  <img src="../../plans/dovetail-marker-mount/images/wireframe.png" width="40%"/>
 </p>
 <h1 align="center">
   Dovetail Square Wall Mount
