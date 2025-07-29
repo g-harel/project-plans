@@ -173,3 +173,17 @@
   task:
     type: "joinery"
     hours: 2.0
+
+- title: "Leg & Stretcher Smoothing"
+  description: "Use sandpaper and rasps to even out the tenon transitions and sand down the legs and stretchers to a smooth finish."
+  date: "2025-07-26"
+  task:
+    type: "sanding"
+    hours: 0.75
+
+- title: "Seat Divets"
+  description: "Mark up where the polka dot divets should be placed and their rough size. Using a ball gouge, cut the divets into the seat. Using sandpaper, smooth out the bottoms of the divets and make their edge even."
+  date: "2025-07-28"
+  task:
+    type: "decoration"
+    hours: 1.5

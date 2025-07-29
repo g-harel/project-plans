@@ -1,0 +1,9 @@
+name: "Cookie Frame"
+pitch: "Small shadow box art frame."
+category: "objects"
+materials:
+ - "1/2\" walnut"
+ - "acrylic"
+ - "poster board"
+finish:
+- "finishing wax"

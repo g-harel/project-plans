@@ -1,4 +1,4 @@
-<!-- 2025-07-22 -->
+<!-- 2025-07-29 -->
 
 # Project Plans
 
@@ -90,6 +90,9 @@
 ## objects
 
 <p align="center">
+  <a href="./plans/cookie-frame">
+    <img src="plans/cookie-frame/images/wireframe.png" width="45%"/>
+  </a>
   <a href="./plans/couch-clamp">
     <img src="plans/couch-clamp/images/wireframe.png" width="45%"/>
   </a>
@@ -225,6 +228,9 @@
   </a>
   <a href="./plans/groove-plane-mount">
     <img src="plans/groove-plane-mount/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/low-angle-jack-mount">
+    <img src="plans/low-angle-jack-mount/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/m18-mount">
     <img src="plans/m18-mount/images/wireframe.png" width="45%"/>
