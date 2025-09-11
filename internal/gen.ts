@@ -177,7 +177,16 @@ const writeRepoReadme = async (plans: Plan[]) => {
       if (r.name) r.name = "#".repeat(r.level + 1) + " " + r.name;
       return r;
     }),
-  });
+  }, (date) => `<!-- ${date} -->`);
+};
+
+const writeDataFile = (plans: Plan[]) => {
+  return writeTemplate(
+    "./internal/templates/plans.mustache",
+    "./plans.json",
+    { json: JSON.stringify(plans) },
+    (_date) => "", // JSON doesn't support comments
+  );
 };
 
 const writeDocs = async (plan: Plan) => {
@@ -202,18 +211,24 @@ const writeDocs = async (plan: Plan) => {
     "./internal/templates/docs.mustache",
     join(plan.path, "README.md"),
     { ...plan, wireframeWidths: Math.min(40, 80 / plan.wireframePaths.length) },
+    (date) => `<!-- ${date} -->`,
   );
 };
 
-const writeTemplate = async (template: string, out: string, args: any) => {
+const writeTemplate = async (
+  templatePath: string,
+  outPath: string,
+  dataContext: any,
+  headerGen: (date: string) => string,
+) => {
   const contents = m.default.render(
-    await Deno.readTextFileSync(template),
-    args,
+    await Deno.readTextFileSync(templatePath),
+    dataContext,
   );
 
   try {
     // Don't write if contents haven't changed.
-    const existingContents = await Deno.readTextFile(out);
+    const existingContents = await Deno.readTextFile(outPath);
     if (
       existingContents
         .replace(/\s/g, "")
@@ -223,9 +238,9 @@ const writeTemplate = async (template: string, out: string, args: any) => {
     // Write if something went wrong or file doesn't exist yet.
   }
 
-  const dateLine = `<!-- ${new Date().toISOString().slice(0, 10)} -->`;
-  const formatted = dateLine + "\n\n" + contents.trim() + "\n";
-  await Deno.writeTextFile(out, formatted);
+  const header = headerGen(new Date().toISOString().slice(0, 10));
+  const formatted = header + "\n\n" + contents.trim() + "\n";
+  await Deno.writeTextFile(outPath, formatted);
 };
 
 interface Tree<T> {
@@ -276,4 +291,5 @@ const parse = <T>(
 
 const plans = await getPlans();
 await writeRepoReadme(plans);
+await writeDataFile(plans);
 await Promise.all(plans.map(writeDocs));
