@@ -239,7 +239,7 @@ const writeTemplate = async (
   }
 
   const header = headerGen(new Date().toISOString().slice(0, 10));
-  const formatted = header + "\n\n" + contents.trim() + "\n";
+  const formatted = (header + "\n\n" + contents).trim() + "\n";
   await Deno.writeTextFile(outPath, formatted);
 };
 
