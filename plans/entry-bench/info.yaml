@@ -1,0 +1,9 @@
+name: "Entry Bench"
+inProgress: true
+pitch: "Walnut bench with room for storage baskets under the seat."
+category: "furniture"
+materials:
+- "6/4 Walnut"
+- "4/4 Walnut"
+finish:
+- "Rubio Monocoat Oil Plus 2C - Walnut"

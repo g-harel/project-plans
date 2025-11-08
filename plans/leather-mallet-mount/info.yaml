@@ -1,0 +1,9 @@
+name: "Cube Mallet Mount"
+pitch: "Wall mount for the Blue Spruce Toolworks Leather Assembly Mallet"
+inProgress: true
+hidden: true
+links:
+- "https://bluesprucetoolworks.com/products/leather-assembly-mallet"
+category: "prints > mounts"
+materials:
+- "PLA"

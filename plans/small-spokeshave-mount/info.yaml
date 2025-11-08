@@ -1,0 +1,9 @@
+name: "Small Spokeshave Mount"
+pitch: "Wall mount for the HNT Gordon Small Curved Spokeshave"
+inProgress: true
+hidden: true
+links:
+- "https://www.heartwoodtools.com/hntgordon/small-curved-spokeshave"
+category: "prints > mounts"
+materials:
+- "PLA"

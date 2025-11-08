@@ -1,9 +1,6 @@
 {
   "name": "Bookshelf",
   "category": "furniture",
-  "introduction": {
-    "body": [""]
-  },
   "supplies": {
     "body": [""],
     "materials": [

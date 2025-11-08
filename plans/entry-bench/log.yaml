@@ -1,0 +1,15 @@
+- title: "S2S Lumber"
+  description: "4/4 and 6/4 Clear Walnut"
+  date: "2025-10-18"
+  task:
+    hours: 2.0
+  expense:
+    retailer: "Owl Hardwood"
+    amount: 310.04
+    utilization: 1.0
+
+- title: "Bench Seat Glue-up"
+  description: "Select pleasing arrangement of 6/4 boards that will produce a 4x1' panel. Joint edges, add alignment aids and glue together."
+  date: "2025-11-08"
+  task:
+    hours: 1.0

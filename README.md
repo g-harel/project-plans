@@ -1,6 +1,7 @@
-<!-- 2025-07-29 -->
+<!-- 2025-11-08 -->
 
 # Project Plans
+
 
 ## furniture
 
@@ -139,8 +140,8 @@
 ### mounts
 
 <p align="center">
-  <a href="./plans/scraper-plane-mount">
-    <img src="plans/scraper-plane-mount/images/wireframe.png" width="45%"/>
+  <a href="./plans/scraper-plane-shelf">
+    <img src="plans/scraper-plane-shelf/images/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/chisel-plate">
     <img src="plans/chisel-plate/images/wireframe.png" width="45%"/>

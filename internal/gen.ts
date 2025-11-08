@@ -85,7 +85,7 @@ const LogItem = z.object({
   date: z.string().date(),
   retcon: z.boolean().optional(),
   task: z.object({
-    type: z.string(),
+    type: z.string().optional(),
     hours: z.number(),
   }),
   expense: z.object({
@@ -122,7 +122,7 @@ const getPlans = async (): Promise<Plan[]> => {
       info = Object.assign(info, (parseAll(infoFile) as any)[0]);
     } catch (e) {
       if ((e instanceof Deno.errors.NotFound)) {
-        console.log("missing info: " + dir);
+        console.log("%cmissing info: " + dir, "color: orange");
       } else {
         console.error(path, e);
       }
@@ -130,7 +130,7 @@ const getPlans = async (): Promise<Plan[]> => {
 
     if (wireframePaths.length === 0) {
       if (!info.hidden) {
-        console.log(`missing wireframes: ${dir}`);
+        console.log(`%cmissing wireframes: ${dir}`, "color: orange");
       }
     }
 
@@ -203,9 +203,7 @@ const writeDocs = async (plan: Plan) => {
       cost += (log.expense?.amount || 0) * (log.expense?.utilization || 1);
     }
     // TODO 2024-10-01 show in output.
-    console.log(plan.info.name);
-    console.log("  hours: ", hours);
-    console.log("  cost: ", cost);
+    console.log(`${plan.info.name} ${hours.toFixed(2)}h $${cost.toFixed(2)}`);
   }
   await writeTemplate(
     "./internal/templates/docs.mustache",
