@@ -1,5 +1,8 @@
-<!-- 2025-11-08 -->
+<!-- 2025-11-29 -->
 
+<p align="center">
+  <img src="../../plans/entry-bench/wireframe.png" width="40%"/>
+</p>
 <h1 align="center">
   Entry Bench
   <br>

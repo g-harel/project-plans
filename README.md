@@ -1,4 +1,4 @@
-<!-- 2025-11-08 -->
+<!-- 2025-11-29 -->
 
 # Project Plans
 
@@ -26,6 +26,9 @@
   </a>
   <a href="./plans/console-organizer">
     <img src="plans/console-organizer/images/wireframe.png" width="45%"/>
+  </a>
+  <a href="./plans/entry-bench">
+    <img src="plans/entry-bench/wireframe.png" width="45%"/>
   </a>
   <a href="./plans/picto-console">
     <img src="plans/picto-console/jigs/blum-hinge-pad/wireframe.png" width="45%"/>
