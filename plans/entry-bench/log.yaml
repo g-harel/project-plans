@@ -20,8 +20,14 @@
   task:
     hours: 1.0
 
-- title: "Template Copying part 1/2"
+- title: "Template Copying"
   description: "Use the quadrant templates to duplicate them three more times on more 1/2\" MDF. Remember to use a center punch to mark the leg holes in the seat quadrants."
   date: "2025-12-02"
   task:
-    hours: 1.0
+    hours: 1.25
+
+- title: "Template Assembly"
+  description: ""
+  date: "2025-12-04"
+  task:
+    hours: 1.25
