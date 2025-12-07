@@ -9,7 +9,7 @@
     utilization: 1.0
 
 - title: "Bench Seat Glue-up"
-  description: "Select pleasing arrangement of 6/4 boards that will produce a 4x1' panel. Joint edges, add alignment aids and glue together."
+  description: "Select pleasing arrangement of 6/4 boards that will produce a 4x1' panel. Joint edges, add alignment aids, and glue together."
   date: "2025-11-08"
   task:
     hours: 1.0
@@ -27,7 +27,13 @@
     hours: 1.25
 
 - title: "Template Assembly"
-  description: ""
+  description: "Glue the quadrants together into a template for the seat and another for the shelf. It may be helpful to use alignment aids."
   date: "2025-12-04"
   task:
     hours: 1.25
+
+- title: "Select pleasing arrangement of boards for the shelf ensuring that the sections that will join to the legs are straight grain. Rip, joint, add alignment aids, and glue the boards together into a panel. "
+  description: "1.75"
+  date: "2025-12-06"
+  task:
+    hours: 1.75
