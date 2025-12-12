@@ -32,8 +32,15 @@
   task:
     hours: 1.25
 
-- title: "Select pleasing arrangement of boards for the shelf ensuring that the sections that will join to the legs are straight grain. Rip, joint, add alignment aids, and glue the boards together into a panel. "
-  description: "1.75"
+- title: "Shelf Glue-up"
+  description: "Select pleasing arrangement of boards for the shelf ensuring that the sections that will join to the legs are straight grain. Rip, joint, add alignment aids, and glue the boards together into a panel."
   date: "2025-12-06"
   task:
     hours: 1.75
+
+- title: "Shelf Joint Fix"
+  description: "Re-cut the mating sufaces of the final shelf glue-up and assemble like before."
+  date: "2025-12-11"
+  task:
+    type: "whoopsie"
+    hours: 0.5
