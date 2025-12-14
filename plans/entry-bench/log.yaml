@@ -44,3 +44,22 @@
   task:
     type: "whoopsie"
     hours: 0.5
+
+- title: "Template Routing"
+  description: "Use templates to mark the rough stock/panels and cut the pieces out with a jigsaw. Stick the templates to the pieces and use a bearing-guided router bit to duplicate the templates."
+  date: "2025-12-12"
+  task:
+    hours: 3.0
+
+- title: "Leg Fixes"
+  description: "Use a handplane to flatten areas that broke from the leg pieces during template routing and glue a similar color/grain piece from the off-cut pile."
+  date: "2025-12-14"
+  task:
+    type: "whoopsie"
+    hours: 1.0
+
+- title: "Panel Flattening"
+  description: "Use 40grit and an aggressive sander to flatten the seat and shelf panel seams. Follow-up with 120grit until previous scratches are removed."
+  date: "2025-12-14"
+  task:
+    hours: 0.5
