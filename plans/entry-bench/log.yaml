@@ -63,3 +63,23 @@
   date: "2025-12-14"
   task:
     hours: 0.5
+
+- title: "Leg Fixes 2"
+  description: "Cut off as much of the extra leg fixes as possible using a coping saw. Re-attach the template and route those sections again in multiple passes."
+  date: "2025-12-15"
+  task:
+    type: "whoopsie"
+    hours: 1.0
+
+- title: "Rough Seat Rounding"
+  description: "Use as large of a radius router bit as possible to fillet the top of the bench. Using an aggressive sander and 40grit, make the curve even larger, then blend the curve into the top over a long wide area."
+  date: "2025-12-18"
+  task:
+    hours: 1.0
+
+- title: "Leg Chatter Fix"
+  description: "Use tape as a dam and add a generous amount of wood filler to fill any router chatter in the legs. Once dry, use a rasp to smooth the radius."
+  date: "2025-12-19"
+  task:
+    type: "whoopsie"
+    hours: 0.25
