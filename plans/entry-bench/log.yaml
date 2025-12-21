@@ -83,3 +83,9 @@
   task:
     type: "whoopsie"
     hours: 0.25
+
+- title: "Leg & Shelf Rounding"
+  description: "Use a roundover bit with half the thickness of the stock to route all the edges of the leg and shelf pieces. Avoid joint surfaces."
+  date: "2025-12-18"
+  task:
+    hours: 1.0
