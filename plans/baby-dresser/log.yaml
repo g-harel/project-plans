@@ -1,0 +1,15 @@
+- title: "Raw Materials"
+  description: "18, 15, and 12mm baltic birch plywood. 3/4\" MDF. 6/4 Walnut"
+  date: "2026-01-10"
+  task:
+    hours: 3.5
+  expense:
+    retailer: "Owl Hardwood"
+    amount: 1092.97
+    utilization: 1.0
+
+- title: "Inner Shell"
+  description: "Cut inner shell pieces to length & width from 18mm birch."
+  date: "2026-01-10"
+  task:
+    hours: 1.0
