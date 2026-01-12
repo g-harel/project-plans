@@ -8,8 +8,20 @@
     amount: 1092.97
     utilization: 1.0
 
-- title: "Inner Shell"
-  description: "Cut inner shell pieces to length & width from 18mm birch."
+- title: "Frame Parts"
+  description: "Cut frame pieces to length & width from 18mm birch."
   date: "2026-01-10"
   task:
-    hours: 1.0
+    hours: 1.25
+
+- title: "Frame Joinery"
+  description: "Clamp frame panels together and drill counter-sunk screw holes 3x per joint."
+  date: "2026-01-11"
+  task:
+    hours: 2.25
+
+- title: "Frame Assembly"
+  description: "Sand each frame part to 180 grit. Add glue to joint surfaces and assemble."
+  date: "2026-01-11"
+  task:
+    hours: 1.25
