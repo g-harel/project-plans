@@ -1,3 +1,13 @@
+- title: "Laminate"
+  description: "4x8\" Formica laminate sheet - Mojave, Matte"
+  date: "2026-01-06"
+  task:
+    hours: 0
+  expense:
+    retailer: "cabinetparts.com"
+    amount: 144.91
+    utilization: 0.5
+
 - title: "Raw Materials"
   description: "18, 15, and 12mm baltic birch plywood. 3/4\" MDF. 6/4 Walnut"
   date: "2026-01-10"
@@ -6,7 +16,7 @@
   expense:
     retailer: "Owl Hardwood"
     amount: 1092.97
-    utilization: 1.0
+    utilization: 0.7
 
 - title: "Frame Parts"
   description: "Cut frame pieces to length & width from 18mm birch."
@@ -25,3 +35,19 @@
   date: "2026-01-11"
   task:
     hours: 1.25
+
+- title: "Hardware"
+  description: "6x 18\" Blum Movento drawer slide pairs."
+  date: "2026-01-11"
+  task:
+    hours: 0
+  expense:
+    retailer: "Lee Valley"
+    amount: 358.87
+    utilization: 1.0
+
+- title: "Drawer Parts (1/3)"
+  description: "Carefully lay out, then cut all the drawer parts."
+  date: "2026-01-13"
+  task:
+    hours: 1.0
