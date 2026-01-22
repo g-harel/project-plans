@@ -47,7 +47,19 @@
     utilization: 1.0
 
 - title: "Drawer Parts (1/3)"
-  description: "Carefully lay out, then cut all the drawer parts."
+  description: "Carefully lay out, then cut all drawer parts."
   date: "2026-01-13"
+  task:
+    hours: 1.0
+
+- title: "Drawer Parts (2/3)"
+  description: "Carefully lay out, then cut more drawer parts."
+  date: "2026-01-15"
+  task:
+    hours: 1.0
+
+- title: "Drawer Parts (3/3)"
+  description: "Carefully lay out, then cut remaining drawer parts."
+  date: "2026-01-16"
   task:
     hours: 1.0
