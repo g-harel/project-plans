@@ -36,7 +36,7 @@
   task:
     hours: 1.25
 
-- title: "Hardware"
+- title: "Drawer Hardware"
   description: "6x 18\" Blum Movento drawer slide pairs."
   date: "2026-01-11"
   task:
@@ -87,3 +87,13 @@
   date: "2026-01-24"
   task:
     hours: 2.5
+
+- title: "Lateral Stabilizer Set"
+  description: "2 x Movento Lateral Stabilizer Set"
+  date: "2026-01-24"
+  task:
+    hours: 0
+  expense:
+    retailer: "cabinetparts.com"
+    amount: 109.43
+    utilization: 1
