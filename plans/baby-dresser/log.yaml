@@ -63,3 +63,27 @@
   date: "2026-01-16"
   task:
     hours: 1.0
+
+- title: "Drawer Parts Sanding"
+  description: "Sand all the drawer parts to 180 grit."
+  date: "2026-01-22"
+  task:
+    hours: 1.25
+
+- title: "Drawer Assembly Prototype"
+  description: "Prototype process to assemble drawers (with glue and nails) while assembling the first one."
+  date: "2026-01-23"
+  task:
+    hours: 1.0
+
+- title: "Drawer Mounting Prototype"
+  description: "Figure out installation procedure for drawer slides and mount the first one."
+  date: "2026-01-24"
+  task:
+    hours: 0.5
+
+- title: "Drawer Assembly"
+  description: "Assemble remaining drawers."
+  date: "2026-01-24"
+  task:
+    hours: 2.5
