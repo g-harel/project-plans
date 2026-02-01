@@ -97,3 +97,21 @@
     retailer: "cabinetparts.com"
     amount: 109.43
     utilization: 1
+
+- title: "Drawer Finishing Prototype"
+  description: "Figure out final cleanup & sanding procedure for drawers and do the first one."
+  date: "2026-01-25"
+  task:
+    hours: 1.0
+
+- title: "Glue Cleanup"
+  description: "Using a sharp plane blade, remove glue from the inside of the drawer corners."
+  date: "2026-01-31"
+  task:
+    hours: 1.25
+
+- title: "Drawer Sanding"
+  description: "Flush out the drawer panel joints with a chisel, then fill in the nail holes with wood filler. Finally, sand all the exposed edges/surfaces to 180 grit."
+  date: "2026-01-31"
+  task:
+    hours: 1.5
