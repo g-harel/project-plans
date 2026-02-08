@@ -111,7 +111,25 @@
     hours: 1.25
 
 - title: "Drawer Sanding"
-  description: "Flush out the drawer panel joints with a chisel, then fill in the nail holes with wood filler. Finally, sand all the exposed edges/surfaces to 180 grit."
+  description: "Flush out the drawer panel joints with a chisel, then fill in the nail holes with wood filler. Drill the Blum shelf hardware holes. Finally, sand all the exposed edges/surfaces to 180 grit."
   date: "2026-01-31"
   task:
     hours: 1.5
+
+- title: "Drawer Cleaning"
+  description: "Use a vacuum and then a swiffer duster insert to remove all the fine dust from the drawers."
+  date: "2026-02-03"
+  task:
+    hours: 1.25
+
+- title: "Frame Sanding"
+  description: "Sand the edges to 120 grit, then break the corners with 120 grit, and finally sand the edges to 180 grit. Use a vacuum to remove all the fine dust from the frame."
+  date: "2026-02-05"
+  task:
+    hours: 0.75
+
+- title: "Drawer Installation"
+  description: "Cut a piece of scrap to 270mm then, place mark, drill and install the drawer slides for the bottom four drawers."
+  date: "2026-02-06"
+  task:
+    hours: 0.75
